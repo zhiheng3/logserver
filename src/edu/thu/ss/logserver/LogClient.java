@@ -32,15 +32,15 @@ public class LogClient implements Runnable {
                 String[] __request_string = splitString(str);
                 switch(__request_string[0]){
 	            	case "0":
-	            		long __timestmp = System.currentTimeMillis();
+	            		long __timestmp = Long.parseLong(__request_string[1]);
 	            		Type __Type;
-	            		if(__request_string[3].equals("0")){
+	            		if(__request_string[4].equals("0")){
 	            			__Type = Type.Enter;
 	            		}
 	            		else {
 							__Type = Type.Leave;
 						}
-	            		WriteRequest __w_request = new WriteRequest(__timestmp, __request_string[1], __request_string[2], __Type);
+	            		WriteRequest __w_request = new WriteRequest(__timestmp, __request_string[2], __request_string[3], __Type);
 	            		queue.add(__w_request);
 	            		break;
 	            	case "1":
