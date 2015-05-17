@@ -19,6 +19,15 @@ public class LogServer {
 	}
 
 	public void start() {
+		try {
+			File logfile = new File("log.txt");
+			if (logfile.exists()) {
+				logfile.delete();
+			}
+			logfile.createNewFile();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 		while (true) {
 			try {
 				Request request = queue.take();
