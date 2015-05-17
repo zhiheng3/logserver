@@ -1,9 +1,10000 @@
-0 mike 1 0
-0 jack 2 0
-0 rose 3 0
-0 frank 4 0
+1
+0 Jim 7 0
+2 Jim
+2 Kaz
+4 1431854195697 1431859809078
+4 1431850550697 1431859805433
+0 Matt 6 0
+2 Matt
+0 Matt 6 1
+4 1431856916697 1431859811799
+0 Rock 7 0
+0 Kaz 0 0
+4 1431854382697 1431859809265
+0 Rock 7 1
+0 Matt 8 0
+0 Matt 8 1
+0 Nacy 6 0
+2 Nacy
+1
+2 Jack
+0 Matt 5 0
+0 Nacy 1 0
+1
+0 Nacy 6 1
+4 1431855752697 1431859810635
+0 Jim 7 1
+0 Jim 8 0
+0 Jim 8 1
+0 Jack 7 0
+4 1431851028697 1431859805911
+0 Kaz 0 1
+1
+2 Jack
+0 Nacy 0 0
+0 Jim 8 0
+1
+0 Kaz 1 0
+2 Jack
+0 Jim 8 1
+0 Mike 5 0
+1
+0 Jim 8 0
+1
+2 Jim
+0 Jim 8 1
+2 Jack
+0 Kaz 1 1
+4 1431851288697 1431859806171
+2 Rock
+0 Matt 5 1
+0 Jim 0 1
+2 Matt
+0 Jack 7 1
+0 Mike 5 1
+0 Matt 6 0
+4 1431851158697 1431859806041
+0 Rock 0 0
+2 Jim
+0 Kaz 2 0
+0 Matt 6 1
+0 Matt 1 0
+0 Matt 1 1
+4 1431857108698 1431859811992
+0 Jack 1 1
+0 Mike 4 0
+4 1431850739698 1431859805623
+0 Matt 1 0
+3 Matt 5
+0 Jim 3 0
+0 Jack 2 0
+4 1431852711698 1431859807595
+3 Jack 0
+4 1431852160698 1431859807044
+1
+0 Nacy 7 0
+3 Nacy 3
+0 Nacy 0 1
+2 Nacy
+0 Rock 0 1
+2 Mike
 1
 1
-2 mike
-3 jack 0
-4 20150501121212 20241331441
+0 Jack 5 0
+4 1431853088698 1431859807972
+0 Mike 4 1
+0 Matt 1 1
+1
+0 Nacy 3 0
+0 Mike 5 0
+0 Jack 2 1
+2 Jim
+1
+0 Matt 2 0
+0 Jim 3 1
+0 Kaz 2 1
+0 Jack 7 1
+3 Rock 4
+0 Matt 2 1
+1
+0 Nacy 3 1
+4 1431852890698 1431859807774
+0 Kaz 6 0
+4 1431850108698 1431859804992
+4 1431855954698 1431859810838
+0 Mike 4 0
+2 Matt
+0 Rock 8 0
+3 Jack 2
+0 Jack 7 0
+4 1431852831698 1431859807715
+2 Kaz
+0 Nacy 7 0
+0 Jim 7 0
+0 Matt 2 0
+0 Jim 7 1
+0 Matt 2 1
+1
+0 Matt 6 0
+4 1431854580698 1431859809464
+4 1431850750698 1431859805634
+0 Jim 1 0
+3 Kaz 3
+1
+2 Mike
+4 1431854468698 1431859809352
+0 Kaz 6 1
+0 Mike 5 0
+0 Nacy 1 0
+2 Rock
+4 1431856934699 1431859811819
+0 Jim 1 1
+0 Mike 5 1
+2 Nacy
+0 Kaz 6 0
+0 Rock 8 1
+0 Jack 1 0
+2 Jim
+2 Rock
+4 1431853540699 1431859808425
+1
+1
+0 Kaz 6 1
+0 Rock 7 0
+2 Nacy
+0 Kaz 8 0
+2 Rock
+1
+2 Nacy
+0 Nacy 7 1
+0 Jack 7 1
+4 1431855268699 1431859810153
+4 1431854239699 1431859809124
+0 Matt 6 1
+1
+2 Kaz
+0 Jack 1 0
+0 Mike 3 0
+4 1431854155699 1431859809040
+1
+0 Rock 1 0
+0 Jim 7 0
+0 Jim 7 1
+0 Mike 3 1
+0 Kaz 8 1
+0 Jim 6 0
+4 1431851482699 1431859806367
+2 Mike
+0 Matt 0 0
+0 Nacy 6 0
+0 Jim 6 1
+2 Nacy
+0 Kaz 8 0
+1
+0 Mike 7 0
+0 Rock 7 1
+3 Mike 8
+0 Matt 0 1
+1
+0 Jim 0 0
+0 Matt 3 0
+0 Rock 4 0
+1
+0 Jack 1 1
+2 Nacy
+2 Jim
+1
+0 Kaz 8 1
+0 Matt 3 1
+1
+0 Jack 3 0
+2 Kaz
+0 Jack 3 1
+2 Kaz
+0 Kaz 8 0
+2 Nacy
+2 Rock
+4 1431853698699 1431859808583
+2 Jim
+0 Nacy 6 1
+0 Kaz 8 1
+4 1431859108699 1431859813993
+0 Jack 4 0
+0 Jack 2 0
+4 1431851762699 1431859806647
+0 Kaz 5 0
+0 Jim 0 1
+0 Mike 7 1
+0 Mike 7 0
+0 Rock 4 1
+1
+0 Matt 5 0
+0 Mike 7 1
+0 Matt 5 1
+0 Kaz 5 1
+0 Jim 1 0
+4 1431850227699 1431859805112
+1
+0 Rock 1 0
+4 1431855942699 1431859810827
+0 Jim 0 0
+0 Nacy 0 0
+2 Rock
+2 Kaz
+0 Jim 1 1
+3 Rock 7
+2 Kaz
+0 Kaz 5 0
+0 Matt 7 0
+0 Kaz 5 1
+0 Rock 1 1
+0 Mike 7 0
+0 Jim 2 0
+0 Matt 7 1
+2 Kaz
+0 Mike 7 1
+0 Matt 8 0
+4 1431854700700 1431859809586
+1
+0 Mike 2 0
+0 Matt 8 1
+4 1431856389700 1431859811275
+4 1431853250700 1431859808136
+0 Jack 4 1
+0 Jim 2 1
+4 1431853464700 1431859808350
+0 Mike 2 1
+3 Jack 2
+0 Jack 0 0
+0 Jack 0 1
+0 Mike 4 1
+0 Nacy 0 1
+4 1431856746700 1431859811632
+0 Jim 2 0
+0 Matt 7 0
+0 Kaz 3 0
+0 Rock 4 0
+0 Rock 4 1
+1
+0 Matt 7 1
+4 1431850439700 1431859805325
+0 Kaz 3 1
+1
+0 Jack 0 0
+4 1431856164700 1431859811050
+0 Rock 3 0
+1
+0 Mike 1 0
+0 Nacy 4 0
+1
+0 Jack 0 1
+0 Jim 2 1
+0 Matt 1 0
+1
+3 Nacy 1
+2 Jack
+0 Rock 3 1
+3 Jack 4
+0 Nacy 4 1
+0 Jack 3 0
+2 Mike
+0 Jim 0 0
+4 1431856915700 1431859811801
+0 Jack 3 1
+0 Nacy 2 0
+2 Jack
+0 Jim 0 1
+0 Mike 1 1
+0 Matt 1 1
+2 Nacy
+0 Rock 5 0
+0 Nacy 2 1
+2 Jack
+0 Nacy 8 0
+0 Nacy 8 1
+1
+0 Jim 1 0
+0 Mike 7 0
+0 Nacy 5 0
+0 Kaz 7 0
+0 Rock 5 1
+0 Mike 7 1
+0 Matt 0 0
+0 Matt 7 0
+0 Nacy 5 1
+0 Jack 2 0
+0 Rock 2 0
+2 Nacy
+0 Nacy 8 0
+0 Rock 2 1
+0 Nacy 8 1
+0 Nacy 6 0
+2 Jack
+0 Rock 7 1
+3 Mike 5
+0 Matt 0 1
+0 Kaz 7 1
+0 Nacy 6 1
+3 Rock 6
+0 Mike 7 0
+2 Mike
+2 Mike
+0 Rock 5 0
+0 Jack 5 0
+0 Matt 6 0
+1
+0 Rock 4 0
+0 Kaz 6 0
+0 Kaz 6 1
+3 Matt 5
+0 Jack 2 1
+1
+0 Nacy 7 0
+0 Rock 5 1
+0 Kaz 2 0
+0 Mike 7 1
+0 Jack 3 1
+0 Mike 6 0
+3 Matt 0
+0 Nacy 7 1
+4 1431859203700 1431859814089
+0 Mike 6 1
+4 1431851377700 1431859806263
+0 Mike 8 0
+0 Nacy 6 0
+1
+0 Jim 1 1
+0 Mike 2 0
+0 Nacy 6 1
+0 Nacy 4 0
+1
+0 Jack 3 0
+0 Matt 2 0
+3 Mike 7
+3 Mike 6
+0 Rock 1 0
+0 Kaz 2 1
+0 Kaz 2 0
+0 Matt 6 1
+0 Jim 7 0
+4 1431850982701 1431859805869
+0 Kaz 2 1
+0 Jack 3 1
+0 Nacy 4 1
+1
+0 Jim 7 1
+0 Matt 2 0
+0 Kaz 3 1
+0 Nacy 6 1
+4 1431858109701 1431859812996
+0 Jim 8 0
+0 Rock 1 1
+0 Jack 1 0
+0 Jack 1 1
+0 Jack 2 0
+0 Mike 8 1
+0 Rock 5 0
+3 Matt 0
+0 Jack 2 1
+0 Mike 2 0
+0 Matt 2 1
+2 Rock
+0 Nacy 3 0
+1
+1
+3 Rock 4
+0 Rock 5 1
+0 Jack 8 0
+0 Kaz 0 0
+0 Matt 0 0
+1
+1
+2 Kaz
+1
+0 Mike 2 1
+0 Nacy 3 1
+1
+0 Jack 8 1
+0 Kaz 0 1
+0 Matt 0 1
+1
+0 Jack 1 0
+4 1431856812701 1431859811699
+0 Mike 8 0
+3 Matt 7
+3 Mike 7
+0 Nacy 1 0
+0 Mike 8 1
+4 1431852088702 1431859806976
+0 Matt 7 0
+0 Jim 8 1
+0 Jim 8 0
+0 Kaz 4 0
+1
+0 Nacy 1 1
+0 Mike 4 0
+3 Jim 6
+4 1431857144702 1431859812032
+1
+0 Kaz 4 1
+0 Mike 4 1
+0 Jim 8 1
+0 Matt 7 1
+0 Matt 4 0
+2 Rock
+0 Jack 1 1
+3 Nacy 7
+0 Rock 2 0
+0 Rock 2 1
+0 Kaz 0 0
+0 Jim 0 0
+0 Jim 0 1
+0 Kaz 0 1
+0 Rock 2 0
+4 1431850861702 1431859805749
+1
+0 Rock 2 1
+0 Jim 6 0
+4 1431858678703 1431859813567
+0 Mike 0 0
+2 Mike
+1
+0 Rock 2 0
+0 Rock 2 1
+3 Mike 3
+2 Mike
+0 Jack 0 0
+0 Jim 6 1
+3 Mike 6
+0 Mike 0 1
+3 Matt 2
+0 Jim 8 0
+4 1431850292703 1431859805181
+4 1431854495703 1431859809384
+1
+4 1431857190703 1431859812079
+0 Jack 0 1
+0 Mike 3 0
+0 Rock 7 0
+2 Matt
+4 1431851861703 1431859806750
+0 Nacy 6 0
+0 Jack 0 0
+0 Kaz 3 0
+2 Nacy
+0 Mike 3 1
+0 Matt 4 1
+0 Jack 0 1
+1
+3 Matt 8
+1
+2 Jack
+0 Jim 8 1
+0 Matt 4 0
+0 Rock 4 0
+0 Rock 7 1
+3 Kaz 2
+1
+1
+3 Mike 4
+0 Matt 4 1
+3 Nacy 1
+0 Rock 0 0
+0 Mike 8 0
+4 1431858895703 1431859813784
+0 Matt 7 0
+0 Rock 0 1
+0 Jim 8 0
+0 Nacy 6 1
+0 Jack 1 0
+1
+0 Matt 7 1
+0 Rock 4 0
+0 Mike 8 1
+0 Jack 1 1
+0 Matt 1 0
+0 Rock 4 1
+3 Jack 1
+1
+0 Jack 0 0
+0 Kaz 8 0
+0 Kaz 3 1
+0 Kaz 2 0
+0 Nacy 8 0
+0 Nacy 8 1
+3 Mike 2
+0 Kaz 2 1
+0 Jim 3 0
+0 Nacy 6 0
+0 Mike 2 0
+2 Jack
+3 Kaz 5
+0 Jim 8 1
+0 Nacy 6 1
+0 Kaz 8 0
+0 Jim 5 0
+0 Kaz 8 1
+0 Jack 0 1
+0 Rock 6 0
+0 Matt 1 1
+3 Rock 7
+4 1431859480703 1431859814369
+0 Jack 7 0
+1
+0 Kaz 3 0
+0 Kaz 3 1
+4 1431855458703 1431859810347
+0 Matt 4 0
+0 Matt 4 1
+0 Rock 4 0
+0 Jack 7 1
+1
+4 1431854969704 1431859809859
+1
+4 1431858557704 1431859813447
+4 1431854010704 1431859808900
+4 1431854726704 1431859809616
+3 Rock 2
+0 Nacy 7 0
+0 Jim 5 1
+0 Jim 1 0
+0 Nacy 7 1
+0 Kaz 4 0
+2 Jack
+0 Rock 6 1
+0 Kaz 4 1
+0 Mike 2 1
+4 1431857382704 1431859812272
+1
+0 Nacy 5 0
+0 Mike 5 0
+0 Nacy 5 1
+3 Nacy 0
+0 Jack 1 0
+0 Matt 3 0
+2 Jack
+0 Mike 5 1
+0 Matt 4 0
+0 Rock 4 1
+2 Mike
+1
+1
+0 Matt 3 1
+4 1431852142704 1431859807032
+0 Rock 3 0
+4 1431850029704 1431859804919
+3 Nacy 4
+2 Mike
+0 Kaz 5 0
+0 Rock 3 1
+0 Rock 3 0
+0 Matt 1 0
+0 Nacy 5 0
+0 Matt 1 1
+0 Mike 1 0
+0 Matt 3 0
+0 Nacy 5 1
+0 Jim 1 1
+3 Jack 0
+0 Matt 4 0
+0 Kaz 5 1
+1
+0 Matt 3 1
+4 1431851196704 1431859806086
+2 Jim
+0 Jim 3 1
+4 1431852410704 1431859807300
+3 Kaz 5
+0 Mike 1 1
+0 Kaz 4 0
+2 Jim
+0 Nacy 8 0
+4 1431850969704 1431859805859
+3 Rock 3
+0 Mike 2 0
+1
+0 Jim 0 0
+1
+0 Matt 1 0
+3 Mike 3
+4 1431858393704 1431859813283
+0 Nacy 8 1
+0 Mike 2 1
+0 Jim 0 1
+0 Jim 4 0
+0 Matt 1 1
+0 Kaz 4 1
+0 Matt 2 0
+0 Matt 2 1
+0 Mike 8 0
+0 Rock 3 1
+0 Nacy 0 0
+0 Rock 7 0
+0 Mike 8 1
+1
+0 Nacy 0 1
+0 Jack 1 1
+1
+0 Kaz 7 0
+0 Jim 4 1
+0 Jack 4 0
+0 Matt 3 0
+3 Mike 5
+1
+0 Jack 4 1
+0 Kaz 7 1
+1
+0 Matt 3 1
+3 Mike 3
+2 Kaz
+0 Jim 5 0
+1
+0 Jim 5 1
+0 Kaz 2 0
+3 Jim 8
+0 Rock 7 1
+0 Rock 2 0
+0 Rock 2 1
+2 Rock
+0 Jack 1 0
+3 Mike 8
+0 Rock 7 0
+0 Matt 6 0
+0 Mike 1 0
+0 Jim 0 0
+0 Rock 7 1
+4 1431855505704 1431859810395
+4 1431859606704 1431859814496
+0 Matt 6 1
+0 Kaz 2 1
+3 Jack 2
+2 Matt
+0 Matt 1 0
+1
+2 Jack
+0 Mike 1 1
+4 1431857511704 1431859812401
+0 Jim 0 1
+3 Mike 3
+4 1431849946705 1431859804837
+0 Jim 0 0
+0 Mike 8 0
+2 Matt
+0 Jack 1 1
+0 Kaz 3 0
+4 1431854857705 1431859809748
+0 Rock 7 0
+0 Matt 1 1
+0 Matt 2 0
+0 Rock 7 1
+0 Nacy 6 0
+0 Jack 8 0
+2 Jack
+3 Jack 3
+0 Matt 2 1
+0 Matt 3 0
+0 Kaz 3 1
+0 Jim 0 1
+0 Nacy 6 1
+4 1431854941705 1431859809832
+1
+4 1431850404705 1431859805295
+0 Jim 7 1
+0 Rock 0 0
+0 Rock 0 1
+0 Kaz 5 0
+0 Kaz 5 1
+1
+0 Nacy 7 0
+0 Rock 3 0
+2 Mike
+4 1431852891705 1431859807782
+3 Mike 3
+0 Jack 8 1
+0 Matt 3 1
+2 Nacy
+4 1431852914705 1431859807805
+0 Mike 8 1
+3 Matt 2
+0 Jack 3 0
+4 1431852771705 1431859807662
+0 Mike 2 0
+4 1431851878705 1431859806769
+2 Jack
+4 1431854404705 1431859809295
+0 Mike 2 1
+0 Kaz 6 1
+4 1431854916705 1431859809807
+0 Matt 7 1
+2 Rock
+0 Rock 3 1
+0 Rock 7 0
+0 Jack 4 0
+0 Kaz 5 0
+1
+3 Nacy 2
+0 Nacy 7 1
+3 Rock 3
+0 Nacy 4 0
+0 Matt 0 0
+0 Nacy 3 0
+0 Rock 7 1
+0 Matt 0 1
+0 Kaz 8 0
+0 Kaz 5 1
+0 Rock 4 1
+0 Rock 0 1
+1
+0 Nacy 4 1
+4 1431855726705 1431859810617
+4 1431855245705 1431859810136
+3 Rock 8
+0 Jack 3 1
+2 Rock
+0 Jack 1 0
+1
+0 Rock 2 0
+0 Mike 2 0
+3 Nacy 1
+1
+0 Jim 4 0
+0 Jack 1 1
+0 Mike 2 1
+0 Rock 2 1
+0 Mike 7 0
+0 Matt 8 0
+0 Nacy 5 0
+0 Matt 8 1
+3 Matt 0
+0 Kaz 6 0
+2 Jack
+0 Rock 4 1
+2 Matt
+1
+0 Nacy 5 1
+0 Jack 5 0
+2 Jack
+3 Rock 8
+0 Matt 6 0
+0 Nacy 0 1
+0 Mike 7 1
+0 Mike 0 0
+0 Nacy 2 0
+4 1431853318706 1431859808210
+0 Matt 6 1
+0 Jim 4 1
+0 Rock 1 0
+0 Nacy 2 1
+0 Jim 4 0
+0 Nacy 6 0
+0 Rock 1 1
+4 1431854207706 1431859809099
+0 Kaz 2 0
+0 Nacy 6 1
+4 1431852408706 1431859807300
+0 Rock 5 0
+3 Matt 6
+0 Mike 0 1
+4 1431855762706 1431859810654
+0 Jack 5 1
+0 Jim 4 1
+1
+2 Matt
+0 Nacy 3 0
+0 Jack 3 0
+0 Matt 7 1
+0 Nacy 2 0
+0 Rock 8 0
+0 Mike 7 0
+0 Jim 0 0
+0 Jack 3 1
+0 Rock 5 1
+0 Matt 8 0
+4 1431857667707 1431859812560
+0 Jim 0 1
+0 Mike 7 1
+0 Rock 5 0
+0 Jack 5 0
+1
+1
+0 Nacy 3 1
+3 Kaz 4
+0 Kaz 6 1
+3 Jack 0
+2 Jack
+4 1431852959707 1431859807852
+0 Nacy 0 0
+0 Nacy 0 1
+3 Nacy 0
+0 Jim 2 0
+0 Nacy 7 1
+1
+4 1431856736707 1431859811629
+0 Rock 5 1
+3 Rock 4
+0 Kaz 2 0
+3 Matt 8
+4 1431852744707 1431859807637
+0 Matt 0 0
+0 Matt 8 1
+0 Jack 5 1
+0 Kaz 2 1
+4 1431856044707 1431859810937
+0 Jim 2 1
+0 Nacy 1 1
+0 Kaz 7 0
+2 Mike
+0 Jim 3 0
+1
+3 Kaz 3
+0 Jack 7 0
+2 Rock
+0 Jim 3 1
+2 Matt
+0 Kaz 8 0
+0 Mike 7 0
+0 Jack 7 1
+0 Jack 7 0
+4 1431855545707 1431859810438
+0 Rock 1 0
+0 Jack 7 1
+0 Mike 7 1
+0 Nacy 2 0
+0 Kaz 8 0
+2 Nacy
+4 1431853152707 1431859808045
+0 Jim 3 1
+0 Jack 4 0
+2 Matt
+0 Jim 3 1
+0 Rock 1 1
+0 Rock 6 0
+0 Mike 1 0
+0 Kaz 7 1
+1
+4 1431852182707 1431859807075
+0 Jack 1 0
+0 Nacy 2 1
+1
+3 Matt 8
+0 Rock 6 1
+4 1431853920707 1431859808813
+1
+2 Jim
+2 Kaz
+1
+2 Jim
+0 Matt 6 0
+0 Jim 5 0
+0 Matt 6 1
+3 Rock 4
+0 Nacy 3 0
+0 Mike 1 1
+0 Mike 1 0
+0 Jim 0 0
+4 1431859453707 1431859814346
+0 Matt 3 0
+0 Nacy 3 1
+2 Rock
+0 Nacy 6 0
+0 Jack 6 0
+1
+4 1431858971707 1431859813864
+0 Mike 1 1
+0 Nacy 6 1
+0 Nacy 1 0
+0 Nacy 1 1
+0 Mike 2 0
+2 Rock
+0 Rock 8 1
+0 Kaz 2 0
+0 Jim 0 0
+0 Nacy 5 0
+0 Nacy 5 1
+0 Jim 5 1
+0 Mike 7 0
+1
+0 Mike 2 1
+4 1431858849708 1431859813743
+3 Kaz 3
+4 1431859813708 1431859814707
+0 Rock 3 0
+0 Jack 3 0
+0 Kaz 2 1
+0 Jack 4 1
+0 Matt 3 1
+0 Jim 6 0
+0 Mike 1 0
+3 Mike 8
+2 Mike
+0 Jack 3 0
+0 Nacy 5 0
+4 1431853740708 1431859808634
+2 Rock
+0 Mike 1 1
+2 Mike
+4 1431855954708 1431859810848
+0 Matt 0 0
+3 Mike 5
+0 Nacy 5 1
+0 Rock 3 1
+0 Jack 3 1
+0 Rock 1 1
+0 Mike 6 0
+0 Jim 6 1
+0 Rock 8 0
+1
+0 Mike 6 1
+0 Nacy 2 0
+3 Jim 6
+0 Mike 1 0
+0 Jack 0 0
+0 Jack 0 1
+3 Matt 0
+0 Nacy 2 1
+0 Nacy 6 0
+2 Nacy
+1
+0 Kaz 3 0
+2 Rock
+2 Nacy
+0 Jim 7 0
+0 Jack 7 1
+3 Mike 2
+0 Rock 7 0
+3 Mike 5
+4 1431851257708 1431859806151
+1
+4 1431851100708 1431859805994
+0 Matt 0 1
+2 Jim
+0 Mike 1 1
+0 Jim 7 1
+0 Jim 1 0
+0 Nacy 6 1
+1
+1
+0 Rock 8 1
+0 Nacy 6 0
+0 Matt 1 1
+0 Rock 4 0
+3 Jack 1
+0 Matt 4 1
+2 Jack
+0 Kaz 3 1
+0 Rock 4 1
+0 Jack 7 1
+0 Mike 1 0
+1
+1
+0 Matt 4 0
+0 Kaz 3 0
+0 Rock 3 0
+1
+0 Kaz 3 1
+0 Matt 4 1
+0 Jim 1 1
+3 Matt 4
+0 Rock 3 1
+1
+0 Mike 6 0
+4 1431857601708 1431859812495
+0 Mike 1 1
+0 Mike 2 0
+0 Jim 1 0
+2 Nacy
+0 Jim 1 1
+0 Nacy 6 1
+0 Jack 8 0
+3 Jack 7
+0 Jack 8 1
+0 Rock 5 0
+0 Kaz 6 0
+0 Kaz 6 1
+0 Jim 3 0
+1
+0 Rock 5 1
+0 Jim 8 0
+0 Jack 1 0
+3 Jack 1
+0 Nacy 6 0
+0 Jim 3 1
+1
+0 Jim 6 0
+0 Jim 6 1
+2 Jack
+0 Mike 8 0
+3 Nacy 5
+0 Nacy 6 1
+3 Rock 3
+0 Jim 0 0
+4 1431851437709 1431859806332
+2 Jack
+0 Jack 1 1
+0 Jack 7 0
+3 Kaz 6
+0 Jim 0 1
+1
+0 Mike 2 1
+0 Jack 7 1
+0 Nacy 0 0
+1
+0 Jack 7 0
+0 Matt 8 0
+0 Kaz 7 0
+0 Rock 4 0
+3 Mike 8
+0 Jim 4 0
+0 Jack 7 1
+4 1431854097709 1431859808992
+4 1431856113709 1431859811008
+4 1431854202709 1431859809097
+3 Nacy 1
+4 1431850712709 1431859805607
+2 Jim
+0 Kaz 7 1
+0 Jim 4 1
+0 Nacy 0 1
+0 Jack 8 1
+4 1431852956709 1431859807851
+0 Nacy 3 0
+0 Kaz 7 0
+3 Mike 0
+3 Matt 3
+1
+0 Jim 7 0
+0 Jack 4 1
+4 1431856037709 1431859810932
+0 Jack 0 0
+0 Nacy 3 1
+0 Jim 7 1
+0 Kaz 7 1
+0 Matt 8 1
+0 Nacy 6 0
+4 1431852575709 1431859807470
+0 Matt 8 0
+0 Nacy 6 1
+0 Matt 8 1
+2 Kaz
+0 Matt 5 0
+4 1431856297709 1431859811192
+0 Kaz 7 0
+0 Nacy 8 0
+2 Rock
+1
+0 Nacy 8 1
+3 Mike 5
+0 Rock 4 1
+1
+2 Rock
+4 1431850438709 1431859805333
+0 Matt 5 1
+4 1431859224709 1431859814119
+1
+0 Mike 8 1
+2 Jack
+0 Matt 1 0
+0 Matt 1 1
+0 Jack 0 1
+0 Matt 2 0
+0 Kaz 7 1
+1
+0 Rock 7 0
+3 Nacy 6
+0 Mike 0 0
+0 Nacy 6 0
+0 Mike 0 1
+0 Rock 7 1
+1
+0 Rock 4 1
+0 Jim 5 0
+0 Kaz 6 0
+4 1431857861710 1431859812757
+0 Rock 4 0
+1
+0 Matt 2 1
+2 Jack
+0 Matt 3 0
+0 Matt 2 0
+0 Kaz 6 1
+0 Mike 4 0
+2 Jack
+0 Matt 4 0
+0 Nacy 6 1
+1
+0 Jim 5 1
+1
+4 1431859788710 1431859814684
+0 Rock 4 1
+0 Jack 8 0
+1
+0 Jim 8 0
+0 Matt 3 1
+0 Mike 4 1
+1
+0 Matt 8 0
+0 Jack 8 1
+0 Nacy 6 0
+2 Kaz
+4 1431852223710 1431859807119
+0 Matt 8 1
+0 Nacy 6 0
+0 Matt 8 0
+1
+2 Nacy
+0 Jim 8 1
+3 Nacy 4
+0 Nacy 6 1
+3 Nacy 2
+0 Rock 7 0
+0 Rock 7 1
+3 Jim 6
+0 Matt 8 1
+0 Kaz 3 0
+0 Kaz 3 1
+0 Mike 2 0
+4 1431855134710 1431859810030
+3 Kaz 3
+0 Rock 6 0
+0 Jim 2 0
+0 Jack 6 0
+0 Matt 5 0
+0 Rock 6 1
+4 1431852697710 1431859807593
+0 Jim 2 1
+0 Rock 7 0
+3 Jack 8
+4 1431851859710 1431859806755
+0 Jack 5 0
+0 Rock 8 0
+0 Jack 6 1
+0 Mike 2 1
+0 Nacy 0 0
+2 Mike
+1
+0 Rock 7 1
+2 Matt
+1
+0 Jim 6 0
+0 Kaz 2 0
+0 Jack 0 0
+3 Matt 8
+3 Nacy 0
+3 Rock 8
+2 Jack
+0 Matt 5 1
+3 Mike 2
+4 1431854527711 1431859809424
+0 Mike 6 0
+0 Mike 6 1
+0 Kaz 2 1
+0 Jim 6 1
+0 Nacy 0 1
+0 Jack 0 1
+0 Jack 0 1
+0 Kaz 7 0
+0 Nacy 1 0
+1
+1
+1
+0 Jack 0 0
+0 Mike 8 0
+4 1431851363711 1431859806260
+1
+2 Rock
+1
+0 Jim 7 0
+3 Nacy 3
+2 Mike
+3 Jack 0
+0 Matt 0 0
+3 Jim 8
+0 Kaz 7 1
+2 Nacy
+0 Jack 0 1
+0 Matt 0 1
+2 Mike
+0 Matt 3 0
+0 Matt 3 1
+0 Nacy 1 1
+0 Nacy 5 0
+4 1431850437711 1431859805334
+3 Jack 5
+0 Jack 4 0
+4 1431853633711 1431859808530
+0 Jack 4 1
+3 Mike 4
+4 1431851774711 1431859806671
+0 Mike 8 1
+1
+0 Matt 8 0
+0 Matt 8 1
+1
+3 Kaz 2
+4 1431855394711 1431859810291
+4 1431859169711 1431859814066
+0 Matt 4 0
+0 Mike 7 0
+0 Nacy 5 1
+0 Jim 0 0
+0 Nacy 7 0
+0 Jim 7 1
+0 Kaz 3 0
+0 Mike 7 1
+0 Rock 0 0
+0 Kaz 3 1
+2 Matt
+0 Jack 3 0
+0 Nacy 7 1
+0 Jack 3 1
+0 Matt 4 1
+0 Nacy 7 0
+3 Nacy 7
+3 Jim 5
+0 Rock 0 1
+4 1431858288711 1431859813185
+3 Nacy 8
+1
+0 Nacy 7 1
+4 1431856609712 1431859811507
+3 Kaz 6
+2 Matt
+0 Nacy 4 0
+0 Nacy 4 1
+0 Jack 7 0
+0 Jim 0 0
+0 Kaz 0 0
+3 Rock 8
+0 Jim 0 1
+3 Jack 2
+0 Mike 5 1
+4 1431857006712 1431859811904
+0 Jim 5 0
+0 Jim 5 1
+0 Rock 2 0
+0 Nacy 0 0
+0 Nacy 0 1
+0 Mike 2 0
+0 Jim 8 0
+4 1431851484712 1431859806382
+0 Jim 8 1
+2 Mike
+0 Mike 2 1
+0 Nacy 4 0
+4 1431858038712 1431859812936
+3 Nacy 0
+4 1431858369712 1431859813267
+1
+0 Nacy 4 1
+3 Mike 8
+1
+0 Rock 2 1
+0 Jack 7 1
+3 Jim 7
+0 Nacy 7 1
+1
+1
+0 Kaz 0 1
+3 Rock 1
+3 Jim 4
+0 Mike 0 0
+3 Jack 5
+0 Rock 6 0
+0 Nacy 1 0
+3 Jack 2
+1
+0 Jack 0 0
+0 Rock 6 1
+0 Rock 4 0
+0 Jim 5 1
+0 Jim 7 0
+2 Nacy
+0 Mike 0 1
+2 Mike
+0 Rock 4 1
+1
+2 Jack
+0 Nacy 1 1
+3 Jim 2
+0 Nacy 7 0
+0 Jim 7 1
+2 Mike
+2 Nacy
+0 Jim 5 0
+1
+1
+0 Mike 6 0
+0 Jack 0 1
+0 Jack 4 0
+0 Rock 0 0
+0 Mike 6 1
+2 Rock
+4 1431855825713 1431859810724
+0 Mike 0 1
+0 Jack 4 1
+0 Jack 1 0
+2 Jim
+2 Mike
+0 Matt 7 0
+0 Jim 5 1
+0 Rock 0 1
+4 1431851143713 1431859806042
+4 1431857152713 1431859812051
+1
+0 Rock 4 0
+3 Rock 7
+0 Mike 1 0
+0 Jim 3 0
+3 Mike 5
+3 Jim 5
+4 1431858712713 1431859813611
+3 Mike 5
+4 1431854495713 1431859809394
+3 Kaz 0
+1
+2 Rock
+0 Rock 4 1
+0 Nacy 7 1
+0 Jack 1 1
+0 Kaz 4 0
+0 Mike 1 1
+0 Nacy 0 0
+3 Matt 5
+2 Jack
+0 Matt 7 1
+0 Rock 2 0
+0 Rock 2 1
+0 Jim 3 1
+0 Nacy 0 1
+2 Jim
+0 Mike 1 1
+0 Jim 6 0
+1
+1
+1
+3 Jack 5
+0 Matt 3 0
+0 Kaz 4 1
+0 Nacy 6 0
+0 Jack 3 0
+1
+1
+2 Jack
+3 Jack 3
+0 Matt 3 1
+0 Jack 3 0
+4 1431855455713 1431859810354
+0 Rock 4 1
+2 Kaz
+4 1431850975713 1431859805874
+2 Jack
+2 Jim
+3 Rock 6
+0 Matt 1 0
+1
+4 1431855166713 1431859810065
+3 Jack 3
+4 1431856747713 1431859811646
+0 Nacy 6 1
+0 Kaz 6 0
+3 Mike 7
+0 Rock 3 0
+0 Mike 0 0
+3 Mike 7
+0 Jim 6 1
+4 1431859642713 1431859814541
+2 Nacy
+0 Kaz 6 1
+3 Mike 7
+0 Jack 3 1
+4 1431852165713 1431859807064
+0 Matt 1 1
+3 Mike 7
+0 Rock 3 1
+1
+0 Nacy 1 0
+0 Kaz 4 0
+0 Jim 5 0
+3 Jack 8
+0 Matt 5 0
+0 Nacy 1 1
+4 1431857603713 1431859812502
+0 Jack 2 0
+1
+0 Jack 2 1
+0 Jim 5 1
+3 Rock 1
+0 Jack 0 1
+2 Nacy
+2 Matt
+0 Matt 5 1
+0 Mike 0 1
+1
+0 Matt 1 0
+0 Jack 1 1
+1
+0 Kaz 4 1
+0 Matt 6 0
+0 Mike 0 0
+0 Jim 3 0
+0 Rock 5 0
+2 Jim
+0 Rock 5 1
+1
+0 Kaz 4 0
+2 Kaz
+1
+2 Jim
+0 Kaz 4 1
+0 Nacy 7 0
+0 Jim 3 1
+0 Kaz 2 1
+0 Matt 1 1
+0 Jim 0 0
+1
+0 Jim 0 1
+4 1431856340714 1431859811240
+0 Matt 5 0
+0 Kaz 4 0
+0 Nacy 7 1
+0 Kaz 5 0
+4 1431856616714 1431859811516
+0 Kaz 4 1
+0 Mike 0 1
+0 Jack 5 0
+0 Jim 5 0
+2 Mike
+4 1431857340714 1431859812240
+0 Rock 0 0
+4 1431855243714 1431859810143
+0 Rock 0 1
+0 Jim 5 1
+0 Jim 0 0
+0 Mike 6 0
+0 Kaz 5 1
+0 Mike 6 1
+0 Jim 0 1
+3 Mike 7
+4 1431858400714 1431859813300
+1
+0 Nacy 6 0
+3 Nacy 2
+0 Mike 3 0
+1
+0 Rock 1 0
+0 Jack 5 1
+0 Rock 0 0
+4 1431854637714 1431859809537
+0 Mike 3 1
+0 Matt 5 1
+0 Jack 3 0
+2 Mike
+0 Jack 3 1
+0 Jim 6 1
+0 Mike 4 0
+4 1431856094714 1431859810994
+0 Mike 4 1
+0 Kaz 6 0
+0 Mike 2 0
+1
+0 Kaz 6 1
+0 Nacy 6 1
+4 1431852233714 1431859807133
+1
+0 Rock 1 1
+0 Matt 3 0
+0 Rock 7 0
+1
+1
+0 Nacy 7 0
+1
+0 Jim 0 0
+0 Matt 3 1
+0 Kaz 1 0
+0 Jack 6 0
+2 Jim
+0 Mike 2 1
+0 Nacy 7 1
+2 Jim
+4 1431853785714 1431859808685
+0 Rock 7 1
+0 Jack 6 1
+0 Kaz 1 1
+0 Rock 3 1
+0 Kaz 6 0
+0 Nacy 7 0
+4 1431858322714 1431859813222
+0 Rock 5 0
+2 Matt
+0 Matt 8 0
+1
+2 Matt
+0 Rock 5 1
+1
+0 Rock 4 0
+4 1431856867714 1431859811767
+0 Kaz 6 1
+0 Rock 4 1
+0 Matt 8 1
+0 Nacy 7 1
+0 Rock 5 0
+4 1431851114714 1431859806014
+0 Matt 3 0
+0 Rock 5 1
+0 Kaz 7 0
+0 Kaz 7 1
+0 Jack 6 0
+4 1431859711714 1431859814611
+2 Matt
+2 Jack
+1
+1
+3 Kaz 7
+0 Mike 0 0
+0 Jim 7 0
+1
+4 1431851720714 1431859806620
+0 Matt 6 0
+0 Jack 6 1
+2 Matt
+0 Kaz 5 0
+0 Rock 0 0
+4 1431854482715 1431859809383
+0 Kaz 5 1
+4 1431855937715 1431859810838
+1
+0 Jack 3 0
+0 Nacy 7 0
+2 Mike
+1
+0 Matt 3 1
+0 Rock 0 1
+0 Mike 0 1
+2 Jack
+0 Jim 0 1
+0 Matt 3 0
+0 Jim 2 1
+0 Jack 3 1
+2 Kaz
+4 1431855641715 1431859810542
+4 1431856391715 1431859811292
+0 Kaz 8 1
+1
+0 Nacy 7 1
+0 Jack 6 0
+0 Jim 5 0
+0 Rock 0 0
+0 Jim 5 1
+4 1431849989715 1431859804890
+0 Kaz 3 0
+0 Jim 3 1
+1
+3 Jim 4
+2 Rock
+0 Matt 3 1
+4 1431850907715 1431859805808
+0 Jack 6 1
+4 1431858253715 1431859813154
+2 Nacy
+3 Jim 2
+1
+0 Jack 8 0
+0 Nacy 1 1
+4 1431850371715 1431859805272
+0 Kaz 3 1
+1
+3 Jack 3
+0 Mike 6 1
+0 Jack 8 1
+0 Kaz 4 0
+0 Jim 0 0
+0 Rock 0 1
+4 1431857343715 1431859812244
+0 Jim 0 1
+0 Nacy 0 0
+4 1431858538715 1431859813439
+0 Kaz 4 1
+0 Mike 2 0
+3 Jack 8
+0 Jack 3 0
+0 Kaz 1 1
+0 Jim 4 0
+0 Jim 4 1
+0 Matt 0 0
+0 Jim 4 0
+0 Kaz 2 0
+0 Nacy 0 1
+1
+0 Jim 4 1
+4 1431857282715 1431859812183
+0 Matt 0 1
+0 Rock 2 0
+0 Jim 6 0
+4 1431851807715 1431859806708
+0 Mike 2 1
+0 Kaz 2 1
+0 Matt 2 1
+0 Kaz 8 0
+2 Matt
+0 Jack 3 1
+0 Kaz 8 1
+3 Jack 0
+0 Jim 6 1
+0 Rock 2 1
+2 Jim
+3 Kaz 8
+0 Mike 7 0
+2 Mike
+4 1431851894715 1431859806795
+1
+0 Jack 5 1
+0 Matt 5 0
+3 Jim 5
+0 Nacy 2 0
+4 1431856697715 1431859811598
+1
+0 Matt 5 1
+0 Mike 7 1
+3 Kaz 2
+0 Nacy 2 1
+0 Jim 7 0
+0 Matt 6 0
+0 Mike 6 0
+3 Jim 3
+0 Jim 7 1
+2 Rock
+0 Rock 0 0
+1
+4 1431855203719 1431859810108
+0 Mike 6 1
+4 1431855009719 1431859809914
+0 Kaz 5 0
+4 1431854628719 1431859809533
+0 Mike 2 0
+0 Jim 3 0
+0 Matt 1 0
+2 Nacy
+0 Kaz 5 1
+0 Jack 2 0
+0 Nacy 2 0
+0 Jim 5 0
+0 Jack 7 0
+2 Mike
+0 Mike 2 1
+0 Jim 7 0
+0 Matt 6 1
+1
+0 Rock 0 1
+0 Matt 5 0
+1
+0 Rock 0 0
+0 Matt 5 1
+4 1431853475719 1431859808380
+0 Mike 6 0
+0 Jack 2 1
+0 Matt 4 0
+4 1431856218719 1431859811123
+0 Mike 6 1
+0 Jack 5 1
+0 Nacy 2 1
+0 Kaz 2 0
+4 1431854539719 1431859809444
+4 1431857245719 1431859812150
+4 1431850869719 1431859805774
+0 Rock 0 1
+1
+0 Matt 4 1
+0 Mike 3 0
+1
+0 Matt 1 0
+0 Jack 0 1
+0 Mike 3 1
+0 Jim 3 1
+0 Nacy 6 1
+0 Nacy 6 0
+2 Mike
+0 Jim 7 0
+2 Matt
+4 1431853994719 1431859808899
+3 Jim 4
+1
+3 Matt 7
+0 Rock 8 0
+0 Kaz 2 1
+4 1431855676719 1431859810581
+0 Mike 5 0
+0 Matt 1 1
+0 Mike 5 1
+0 Rock 8 1
+0 Kaz 7 0
+0 Jack 0 0
+0 Jack 0 1
+0 Kaz 7 1
+4 1431852101720 1431859807007
+2 Matt
+0 Rock 0 1
+0 Rock 4 0
+3 Rock 2
+1
+2 Rock
+0 Rock 4 1
+0 Matt 5 0
+1
+0 Kaz 2 0
+3 Kaz 1
+0 Nacy 6 1
+0 Mike 8 0
+0 Nacy 8 0
+0 Kaz 2 1
+3 Jim 8
+1
+0 Rock 4 0
+0 Matt 5 1
+0 Nacy 8 1
+0 Jim 7 1
+0 Matt 7 0
+1
+0 Nacy 6 0
+0 Nacy 6 1
+0 Jack 7 0
+0 Nacy 3 1
+3 Mike 4
+2 Kaz
+0 Jack 7 1
+4 1431859618720 1431859814524
+0 Jim 6 0
+0 Jim 6 1
+0 Kaz 8 0
+0 Jim 0 0
+0 Matt 7 1
+0 Matt 8 0
+0 Jack 3 0
+4 1431856574720 1431859811480
+0 Nacy 1 0
+4 1431854883720 1431859809789
+2 Jim
+2 Mike
+0 Kaz 8 1
+0 Jack 3 1
+0 Kaz 8 0
+0 Rock 4 1
+4 1431854038720 1431859808944
+0 Matt 8 1
+4 1431850241720 1431859805147
+4 1431858818720 1431859813724
+0 Nacy 1 1
+0 Mike 8 1
+0 Jim 0 1
+0 Matt 8 0
+0 Jack 7 0
+0 Matt 8 1
+0 Jack 7 1
+0 Mike 2 0
+3 Jim 7
+0 Matt 2 0
+0 Matt 2 0
+0 Nacy 6 0
+0 Jim 7 0
+2 Jim
+0 Jim 7 1
+3 Rock 6
+0 Matt 2 1
+1
+4 1431858273720 1431859813179
+0 Mike 2 1
+0 Nacy 4 0
+3 Kaz 6
+0 Rock 0 0
+0 Jim 7 0
+0 Jack 2 0
+1
+0 Rock 0 1
+0 Kaz 8 1
+2 Kaz
+2 Jim
+0 Kaz 3 0
+0 Matt 2 1
+2 Matt
+3 Nacy 5
+3 Mike 3
+0 Rock 8 0
+0 Nacy 6 1
+0 Jack 2 1
+0 Jim 3 0
+0 Rock 8 1
+2 Kaz
+0 Jack 6 0
+0 Nacy 6 0
+3 Nacy 4
+0 Nacy 6 1
+3 Mike 8
+0 Kaz 3 1
+0 Matt 5 0
+0 Nacy 6 0
+0 Jack 8 0
+4 1431850300720 1431859805206
+0 Mike 2 1
+2 Jack
+0 Jim 7 1
+0 Mike 3 0
+1
+2 Kaz
+1
+0 Jack 6 1
+4 1431850510720 1431859805416
+3 Kaz 0
+1
+0 Rock 8 0
+0 Mike 3 1
+0 Kaz 8 0
+4 1431850683720 1431859805589
+0 Jim 5 0
+0 Matt 6 0
+0 Nacy 6 1
+2 Jim
+0 Mike 7 0
+3 Kaz 0
+0 Jack 6 0
+3 Matt 1
+0 Kaz 2 0
+0 Jim 5 1
+0 Jack 6 1
+3 Nacy 7
+4 1431859380721 1431859814287
+0 Matt 5 1
+0 Nacy 3 0
+4 1431858282721 1431859813189
+1
+3 Kaz 5
+0 Nacy 3 1
+4 1431849996721 1431859804903
+1
+0 Nacy 1 0
+0 Matt 5 0
+0 Jim 3 0
+0 Rock 8 1
+0 Kaz 8 1
+0 Matt 5 1
+4 1431849855721 1431859804762
+0 Jim 3 1
+0 Jack 3 0
+4 1431856101721 1431859811008
+4 1431852319721 1431859807226
+2 Matt
+0 Jack 3 1
+0 Mike 7 1
+0 Jim 7 0
+0 Matt 6 1
+0 Rock 1 1
+0 Matt 1 0
+0 Mike 8 0
+0 Rock 3 0
+3 Kaz 1
+2 Mike
+0 Rock 3 1
+0 Matt 1 1
+0 Jim 7 1
+0 Nacy 6 0
+2 Rock
+0 Jack 5 0
+4 1431857871721 1431859812778
+2 Jack
+0 Rock 7 0
+0 Jack 5 1
+4 1431859333721 1431859814240
+0 Nacy 1 1
+0 Nacy 6 0
+0 Rock 7 1
+0 Jim 3 0
+4 1431853044721 1431859807951
+0 Rock 3 0
+0 Kaz 3 1
+0 Jim 3 1
+0 Matt 7 0
+4 1431849929721 1431859804836
+0 Rock 3 1
+0 Jack 6 0
+0 Jim 2 0
+0 Kaz 0 0
+3 Rock 7
+1
+1
+3 Kaz 8
+0 Mike 8 1
+4 1431849953721 1431859804860
+0 Jack 6 1
+3 Jack 2
+0 Kaz 0 1
+0 Nacy 6 1
+0 Matt 7 1
+0 Matt 6 0
+0 Kaz 0 0
+0 Nacy 3 0
+4 1431852078721 1431859806985
+0 Matt 6 1
+0 Rock 2 0
+4 1431853143721 1431859808050
+0 Matt 8 0
+0 Nacy 3 1
+0 Jack 5 0
+0 Rock 2 1
+0 Jack 5 1
+0 Nacy 1 0
+0 Jim 2 1
+0 Mike 7 0
+0 Mike 7 1
+0 Rock 1 0
+0 Mike 3 0
+0 Jack 4 0
+0 Kaz 0 1
+0 Matt 8 1
+0 Jack 4 1
+0 Jim 4 0
+1
+0 Nacy 1 1
+0 Nacy 8 0
+1
+3 Matt 7
+0 Jim 4 1
+0 Kaz 4 0
+1
+2 Jim
+0 Nacy 3 0
+1
+0 Mike 3 1
+0 Matt 0 0
+0 Jim 5 1
+0 Mike 5 0
+4 1431858208722 1431859813116
+0 Matt 0 1
+0 Nacy 8 1
+0 Rock 1 1
+1
+4 1431853611722 1431859808519
+0 Nacy 7 0
+0 Rock 4 0
+0 Jim 5 0
+0 Jim 5 1
+0 Nacy 7 1
+2 Rock
+0 Nacy 4 0
+0 Jim 7 0
+2 Matt
+1
+0 Kaz 4 1
+0 Mike 5 1
+0 Mike 1 0
+0 Rock 6 0
+0 Nacy 4 1
+1
+3 Jim 0
+2 Nacy
+0 Kaz 3 0
+0 Rock 4 1
+0 Jim 6 0
+0 Mike 3 0
+0 Jim 7 1
+2 Kaz
+0 Jack 5 0
+3 Jim 3
+0 Kaz 3 1
+2 Nacy
+4 1431855878722 1431859810786
+0 Jack 5 1
+0 Jack 5 1
+0 Jack 7 0
+0 Jim 8 0
+0 Nacy 5 0
+4 1431859658722 1431859814566
+0 Nacy 5 1
+0 Nacy 7 0
+0 Rock 1 0
+0 Matt 0 0
+0 Jack 7 1
+0 Nacy 7 1
+0 Mike 7 0
+0 Rock 1 1
+0 Jim 8 1
+0 Jim 1 0
+3 Rock 6
+3 Kaz 7
+0 Rock 5 0
+4 1431859677722 1431859814585
+0 Kaz 4 0
+3 Jack 1
+3 Nacy 3
+0 Jim 1 1
+0 Rock 5 1
+0 Nacy 2 0
+4 1431859665722 1431859814573
+0 Jim 4 0
+2 Kaz
+0 Nacy 2 1
+0 Kaz 4 1
+0 Matt 0 1
+0 Rock 8 0
+3 Kaz 0
+4 1431858322722 1431859813230
+0 Nacy 4 0
+2 Jack
+3 Jack 6
+0 Mike 1 1
+4 1431856649723 1431859811558
+0 Mike 5 0
+0 Rock 8 1
+0 Nacy 4 1
+0 Jim 4 1
+0 Mike 5 1
+4 1431858872723 1431859813781
+0 Mike 0 0
+0 Jim 7 0
+1
+0 Matt 1 0
+1
+0 Kaz 5 0
+1
+0 Kaz 5 1
+0 Jack 4 0
+0 Rock 1 0
+0 Nacy 4 0
+0 Kaz 3 0
+4 1431850141723 1431859805050
+0 Mike 0 1
+3 Matt 2
+0 Jack 4 1
+4 1431858214723 1431859813123
+0 Jack 1 0
+0 Nacy 4 1
+3 Mike 8
+0 Matt 1 1
+2 Nacy
+0 Matt 8 0
+2 Jim
+3 Mike 3
+0 Jack 1 1
+0 Nacy 2 1
+0 Jim 7 1
+4 1431858853723 1431859813762
+0 Mike 7 0
+0 Matt 8 1
+0 Nacy 7 0
+0 Jack 4 0
+2 Nacy
+3 Kaz 2
+1
+3 Kaz 1
+1
+0 Kaz 3 1
+0 Nacy 7 1
+2 Matt
+0 Kaz 4 0
+0 Nacy 8 0
+1
+3 Rock 8
+0 Mike 7 1
+0 Jack 4 1
+0 Jack 2 0
+0 Nacy 8 1
+0 Nacy 6 0
+0 Nacy 2 0
+0 Mike 2 0
+0 Rock 1 1
+2 Nacy
+0 Jack 2 1
+0 Jack 5 0
+2 Mike
+0 Mike 2 1
+3 Nacy 7
+2 Rock
+0 Matt 1 1
+4 1431850298723 1431859805207
+0 Rock 7 0
+3 Rock 3
+0 Matt 8 0
+0 Nacy 6 1
+2 Jack
+0 Mike 0 0
+1
+0 Jim 5 0
+0 Matt 8 1
+0 Kaz 4 1
+0 Rock 7 1
+0 Nacy 2 0
+0 Kaz 5 1
+0 Rock 6 0
+0 Nacy 2 1
+2 Nacy
+0 Kaz 8 0
+1
+3 Jack 1
+0 Jim 5 1
+0 Rock 6 1
+0 Matt 4 0
+0 Mike 0 1
+0 Matt 4 1
+4 1431850534723 1431859805443
+0 Jim 2 0
+0 Jim 2 1
+0 Nacy 5 0
+0 Jim 2 0
+0 Mike 5 0
+0 Nacy 5 1
+2 Nacy
+0 Jack 5 1
+0 Mike 5 1
+0 Kaz 8 1
+0 Nacy 1 0
+1
+3 Rock 4
+3 Matt 1
+4 1431852080724 1431859806990
+3 Jack 6
+0 Jim 2 1
+2 Nacy
+0 Kaz 0 0
+0 Jack 8 0
+0 Mike 0 0
+2 Kaz
+0 Mike 0 1
+0 Kaz 0 1
+0 Jim 1 0
+2 Rock
+1
+0 Jim 1 1
+0 Jim 1 0
+2 Jack
+0 Jim 1 1
+0 Nacy 8 0
+4 1431858248724 1431859813158
+2 Rock
+1
+0 Kaz 4 0
+0 Kaz 4 1
+2 Jim
+0 Nacy 3 0
+0 Rock 2 0
+2 Nacy
+3 Nacy 3
+0 Jack 8 1
+0 Kaz 8 0
+2 Nacy
+4 1431859259724 1431859814169
+0 Jack 1 0
+1
+2 Nacy
+4 1431851978725 1431859806889
+0 Kaz 8 1
+2 Rock
+0 Rock 2 1
+0 Jim 5 0
+4 1431856298725 1431859811209
+0 Mike 3 0
+0 Kaz 3 0
+0 Mike 3 1
+1
+0 Matt 3 0
+0 Jack 1 1
+0 Matt 3 1
+0 Mike 8 0
+2 Nacy
+0 Matt 2 0
+0 Nacy 1 1
+1
+3 Jack 5
+0 Kaz 3 1
+0 Jim 5 1
+0 Rock 1 0
+0 Jack 1 0
+1
+0 Rock 1 1
+0 Jack 1 1
+0 Matt 2 1
+0 Mike 8 1
+1
+0 Mike 7 0
+0 Matt 0 0
+0 Matt 0 1
+0 Rock 8 0
+0 Nacy 4 0
+0 Jim 2 0
+4 1431855361726 1431859810273
+3 Jim 4
+0 Matt 1 0
+0 Nacy 4 1
+0 Jim 2 1
+0 Nacy 8 0
+1
+1
+0 Mike 7 1
+2 Jim
+3 Nacy 1
+0 Nacy 8 1
+0 Matt 1 1
+1
+0 Rock 8 1
+0 Jack 5 0
+0 Nacy 1 0
+0 Nacy 0 0
+0 Jack 8 0
+1
+4 1431850568726 1431859805480
+4 1431858967726 1431859813879
+0 Rock 1 1
+4 1431853166726 1431859808078
+0 Rock 2 0
+0 Rock 5 0
+0 Kaz 0 0
+0 Matt 2 0
+0 Matt 2 1
+0 Jim 0 0
+0 Rock 2 1
+0 Rock 2 0
+2 Matt
+4 1431854917726 1431859809829
+0 Mike 1 0
+0 Kaz 0 1
+0 Jack 5 1
+0 Kaz 5 0
+0 Jack 5 0
+0 Rock 2 1
+1
+0 Jack 5 1
+0 Jack 1 0
+3 Matt 3
+4 1431854597726 1431859809509
+4 1431857632726 1431859812544
+0 Mike 1 1
+1
+0 Jim 0 1
+2 Mike
+0 Jim 7 0
+0 Rock 4 0
+0 Kaz 5 1
+0 Nacy 0 0
+0 Jim 7 1
+0 Rock 4 1
+0 Jack 1 1
+0 Jack 2 1
+0 Jack 1 0
+0 Matt 7 0
+0 Rock 1 0
+0 Matt 7 1
+0 Kaz 7 0
+3 Jim 1
+3 Jim 1
+0 Kaz 2 0
+0 Nacy 1 1
+3 Nacy 1
+0 Mike 8 0
+0 Matt 1 0
+0 Mike 8 1
+0 Kaz 7 1
+0 Rock 1 1
+0 Rock 4 0
+0 Mike 8 0
+0 Mike 8 1
+0 Mike 5 0
+4 1431850051726 1431859804963
+0 Nacy 3 0
+4 1431850204726 1431859805116
+3 Jack 7
+2 Nacy
+0 Jack 1 1
+0 Jack 5 0
+0 Mike 5 1
+2 Matt
+0 Jack 5 1
+4 1431851122726 1431859806034
+0 Rock 4 1
+2 Jack
+0 Mike 4 0
+0 Jim 7 0
+0 Jack 5 0
+0 Mike 4 1
+4 1431850969726 1431859805881
+3 Rock 7
+0 Mike 7 0
+3 Nacy 1
+1
+0 Mike 7 1
+0 Jack 5 1
+0 Kaz 1 0
+0 Rock 6 0
+0 Rock 6 1
+4 1431857230726 1431859812142
+0 Kaz 1 1
+1
+0 Jack 1 0
+3 Rock 3
+4 1431859646726 1431859814558
+0 Matt 1 1
+3 Matt 7
+1
+0 Matt 2 0
+2 Rock
+0 Matt 2 1
+0 Mike 0 0
+0 Kaz 5 0
+0 Matt 6 0
+3 Jim 2
+2 Mike
+1
+0 Jim 7 1
+0 Kaz 5 1
+0 Nacy 3 1
+4 1431855947727 1431859810860
+0 Jack 1 1
+0 Mike 0 1
+0 Matt 6 1
+3 Mike 7
+0 Jim 1 0
+4 1431853967727 1431859808880
+0 Mike 4 0
+0 Jack 5 0
+0 Jim 1 1
+0 Rock 2 0
+3 Mike 3
+0 Kaz 6 0
+0 Mike 4 1
+0 Kaz 6 1
+3 Matt 3
+0 Jim 7 0
+4 1431855993727 1431859810906
+0 Mike 2 0
+0 Nacy 3 0
+1
+1
+0 Nacy 3 1
+2 Kaz
+0 Jack 5 1
+0 Mike 2 1
+0 Matt 0 1
+1
+2 Jim
+0 Matt 5 0
+0 Mike 0 0
+0 Jim 7 1
+0 Jack 7 0
+1
+2 Mike
+2 Kaz
+0 Jack 7 1
+1
+0 Rock 2 1
+2 Jim
+0 Kaz 0 0
+4 1431855773727 1431859810686
+3 Nacy 6
+1
+0 Rock 7 0
+2 Nacy
+0 Nacy 8 0
+0 Rock 7 1
+2 Kaz
+0 Kaz 0 1
+0 Rock 0 0
+2 Matt
+0 Nacy 8 1
+1
+4 1431858277727 1431859813190
+0 Rock 0 1
+0 Jack 1 0
+3 Nacy 0
+4 1431850583727 1431859805496
+0 Matt 5 1
+0 Matt 5 0
+0 Kaz 6 0
+0 Rock 7 0
+0 Kaz 6 1
+0 Mike 0 1
+0 Jack 1 1
+0 Mike 2 0
+0 Jack 2 0
+0 Nacy 2 0
+0 Jim 2 0
+0 Kaz 1 0
+1
+1
+0 Jack 2 1
+3 Mike 0
+1
+0 Mike 2 1
+1
+2 Matt
+0 Jim 2 1
+3 Jim 3
+0 Jim 1 0
+0 Nacy 2 1
+0 Rock 7 1
+0 Kaz 1 1
+0 Nacy 4 1
+2 Jim
+0 Matt 5 1
+0 Kaz 2 0
+0 Jim 1 1
+2 Rock
+0 Rock 6 0
+0 Jack 1 0
+4 1431859280727 1431859814193
+2 Jim
+0 Jim 3 0
+0 Mike 1 0
+0 Mike 1 1
+3 Mike 3
+4 1431859356727 1431859814269
+0 Mike 7 0
+0 Kaz 2 1
+0 Kaz 7 0
+0 Mike 7 1
+2 Nacy
+1
+1
+1
+0 Nacy 0 0
+0 Rock 6 1
+0 Jack 1 1
+0 Mike 5 0
+2 Nacy
+0 Kaz 7 1
+0 Kaz 3 0
+0 Matt 8 0
+0 Mike 5 1
+0 Mike 5 0
+1
+3 Jack 7
+4 1431859500727 1431859814413
+0 Rock 5 0
+0 Matt 8 1
+0 Nacy 0 1
+2 Kaz
+0 Rock 5 1
+2 Nacy
+0 Jim 3 1
+0 Mike 5 1
+0 Rock 7 0
+3 Jim 0
+3 Kaz 2
+0 Nacy 6 0
+0 Jack 8 1
+0 Jack 4 0
+0 Jim 3 0
+0 Mike 4 0
+0 Jim 3 1
+0 Jim 2 0
+2 Jack
+1
+0 Jim 2 1
+0 Mike 4 1
+0 Matt 6 0
+0 Rock 7 1
+1
+0 Kaz 3 1
+0 Jack 4 1
+1
+4 1431856185728 1431859811099
+0 Jim 2 0
+1
+0 Mike 6 0
+1
+0 Jim 2 1
+0 Nacy 6 1
+3 Jim 7
+0 Matt 6 1
+3 Nacy 6
+0 Jim 2 0
+0 Jack 6 0
+4 1431851718728 1431859806632
+0 Nacy 0 0
+0 Matt 3 0
+0 Matt 3 1
+4 1431854111728 1431859809025
+4 1431859259728 1431859814173
+2 Nacy
+0 Mike 6 1
+0 Rock 3 1
+1
+0 Matt 2 0
+0 Jack 6 1
+0 Jim 2 1
+0 Rock 8 0
+0 Nacy 0 1
+1
+0 Rock 8 1
+0 Rock 7 0
+3 Matt 2
+0 Jim 2 0
+0 Jim 2 1
+0 Mike 6 0
+0 Kaz 7 0
+3 Nacy 1
+0 Rock 7 1
+0 Nacy 1 0
+3 Matt 4
+0 Jack 4 0
+0 Kaz 7 1
+2 Kaz
+0 Kaz 5 0
+2 Kaz
+2 Jim
+0 Mike 6 1
+0 Jim 1 0
+4 1431858297728 1431859813211
+0 Jim 1 1
+0 Nacy 1 1
+0 Rock 0 0
+0 Jim 0 0
+0 Jim 0 1
+0 Kaz 5 1
+1
+3 Jim 5
+0 Mike 8 0
+0 Jack 4 1
+4 1431851167728 1431859806081
+0 Rock 0 1
+0 Jim 8 0
+1
+1
+4 1431858456728 1431859813370
+0 Matt 2 1
+0 Mike 8 1
+0 Mike 4 0
+3 Matt 5
+0 Kaz 0 0
+2 Jack
+2 Jack
+0 Nacy 7 0
+4 1431853124728 1431859808038
+0 Kaz 0 1
+0 Rock 3 0
+0 Mike 4 1
+3 Rock 8
+0 Mike 1 0
+0 Kaz 6 0
+3 Jack 1
+0 Kaz 6 1
+0 Nacy 7 1
+4 1431854256728 1431859809170
+2 Matt
+4 1431856962728 1431859811876
+1
+0 Rock 4 0
+1
+1
+0 Jim 2 0
+4 1431855723728 1431859810637
+0 Jim 8 1
+0 Kaz 7 0
+2 Jim
+0 Jim 1 0
+0 Nacy 0 0
+0 Rock 3 1
+2 Jack
+0 Kaz 7 1
+0 Jack 5 0
+0 Matt 3 0
+3 Nacy 7
+0 Rock 5 0
+0 Matt 3 1
+0 Jim 1 1
+0 Jim 5 0
+1
+3 Jim 2
+4 1431859521728 1431859814435
+0 Matt 5 0
+3 Jim 0
+2 Matt
+0 Nacy 0 1
+0 Mike 1 1
+0 Matt 5 1
+0 Jim 5 1
+0 Matt 8 0
+2 Jim
+2 Jack
+1
+2 Kaz
+1
+2 Jim
+0 Jim 4 0
+0 Mike 3 0
+0 Mike 3 1
+2 Jim
+0 Jim 4 1
+0 Jim 1 0
+0 Jack 5 1
+1
+4 1431856224729 1431859811139
+2 Jim
+0 Jim 1 1
+0 Mike 2 0
+4 1431856606729 1431859811521
+0 Jim 7 0
+0 Nacy 1 0
+0 Matt 8 1
+0 Nacy 1 1
+0 Jack 5 0
+0 Jim 7 1
+0 Nacy 1 0
+0 Nacy 1 1
+2 Jim
+0 Mike 2 1
+3 Kaz 1
+0 Jack 5 1
+0 Rock 5 1
+0 Kaz 0 1
+1
+2 Rock
+0 Rock 5 0
+0 Mike 5 0
+1
+1
+4 1431857753729 1431859812668
+0 Mike 5 1
+3 Matt 2
+0 Jack 0 1
+0 Kaz 8 0
+0 Jack 4 1
+0 Jack 1 0
+0 Jim 6 0
+2 Rock
+0 Matt 7 0
+0 Mike 2 0
+0 Matt 7 1
+3 Jim 6
+0 Rock 5 1
+0 Nacy 1 0
+0 Kaz 1 0
+2 Mike
+0 Matt 3 0
+0 Jack 1 1
+0 Jack 0 0
+0 Jack 0 1
+1
+2 Nacy
+4 1431850719729 1431859805634
+2 Mike
+0 Jim 6 1
+0 Rock 3 0
+0 Rock 3 1
+1
+0 Rock 3 0
+2 Mike
+0 Matt 3 1
+3 Jack 5
+0 Kaz 8 1
+0 Jack 6 0
+2 Rock
+0 Mike 2 1
+0 Kaz 5 0
+0 Mike 4 0
+2 Kaz
+0 Jack 6 1
+0 Matt 6 0
+2 Jim
+0 Jack 3 0
+0 Kaz 5 0
+2 Nacy
+0 Jim 5 0
+4 1431851931729 1431859806846
+0 Kaz 5 1
+0 Kaz 5 0
+1
+4 1431855932729 1431859810847
+0 Nacy 1 1
+0 Jack 3 1
+0 Jack 5 0
+0 Jim 5 1
+4 1431858584729 1431859813499
+2 Matt
+0 Rock 1 0
+0 Jim 5 0
+1
+0 Mike 4 1
+2 Mike
+0 Mike 8 0
+2 Jack
+0 Matt 0 0
+0 Mike 8 1
+2 Mike
+4 1431852315729 1431859807230
+0 Rock 3 1
+0 Mike 5 0
+4 1431858950729 1431859813865
+0 Matt 6 1
+0 Jack 5 1
+0 Rock 4 0
+4 1431854618729 1431859809533
+0 Mike 5 1
+0 Jim 5 1
+0 Mike 4 0
+0 Jim 7 0
+0 Kaz 5 1
+0 Jim 7 1
+4 1431852259729 1431859807174
+0 Jack 0 0
+1
+2 Matt
+0 Jack 0 1
+0 Jim 7 0
+0 Jim 5 0
+4 1431853052729 1431859807967
+0 Kaz 4 0
+0 Kaz 4 1
+3 Jack 7
+4 1431859732729 1431859814647
+0 Nacy 5 0
+1
+0 Matt 1 0
+0 Matt 1 1
+0 Rock 4 1
+4 1431857535729 1431859812450
+0 Matt 3 1
+1
+0 Rock 5 0
+0 Jim 5 0
+1
+0 Jim 7 1
+3 Rock 4
+1
+2 Rock
+0 Rock 5 1
+3 Kaz 1
+0 Mike 5 0
+0 Kaz 0 0
+0 Jim 1 0
+0 Rock 5 0
+0 Mike 4 1
+0 Matt 6 0
+0 Jack 2 1
+0 Jack 6 0
+0 Rock 5 1
+2 Rock
+0 Jim 1 1
+0 Nacy 5 1
+0 Mike 2 1
+0 Nacy 2 0
+0 Matt 7 0
+1
+0 Rock 3 0
+0 Nacy 0 0
+0 Rock 3 1
+1
+2 Jim
+0 Kaz 0 1
+0 Kaz 2 0
+0 Kaz 2 1
+0 Kaz 2 0
+0 Kaz 2 1
+4 1431857249730 1431859812165
+2 Mike
+4 1431856216730 1431859811132
+0 Matt 6 1
+0 Jim 8 0
+0 Matt 4 0
+0 Matt 4 1
+2 Jim
+0 Kaz 8 0
+0 Jack 6 1
+2 Nacy
+2 Jack
+1
+1
+4 1431855381730 1431859810297
+0 Mike 5 0
+0 Nacy 2 1
+2 Jim
+0 Mike 5 1
+0 Nacy 8 0
+0 Mike 3 0
+0 Matt 5 0
+0 Rock 6 0
+0 Jack 2 0
+2 Jack
+2 Mike
+0 Jack 3 0
+0 Jack 2 1
+4 1431851334730 1431859806250
+2 Rock
+0 Rock 6 1
+2 Nacy
+0 Kaz 8 1
+0 Jack 3 0
+3 Jim 6
+0 Rock 3 1
+2 Matt
+0 Mike 3 0
+4 1431851163730 1431859806079
+4 1431852722730 1431859807638
+0 Kaz 4 0
+0 Rock 8 0
+4 1431852701730 1431859807617
+0 Nacy 8 1
+0 Jack 3 1
+0 Nacy 8 0
+0 Rock 8 1
+0 Nacy 8 1
+0 Mike 3 1
+2 Matt
+0 Matt 8 0
+0 Matt 5 1
+2 Nacy
+0 Mike 0 0
+4 1431851241730 1431859806157
+0 Mike 0 1
+0 Nacy 1 0
+3 Mike 0
+2 Mike
+0 Rock 7 0
+2 Mike
+1
+0 Jack 7 0
+0 Rock 7 1
+0 Rock 2 0
+0 Jack 7 1
+0 Jack 0 0
+0 Rock 2 1
+2 Mike
+0 Jack 0 1
+3 Rock 3
+4 1431857680731 1431859812597
+0 Nacy 1 1
+0 Matt 0 0
+0 Nacy 1 0
+0 Matt 0 1
+0 Mike 2 1
+2 Matt
+0 Mike 7 0
+3 Matt 8
+0 Nacy 1 1
+0 Rock 7 0
+0 Nacy 7 1
+2 Jack
+4 1431851980731 1431859806897
+0 Nacy 8 0
+2 Mike
+2 Matt
+1
+4 1431859368731 1431859814285
+0 Kaz 4 1
+3 Rock 4
+0 Nacy 8 1
+3 Matt 7
+0 Mike 7 1
+1
+0 Kaz 7 0
+0 Mike 5 0
+0 Nacy 3 0
+0 Jack 6 1
+0 Rock 7 1
+0 Jim 8 1
+3 Jim 3
+2 Nacy
+0 Jim 3 0
+0 Mike 0 0
+0 Rock 5 0
+0 Jim 3 1
+4 1431852978731 1431859807895
+4 1431852195731 1431859807112
+0 Jim 4 0
+1
+0 Nacy 8 0
+0 Mike 5 1
+0 Rock 5 1
+4 1431855450731 1431859810367
+0 Jack 8 0
+0 Jim 4 1
+1
+0 Nacy 3 1
+4 1431851252731 1431859806169
+0 Nacy 1 0
+0 Matt 0 0
+0 Matt 0 1
+4 1431851963731 1431859806880
+4 1431853546731 1431859808463
+0 Jack 8 1
+4 1431859397731 1431859814314
+2 Rock
+0 Nacy 1 1
+1
+0 Mike 5 0
+0 Matt 7 0
+0 Mike 5 1
+0 Rock 0 0
+0 Mike 6 0
+0 Matt 7 1
+4 1431852019731 1431859806936
+0 Jack 5 0
+0 Matt 6 0
+4 1431854219731 1431859809136
+3 Nacy 2
+0 Jack 5 1
+0 Mike 6 1
+0 Matt 3 0
+2 Jack
+0 Jim 6 0
+4 1431850675731 1431859805592
+0 Rock 0 1
+0 Nacy 7 0
+2 Matt
+0 Jim 6 1
+4 1431851631731 1431859806548
+0 Nacy 0 0
+0 Mike 8 0
+0 Jack 8 1
+0 Rock 3 0
+0 Matt 6 1
+0 Matt 1 0
+2 Mike
+2 Jim
+4 1431852136731 1431859807053
+0 Jack 8 0
+0 Mike 8 1
+0 Jack 8 1
+0 Jack 3 0
+0 Kaz 7 1
+0 Jack 3 1
+2 Jim
+0 Jack 8 0
+4 1431853782732 1431859808700
+0 Jack 8 1
+0 Nacy 7 1
+0 Jack 6 0
+0 Jack 6 1
+0 Jim 6 0
+1
+0 Rock 3 1
+0 Kaz 3 1
+3 Jack 4
+1
+0 Rock 6 0
+0 Jack 7 0
+3 Mike 2
+0 Rock 6 1
+4 1431853752732 1431859808670
+3 Matt 7
+1
+0 Kaz 6 0
+0 Rock 1 0
+4 1431854553732 1431859809471
+0 Mike 7 0
+0 Jim 6 1
+0 Jim 8 0
+0 Matt 1 1
+1
+3 Matt 1
+0 Mike 7 1
+0 Nacy 8 0
+4 1431855927732 1431859810845
+3 Jim 8
+0 Jim 8 1
+0 Mike 2 0
+0 Matt 7 0
+0 Jack 7 1
+1
+0 Nacy 8 1
+0 Rock 1 1
+0 Mike 2 1
+1
+2 Nacy
+3 Kaz 1
+0 Nacy 4 0
+0 Rock 7 0
+0 Kaz 6 1
+0 Jim 2 0
+0 Kaz 2 0
+0 Jim 2 1
+3 Mike 7
+3 Jack 4
+0 Matt 7 1
+0 Rock 7 1
+0 Kaz 2 1
+0 Kaz 4 0
+0 Jim 1 0
+0 Nacy 4 1
+1
+0 Rock 1 0
+1
+3 Matt 0
+0 Jim 1 1
+0 Jack 6 0
+0 Rock 1 1
+0 Jim 2 0
+0 Mike 6 0
+0 Jim 2 1
+0 Kaz 4 1
+0 Nacy 0 0
+0 Mike 6 1
+1
+0 Jim 0 0
+0 Kaz 2 0
+0 Rock 1 0
+0 Kaz 0 0
+0 Mike 0 0
+0 Matt 3 0
+0 Rock 1 1
+0 Matt 3 1
+2 Jack
+0 Jack 6 1
+0 Mike 0 1
+0 Jack 2 0
+0 Kaz 2 1
+0 Nacy 0 1
+1
+0 Kaz 4 0
+0 Mike 0 0
+4 1431850669732 1431859805587
+0 Rock 8 0
+0 Nacy 0 0
+0 Rock 8 1
+4 1431856880732 1431859811798
+0 Jack 2 1
+1
+0 Jim 0 1
+0 Jim 3 0
+0 Nacy 0 1
+0 Rock 7 1
+0 Matt 2 0
+2 Jim
+0 Kaz 4 1
+4 1431852270732 1431859807188
+0 Jack 4 0
+0 Mike 0 1
+0 Kaz 2 0
+0 Kaz 2 1
+4 1431858151732 1431859813069
+0 Kaz 1 0
+0 Jack 4 1
+0 Rock 5 0
+0 Matt 2 1
+0 Kaz 1 1
+0 Mike 4 0
+0 Rock 5 1
+4 1431850031732 1431859804949
+0 Jack 5 0
+0 Matt 1 1
+2 Kaz
+0 Nacy 3 0
+0 Rock 6 0
+1
+0 Jim 3 1
+2 Kaz
+0 Jim 7 0
+0 Nacy 3 1
+0 Jack 5 1
+0 Jim 7 1
+0 Rock 6 1
+0 Jack 5 0
+2 Kaz
+3 Jim 0
+2 Kaz
+0 Mike 4 1
+0 Mike 5 1
+0 Mike 3 0
+0 Jack 3 0
+0 Nacy 6 1
+0 Kaz 8 0
+0 Mike 3 1
+0 Jim 3 0
+2 Matt
+3 Mike 0
+1
+0 Mike 4 0
+0 Matt 7 0
+0 Kaz 8 1
+3 Mike 0
+1
+0 Jim 3 1
+0 Jim 6 0
+0 Mike 4 1
+4 1431859177733 1431859814096
+0 Kaz 1 0
+4 1431853543733 1431859808462
+0 Kaz 6 0
+2 Kaz
+0 Mike 7 0
+1
+4 1431853385733 1431859808304
+0 Jack 5 1
+2 Nacy
+0 Mike 7 1
+2 Mike
+4 1431859774733 1431859814693
+4 1431858940733 1431859813859
+0 Nacy 1 0
+0 Jack 2 1
+0 Rock 8 1
+0 Mike 0 0
+0 Kaz 1 1
+0 Jim 6 1
+0 Mike 0 1
+0 Kaz 5 0
+3 Kaz 4
+0 Matt 7 1
+4 1431856626733 1431859811545
+3 Matt 8
+4 1431853293733 1431859808212
+0 Matt 0 0
+2 Mike
+0 Jim 2 0
+0 Jack 2 0
+0 Rock 6 0
+0 Rock 6 1
+0 Matt 0 1
+0 Kaz 5 1
+0 Rock 1 0
+0 Mike 0 1
+0 Rock 1 1
+0 Nacy 1 1
+0 Mike 8 0
+0 Mike 8 1
+0 Matt 7 0
+4 1431859413733 1431859814332
+0 Nacy 7 0
+0 Matt 7 1
+0 Matt 3 0
+2 Jack
+4 1431855549733 1431859810468
+0 Nacy 7 1
+0 Mike 4 0
+0 Jack 2 1
+4 1431857572733 1431859812491
+1
+0 Jack 4 0
+0 Jack 4 1
+0 Jack 3 0
+4 1431853876733 1431859808795
+0 Mike 4 1
+0 Kaz 8 1
+0 Kaz 3 0
+0 Mike 2 0
+2 Matt
+2 Kaz
+2 Matt
+0 Jim 8 0
+0 Matt 3 1
+0 Jack 3 1
+0 Nacy 7 0
+2 Rock
+0 Mike 2 1
+0 Jim 2 0
+0 Jack 3 0
+0 Rock 3 0
+0 Nacy 7 1
+1
+0 Matt 6 0
+0 Jim 2 1
+1
+0 Jack 3 1
+3 Nacy 2
+0 Matt 6 1
+2 Mike
+4 1431859444733 1431859814363
+1
+0 Matt 3 0
+0 Matt 3 1
+0 Matt 2 0
+0 Jim 7 0
+0 Jim 7 1
+1
+0 Mike 3 0
+2 Jim
+1
+3 Mike 8
+1
+0 Matt 2 1
+0 Jack 1 0
+0 Jack 1 1
+0 Matt 3 0
+1
+0 Mike 3 1
+0 Jack 8 0
+0 Mike 7 0
+4 1431854809733 1431859809728
+2 Kaz
+0 Matt 3 1
+0 Jack 8 1
+0 Jim 3 1
+0 Mike 7 1
+0 Rock 0 0
+0 Kaz 3 1
+3 Matt 6
+3 Kaz 5
+2 Nacy
+3 Nacy 5
+2 Jim
+0 Mike 8 0
+1
+0 Matt 7 0
+0 Mike 8 1
+0 Jack 3 0
+3 Jim 8
+0 Mike 4 0
+4 1431850044733 1431859804963
+0 Kaz 1 0
+3 Mike 5
+0 Nacy 7 0
+0 Jim 2 0
+0 Kaz 1 1
+0 Matt 7 1
+0 Jim 2 1
+1
+0 Kaz 6 1
+0 Nacy 7 1
+3 Mike 6
+0 Matt 7 0
+3 Jack 6
+2 Nacy
+0 Jack 3 1
+1
+4 1431850425733 1431859805344
+0 Jack 5 0
+0 Nacy 7 0
+0 Jack 5 1
+0 Kaz 3 1
+4 1431851529733 1431859806448
+1
+3 Jim 0
+1
+0 Kaz 4 0
+0 Rock 3 1
+0 Jim 5 0
+0 Matt 7 1
+2 Nacy
+0 Jim 5 1
+0 Mike 4 1
+1
+0 Kaz 4 1
+0 Rock 2 0
+0 Mike 5 0
+4 1431854912733 1431859809831
+4 1431856697733 1431859811616
+0 Matt 1 0
+1
+0 Rock 2 1
+1
+0 Nacy 7 1
+0 Nacy 0 0
+0 Jim 6 0
+2 Matt
+4 1431851138734 1431859806058
+0 Nacy 0 1
+0 Rock 0 0
+0 Matt 1 1
+1
+0 Mike 2 0
+0 Nacy 8 0
+4 1431853427734 1431859808347
+0 Matt 5 0
+0 Jack 7 1
+0 Kaz 1 0
+0 Kaz 1 1
+0 Kaz 6 1
+0 Nacy 8 1
+0 Jack 4 0
+4 1431855126734 1431859810046
+0 Matt 5 1
+0 Rock 0 1
+0 Matt 0 0
+0 Kaz 6 0
+3 Kaz 2
+0 Jack 4 1
+0 Jim 6 1
+0 Matt 0 1
+0 Jim 0 1
+2 Mike
+0 Nacy 1 1
+2 Mike
+3 Kaz 2
+0 Matt 8 0
+0 Jim 4 0
+3 Kaz 3
+1
+0 Rock 3 0
+4 1431852449734 1431859807369
+4 1431852955734 1431859807875
+0 Kaz 6 1
+2 Jim
+2 Matt
+1
+1
+0 Kaz 4 1
+0 Matt 8 1
+2 Nacy
+3 Mike 6
+0 Matt 7 0
+0 Mike 5 1
+4 1431852034734 1431859806954
+0 Jack 3 1
+0 Jim 4 1
+0 Rock 3 1
+0 Matt 7 1
+4 1431854128734 1431859809048
+0 Nacy 3 0
+3 Rock 6
+0 Rock 0 0
+0 Nacy 3 1
+1
+0 Nacy 6 0
+0 Jim 0 0
+0 Jim 0 1
+0 Kaz 5 0
+0 Jim 6 1
+4 1431855875734 1431859810795
+0 Jack 1 0
+0 Kaz 5 1
+2 Nacy
+1
+2 Jack
+0 Rock 0 1
+1
+0 Nacy 6 1
+0 Jack 1 1
+0 Matt 8 0
+0 Jack 1 0
+0 Nacy 6 0
+2 Nacy
+0 Rock 1 0
+4 1431853756734 1431859808676
+0 Mike 2 0
+0 Jim 0 0
+0 Matt 8 1
+0 Jim 0 1
+3 Rock 7
+0 Mike 8 0
+0 Matt 5 0
+0 Mike 2 1
+0 Jack 1 1
+1
+2 Nacy
+2 Jim
+1
+0 Jim 1 0
+4 1431857707734 1431859812627
+0 Jim 1 1
+4 1431851485734 1431859806405
+1
+0 Rock 1 1
+0 Matt 5 1
+0 Mike 2 0
+3 Jack 4
+0 Matt 7 0
+0 Kaz 6 0
+0 Jack 6 0
+1
+0 Nacy 6 1
+3 Mike 0
+0 Mike 7 0
+1
+0 Kaz 6 0
+3 Rock 5
+0 Matt 7 1
+0 Matt 2 0
+4 1431850418734 1431859805338
+3 Nacy 4
+0 Kaz 6 1
+0 Jack 6 1
+0 Mike 2 1
+0 Matt 2 1
+0 Mike 0 1
+1
+0 Rock 4 0
+3 Mike 0
+2 Nacy
+1
+0 Rock 4 1
+0 Matt 5 0
+0 Matt 5 1
+0 Kaz 2 0
+1
+3 Kaz 7
+2 Rock
+2 Nacy
+1
+3 Jack 6
+2 Nacy
+0 Jack 7 0
+0 Mike 2 0
+2 Kaz
+0 Mike 2 1
+3 Jim 4
+4 1431850280734 1431859805200
+0 Jim 1 0
+0 Mike 2 0
+4 1431850995734 1431859805915
+1
+0 Kaz 2 1
+0 Matt 8 0
+0 Matt 8 1
+0 Kaz 6 0
+0 Kaz 6 1
+0 Jim 1 1
+0 Kaz 6 0
+3 Jack 1
+0 Jim 3 0
+3 Jack 0
+0 Nacy 8 0
+3 Jack 3
+0 Jim 3 1
+0 Jim 4 0
+0 Jim 4 1
+0 Nacy 8 1
+0 Nacy 5 1
+0 Rock 5 0
+3 Kaz 6
+1
+0 Matt 5 0
+0 Jack 7 1
+0 Jack 5 0
+1
+4 1431852262735 1431859807183
+0 Matt 5 1
+0 Jim 1 0
+0 Matt 0 0
+2 Nacy
+0 Rock 5 1
+1
+2 Kaz
+0 Rock 4 0
+0 Rock 4 1
+2 Jim
+0 Nacy 2 0
+2 Kaz
+0 Jim 1 1
+0 Matt 0 1
+0 Matt 0 0
+2 Rock
+2 Rock
+0 Jack 5 1
+0 Mike 2 1
+0 Jim 7 0
+4 1431859328735 1431859814249
+0 Rock 1 0
+0 Matt 0 1
+0 Jim 7 1
+0 Jack 5 0
+4 1431851417735 1431859806338
+1
+1
+0 Kaz 6 1
+0 Jim 1 0
+0 Mike 3 0
+0 Nacy 2 1
+0 Matt 5 0
+0 Jim 1 1
+1
+2 Nacy
+0 Matt 5 1
+0 Jim 7 0
+0 Matt 3 0
+0 Jack 5 1
+0 Kaz 1 0
+0 Mike 3 1
+0 Matt 3 1
+0 Matt 7 0
+0 Nacy 5 0
+4 1431853652735 1431859808573
+0 Nacy 4 0
+0 Mike 0 1
+3 Rock 2
+0 Jack 0 1
+0 Kaz 1 1
+0 Matt 7 1
+0 Jack 7 1
+4 1431851700735 1431859806621
+1
+4 1431859679735 1431859814600
+0 Jack 0 0
+4 1431859763735 1431859814684
+0 Jack 0 1
+0 Kaz 5 1
+1
+2 Matt
+0 Mike 7 0
+0 Mike 6 0
+3 Jim 7
+0 Jim 7 1
+2 Mike
+1
+0 Matt 0 0
+0 Matt 3 0
+0 Jack 7 0
+1
+0 Jack 7 1
+1
+1
+3 Mike 1
+0 Mike 7 1
+1
+0 Mike 1 0
+0 Kaz 1 0
+0 Jack 8 0
+0 Kaz 1 1
+1
+4 1431852008735 1431859806929
+0 Mike 1 1
+0 Nacy 5 1
+0 Mike 4 0
+3 Rock 2
+2 Matt
+3 Rock 0
+3 Jim 5
+0 Nacy 2 0
+2 Nacy
+0 Jack 8 1
+0 Mike 4 1
+4 1431849907735 1431859804828
+3 Jack 4
+3 Jim 7
+4 1431851499735 1431859806420
+4 1431852521735 1431859807442
+0 Jim 8 0
+0 Jack 3 0
+0 Rock 1 1
+0 Jack 6 0
+0 Rock 3 0
+0 Jim 8 1
+0 Mike 8 0
+0 Matt 0 1
+2 Mike
+3 Jim 2
+0 Jim 8 0
+0 Nacy 2 1
+1
+0 Mike 8 1
+1
+1
+0 Mike 8 0
+4 1431850852735 1431859805773
+0 Kaz 1 0
+4 1431858312735 1431859813233
+0 Matt 4 0
+0 Mike 8 1
+0 Jim 8 1
+0 Jack 6 0
+0 Jack 0 0
+0 Mike 6 0
+4 1431854704735 1431859809625
+0 Rock 3 1
+1
+2 Rock
+0 Matt 4 1
+4 1431856710735 1431859811631
+0 Jim 1 0
+2 Nacy
+2 Rock
+0 Matt 6 0
+1
+2 Nacy
+0 Rock 6 0
+3 Jack 8
+4 1431852860735 1431859807781
+1
+0 Matt 6 1
+0 Rock 0 0
+0 Kaz 1 1
+0 Matt 7 0
+0 Kaz 7 0
+0 Kaz 7 1
+0 Mike 6 1
+0 Jim 1 1
+0 Matt 7 1
+2 Jim
+0 Rock 6 1
+1
+2 Kaz
+0 Mike 3 0
+4 1431859361735 1431859814282
+0 Matt 8 0
+3 Jack 4
+0 Rock 7 0
+4 1431857910735 1431859812831
+1
+0 Matt 8 1
+4 1431852662735 1431859807583
+0 Nacy 6 0
+0 Matt 1 0
+0 Mike 3 1
+0 Mike 8 0
+0 Matt 1 1
+0 Kaz 6 0
+0 Rock 7 1
+4 1431852653735 1431859807574
+2 Rock
+0 Nacy 6 1
+0 Matt 4 0
+0 Jim 4 0
+2 Rock
+0 Kaz 6 1
+0 Jack 3 1
+0 Kaz 7 0
+0 Mike 7 0
+1
+1
+0 Mike 3 0
+0 Jack 7 0
+0 Matt 4 1
+0 Kaz 7 1
+0 Mike 8 1
+3 Jack 2
+0 Nacy 2 0
+0 Kaz 2 0
+2 Jack
+0 Nacy 2 1
+1
+0 Jim 4 1
+0 Kaz 8 0
+0 Jim 6 0
+2 Nacy
+0 Nacy 8 0
+0 Matt 0 0
+1
+2 Jim
+3 Rock 5
+0 Mike 5 0
+3 Jim 4
+1
+1
+3 Matt 8
+3 Matt 8
+2 Nacy
+2 Matt
+0 Kaz 2 1
+0 Jack 7 1
+4 1431850911736 1431859805833
+0 Jim 6 1
+0 Kaz 7 0
+0 Jack 7 0
+1
+0 Jack 7 1
+0 Matt 0 1
+0 Jack 0 0
+0 Nacy 8 1
+0 Mike 5 1
+0 Rock 1 0
+3 Nacy 4
+4 1431859139736 1431859814061
+0 Nacy 3 0
+2 Kaz
+0 Nacy 8 0
+0 Matt 0 0
+1
+4 1431853007736 1431859807929
+2 Jack
+0 Jack 0 1
+0 Kaz 7 1
+0 Matt 3 0
+0 Rock 1 1
+0 Jim 4 0
+0 Nacy 3 1
+1
+0 Matt 0 1
+0 Matt 8 0
+3 Kaz 7
+0 Jim 4 1
+0 Nacy 3 0
+2 Jim
+4 1431853178736 1431859808100
+3 Kaz 5
+0 Jim 4 0
+0 Nacy 3 1
+3 Kaz 3
+1
+0 Jim 4 1
+0 Jim 3 0
+2 Rock
+0 Jim 3 1
+0 Rock 0 0
+0 Kaz 6 0
+0 Rock 0 1
+0 Rock 5 0
+0 Mike 7 0
+0 Mike 7 1
+4 1431850014736 1431859804936
+3 Nacy 6
+0 Jack 1 0
+0 Rock 5 1
+0 Mike 6 0
+0 Kaz 6 1
+1
+2 Kaz
+4 1431856672736 1431859811594
+3 Jack 7
+4 1431853624736 1431859808546
+0 Jim 2 1
+0 Nacy 7 0
+0 Jack 1 1
+0 Nacy 7 1
+0 Jim 5 0
+0 Matt 8 1
+0 Nacy 7 0
+0 Matt 1 0
+0 Jack 1 0
+4 1431853950736 1431859808872
+0 Nacy 7 1
+0 Rock 2 0
+0 Mike 6 1
+4 1431858783736 1431859813705
+0 Kaz 2 0
+0 Kaz 2 1
+0 Jim 5 1
+1
+0 Kaz 7 0
+0 Jim 1 0
+0 Nacy 3 0
+0 Kaz 7 1
+0 Matt 1 1
+0 Matt 7 0
+0 Jim 1 1
+3 Jim 1
+0 Rock 2 1
+0 Kaz 0 0
+4 1431852927736 1431859807849
+3 Jim 7
+0 Matt 7 1
+0 Jim 1 0
+2 Mike
+0 Jim 1 1
+2 Jim
+0 Jim 3 0
+0 Nacy 3 1
+0 Mike 4 1
+0 Matt 8 0
+0 Kaz 0 1
+1
+1
+1
+4 1431849868736 1431859804790
+1
+0 Matt 8 1
+0 Jack 1 1
+0 Kaz 4 0
+3 Jim 3
+0 Rock 3 0
+0 Kaz 4 1
+0 Nacy 8 0
+4 1431857994736 1431859812916
+0 Nacy 8 1
+0 Jim 3 1
+0 Kaz 0 0
+0 Jack 8 0
+0 Matt 5 0
+0 Jack 8 1
+4 1431856631736 1431859811553
+0 Jack 3 0
+0 Matt 5 1
+3 Jack 5
+1
+0 Nacy 1 1
+0 Rock 3 1
+0 Matt 6 0
+0 Rock 5 1
+1
+3 Kaz 8
+0 Mike 8 1
+0 Matt 6 1
+0 Jack 3 1
+0 Mike 0 0
+1
+3 Mike 7
+1
+0 Matt 3 0
+3 Jack 3
+0 Rock 5 0
+0 Jack 8 0
+3 Jim 0
+0 Jack 4 0
+0 Mike 0 1
+0 Kaz 0 1
+0 Rock 5 1
+0 Mike 7 0
+4 1431859674737 1431859814597
+0 Matt 3 1
+0 Matt 1 0
+0 Mike 7 1
+2 Mike
+0 Rock 8 0
+0 Mike 5 0
+3 Rock 0
+0 Rock 8 1
+0 Kaz 2 0
+0 Nacy 1 0
+3 Mike 4
+0 Jack 8 1
+0 Jim 2 0
+0 Jim 2 1
+3 Kaz 3
+0 Jack 3 0
+2 Mike
+0 Nacy 1 1
+3 Mike 7
+2 Mike
+0 Jack 4 0
+0 Matt 1 1
+3 Nacy 6
+0 Rock 5 0
+2 Mike
+0 Matt 7 0
+0 Mike 3 0
+0 Kaz 2 1
+1
+4 1431856630737 1431859811553
+0 Rock 5 1
+0 Jack 3 1
+4 1431851504737 1431859806427
+0 Jim 7 0
+4 1431854556737 1431859809479
+2 Kaz
+1
+0 Jim 7 1
+0 Kaz 8 0
+2 Jack
+4 1431854276737 1431859809199
+0 Mike 5 1
+0 Kaz 8 1
+0 Nacy 6 0
+0 Nacy 6 1
+0 Matt 7 1
+2 Matt
+0 Matt 3 0
+0 Jack 0 1
+3 Rock 8
+0 Matt 3 1
+0 Mike 7 0
+0 Matt 8 0
+1
+4 1431851084737 1431859806007
+0 Kaz 7 0
+1
+3 Nacy 1
+1
+2 Nacy
+0 Jack 7 0
+1
+4 1431849872737 1431859804795
+0 Jim 1 0
+0 Jack 7 1
+0 Mike 7 1
+0 Jack 6 0
+0 Jack 6 1
+0 Nacy 5 0
+0 Jim 1 1
+4 1431850720737 1431859805643
+0 Rock 8 0
+0 Kaz 7 1
+2 Matt
+0 Matt 8 1
+2 Jack
+0 Mike 2 0
+2 Kaz
+0 Rock 8 1
+0 Mike 2 1
+1
+2 Jack
+4 1431856184737 1431859811107
+0 Mike 6 0
+0 Matt 8 0
+0 Nacy 5 1
+0 Jack 1 0
+4 1431857647737 1431859812570
+0 Kaz 1 0
+3 Jack 7
+0 Jim 7 0
+0 Jack 1 1
+0 Matt 8 1
+3 Jack 1
+0 Kaz 5 0
+3 Matt 7
+0 Kaz 1 1
+0 Jim 7 1
+0 Rock 7 0
+0 Jack 6 0
+4 1431854257737 1431859809180
+2 Matt
+0 Nacy 8 0
+0 Kaz 5 1
+0 Rock 7 1
+4 1431855257737 1431859810180
+0 Matt 3 0
+0 Jack 6 1
+0 Matt 8 0
+4 1431855932737 1431859810855
+0 Jim 2 0
+0 Nacy 8 1
+0 Jim 2 1
+4 1431851199737 1431859806122
+0 Matt 3 1
+0 Matt 8 0
+0 Jim 6 0
+0 Mike 6 1
+2 Kaz
+4 1431856659737 1431859811582
+0 Rock 8 0
+3 Jack 6
+0 Matt 8 1
+1
+4 1431858321737 1431859813244
+3 Jim 7
+0 Rock 8 1
+2 Nacy
+3 Matt 6
+0 Mike 3 0
+0 Matt 2 0
+0 Jack 8 0
+0 Nacy 8 0
+3 Mike 0
+0 Matt 1 0
+1
+0 Rock 8 1
+0 Mike 3 1
+0 Jack 8 1
+1
+3 Rock 7
+3 Rock 2
+3 Kaz 8
+0 Rock 1 0
+0 Jack 5 0
+3 Mike 0
+0 Nacy 1 0
+0 Rock 1 1
+2 Matt
+4 1431859103737 1431859814026
+0 Nacy 8 1
+0 Jim 6 1
+3 Nacy 0
+0 Mike 3 0
+4 1431857223737 1431859812146
+1
+0 Mike 3 1
+2 Kaz
+2 Mike
+1
+0 Nacy 5 0
+0 Rock 4 0
+1
+0 Jim 6 0
+1
+2 Nacy
+4 1431858403738 1431859813327
+4 1431859132738 1431859814056
+0 Rock 4 1
+3 Mike 8
+0 Kaz 7 0
+0 Rock 6 0
+2 Mike
+0 Jim 6 1
+3 Rock 6
+0 Kaz 7 1
+0 Jim 1 1
+1
+2 Jack
+2 Rock
+4 1431854266738 1431859809190
+0 Kaz 2 1
+0 Nacy 5 1
+4 1431855276738 1431859810200
+0 Nacy 8 1
+0 Kaz 7 0
+3 Jack 1
+0 Jack 5 1
+3 Nacy 8
+0 Rock 6 1
+4 1431854769738 1431859809693
+1
+3 Mike 1
+0 Jack 6 0
+1
+1
+4 1431855346738 1431859810270
+0 Kaz 7 1
+4 1431851800738 1431859806724
+0 Kaz 3 0
+3 Rock 0
+1
+0 Jim 5 0
+0 Nacy 2 0
+3 Jack 3
+3 Mike 6
+0 Nacy 2 1
+2 Matt
+0 Jack 6 1
+0 Rock 4 0
+3 Matt 8
+2 Nacy
+0 Kaz 3 1
+0 Mike 4 0
+0 Matt 2 1
+0 Jim 5 1
+1
+1
+0 Jack 1 0
+2 Rock
+1
+0 Jim 6 0
+4 1431857958738 1431859812882
+0 Nacy 8 1
+2 Mike
+0 Kaz 1 0
+0 Rock 4 1
+0 Kaz 1 1
+3 Kaz 2
+0 Matt 0 0
+1
+2 Nacy
+3 Kaz 8
+0 Matt 0 1
+0 Jim 6 1
+3 Mike 3
+0 Rock 2 0
+0 Matt 4 0
+0 Jack 1 1
+0 Rock 2 1
+0 Mike 4 1
+0 Matt 4 1
+0 Jack 3 0
+0 Rock 8 0
+1
+0 Mike 4 0
+0 Kaz 5 0
+0 Kaz 5 1
+0 Mike 4 1
+4 1431858938738 1431859813862
+0 Jim 5 0
+0 Jack 3 1
+4 1431854601738 1431859809525
+0 Matt 0 0
+0 Jack 5 0
+1
+4 1431858977738 1431859813901
+0 Nacy 1 1
+0 Jim 5 1
+0 Mike 6 0
+3 Jack 6
+0 Mike 6 1
+0 Mike 2 0
+2 Rock
+0 Rock 4 0
+0 Mike 2 1
+3 Rock 7
+4 1431852601738 1431859807525
+0 Mike 6 1
+0 Jim 5 0
+0 Nacy 0 1
+2 Rock
+0 Jim 5 1
+0 Nacy 5 0
+0 Kaz 7 0
+0 Mike 8 0
+0 Mike 8 1
+0 Mike 4 0
+0 Jim 6 0
+0 Matt 0 1
+0 Jack 5 1
+2 Jack
+3 Jim 1
+0 Rock 0 0
+0 Mike 4 1
+0 Rock 8 1
+3 Jack 2
+0 Nacy 5 1
+4 1431854784738 1431859809708
+0 Mike 6 0
+0 Matt 1 0
+3 Jack 0
+0 Kaz 7 1
+0 Kaz 0 0
+0 Nacy 0 0
+0 Nacy 0 1
+0 Jack 5 1
+0 Kaz 0 1
+0 Jack 8 0
+0 Nacy 7 0
+0 Mike 6 1
+0 Jack 8 1
+2 Jim
+0 Matt 1 1
+4 1431858002738 1431859812926
+2 Kaz
+0 Mike 2 0
+0 Jack 2 0
+0 Nacy 7 1
+0 Kaz 5 0
+0 Jim 6 1
+0 Jack 8 0
+0 Kaz 5 1
+0 Rock 6 0
+0 Mike 2 1
+0 Jim 2 0
+0 Jim 1 0
+0 Mike 4 0
+0 Kaz 0 0
+0 Jim 2 1
+0 Kaz 0 1
+0 Jim 4 0
+3 Jack 7
+0 Kaz 6 0
+0 Nacy 8 0
+0 Rock 6 1
+3 Matt 3
+0 Jim 4 1
+4 1431853329738 1431859808253
+4 1431855313738 1431859810237
+0 Nacy 8 1
+3 Matt 5
+0 Jack 2 1
+0 Rock 6 0
+4 1431855924738 1431859810848
+0 Matt 0 0
+0 Mike 4 1
+0 Nacy 3 0
+2 Jim
+0 Mike 1 0
+0 Jim 6 0
+2 Nacy
+4 1431853630738 1431859808554
+0 Matt 0 1
+0 Rock 6 1
+0 Nacy 3 1
+0 Rock 3 0
+2 Nacy
+1
+0 Jack 8 0
+0 Rock 3 1
+0 Mike 1 1
+1
+0 Rock 4 0
+0 Matt 8 0
+2 Rock
+0 Kaz 6 1
+0 Rock 4 1
+0 Jack 8 1
+1
+0 Mike 4 0
+0 Kaz 5 0
+0 Jack 1 0
+0 Kaz 5 1
+0 Rock 7 0
+0 Kaz 1 1
+0 Kaz 6 0
+4 1431857905738 1431859812829
+0 Matt 8 1
+1
+0 Jack 1 1
+4 1431858922738 1431859813846
+0 Kaz 6 1
+0 Jim 6 1
+1
+0 Matt 8 0
+4 1431853803738 1431859808727
+0 Rock 7 1
+3 Matt 6
+0 Rock 0 0
+0 Rock 0 1
+4 1431853864739 1431859808789
+4 1431856355739 1431859811280
+4 1431850267739 1431859805192
+2 Jim
+4 1431851566739 1431859806491
+0 Nacy 8 0
+0 Jim 8 0
+4 1431854197739 1431859809122
+1
+0 Jim 2 0
+3 Mike 0
+4 1431857168739 1431859812093
+0 Nacy 8 1
+1
+4 1431854176739 1431859809101
+0 Mike 4 1
+2 Rock
+3 Kaz 5
+0 Kaz 5 0
+2 Jack
+0 Nacy 8 0
+0 Matt 8 1
+4 1431857637739 1431859812562
+0 Nacy 8 1
+2 Jack
+0 Jack 1 0
+0 Mike 3 0
+0 Nacy 8 0
+0 Jack 1 1
+0 Mike 3 1
+2 Matt
+0 Matt 8 1
+0 Jim 8 1
+0 Rock 1 1
+0 Jack 6 0
+1
+4 1431852603739 1431859807528
+2 Matt
+0 Jack 6 1
+0 Jim 6 0
+1
+2 Jim
+0 Kaz 5 1
+0 Jim 6 1
+0 Matt 3 0
+3 Mike 0
+0 Matt 3 1
+4 1431853291739 1431859808216
+0 Mike 2 0
+0 Rock 0 0
+0 Mike 2 1
+0 Jack 4 0
+1
+0 Mike 1 0
+0 Kaz 1 0
+2 Rock
+0 Jim 6 0
+1
+0 Mike 1 1
+4 1431852416739 1431859807341
+0 Jack 4 1
+3 Nacy 4
+4 1431858212739 1431859813137
+0 Matt 6 0
+0 Jim 6 1
+0 Rock 0 1
+2 Matt
+2 Nacy
+0 Jim 5 0
+2 Nacy
+0 Matt 6 1
+1
+0 Jack 2 0
+0 Matt 5 0
+0 Rock 8 0
+0 Matt 5 1
+4 1431858939739 1431859813864
+0 Rock 8 1
+2 Nacy
+0 Jim 5 1
+0 Rock 2 0
+0 Jack 2 1
+3 Kaz 5
+2 Jim
+2 Jack
+3 Kaz 8
+1
+0 Kaz 1 1
+3 Kaz 7
+2 Kaz
+0 Rock 2 1
+1
+2 Nacy
+0 Jack 3 1
+0 Kaz 3 0
+0 Jim 4 0
+2 Matt
+2 Rock
+4 1431856083739 1431859811008
+0 Mike 1 0
+0 Matt 5 1
+0 Nacy 8 1
+0 Jack 3 0
+4 1431853891739 1431859808816
+4 1431852558739 1431859807483
+0 Matt 6 0
+0 Mike 1 1
+0 Jim 4 1
+0 Mike 6 1
+1
+1
+0 Rock 4 0
+1
+2 Matt
+3 Nacy 3
+2 Kaz
+4 1431854050739 1431859808975
+2 Nacy
+0 Jim 6 0
+0 Jack 3 1
+0 Rock 4 1
+2 Mike
+0 Jack 8 0
+0 Matt 6 1
+3 Jim 1
+0 Kaz 3 1
+0 Rock 2 0
+0 Kaz 6 0
+0 Matt 8 0
+1
+0 Jim 6 1
+0 Matt 8 1
+0 Nacy 1 0
+0 Kaz 6 1
+0 Mike 6 0
+0 Rock 2 1
+1
+0 Jack 8 1
+4 1431857918739 1431859812843
+3 Jim 2
+2 Jim
+2 Mike
+0 Jack 8 0
+0 Kaz 6 0
+1
+0 Mike 6 1
+4 1431856621739 1431859811546
+4 1431859179739 1431859814104
+1
+1
+0 Matt 3 0
+0 Kaz 6 1
+0 Rock 6 0
+0 Jim 8 0
+3 Rock 4
+0 Rock 6 1
+2 Rock
+1
+4 1431853344739 1431859808269
+0 Matt 3 1
+4 1431854666739 1431859809591
+0 Matt 2 0
+0 Jack 8 1
+2 Matt
+0 Jack 7 0
+0 Nacy 1 1
+1
+0 Nacy 0 0
+0 Matt 8 0
+1
+1
+4 1431849971739 1431859804896
+0 Kaz 3 0
+3 Kaz 6
+0 Kaz 3 1
+0 Mike 4 0
+0 Kaz 2 0
+0 Nacy 0 1
+0 Nacy 7 1
+1
+0 Matt 2 1
+4 1431853031739 1431859807956
+0 Kaz 2 1
+0 Jack 7 1
+3 Rock 7
+4 1431851635739 1431859806560
+4 1431857214739 1431859812139
+1
+0 Mike 4 1
+0 Rock 2 0
+2 Mike
+2 Jack
+0 Nacy 8 0
+4 1431852940739 1431859807865
+0 Nacy 8 1
+0 Jim 8 1
+0 Jim 1 0
+2 Mike
+0 Rock 2 1
+0 Nacy 3 0
+0 Jack 8 0
+0 Rock 3 0
+3 Jim 1
+0 Jim 1 1
+2 Rock
+1
+0 Jack 7 0
+2 Jim
+0 Jim 6 0
+3 Jim 3
+1
+0 Mike 4 0
+4 1431857461740 1431859812387
+0 Mike 4 1
+2 Jack
+0 Kaz 7 0
+0 Mike 5 0
+0 Jack 8 1
+2 Kaz
+0 Mike 5 1
+0 Nacy 3 1
+0 Rock 3 1
+1
+0 Jim 6 1
+4 1431853599740 1431859808525
+4 1431855831740 1431859810757
+4 1431852765740 1431859807691
+0 Jim 3 1
+2 Jack
+0 Jim 8 0
+4 1431856375740 1431859811301
+4 1431859753740 1431859814679
+0 Nacy 0 1
+0 Mike 5 0
+1
+4 1431855354740 1431859810280
+0 Matt 0 1
+1
+1
+0 Kaz 7 1
+0 Jack 7 0
+3 Mike 1
+4 1431850529740 1431859805455
+4 1431851267740 1431859806193
+0 Kaz 6 0
+1
+2 Rock
+2 Mike
+0 Matt 4 0
+0 Matt 4 1
+0 Rock 6 0
+0 Rock 6 1
+0 Kaz 6 1
+0 Kaz 8 0
+3 Mike 4
+3 Mike 4
+4 1431853775740 1431859808701
+0 Rock 4 0
+1
+0 Rock 4 1
+0 Mike 5 1
+3 Kaz 6
+0 Matt 0 0
+0 Nacy 5 0
+0 Jack 7 1
+0 Mike 5 0
+0 Nacy 5 1
+1
+0 Kaz 8 1
+0 Nacy 7 0
+2 Matt
+1
+0 Jim 8 1
+0 Jim 8 0
+3 Kaz 7
+0 Jack 4 0
+2 Rock
+4 1431856463740 1431859811389
+3 Matt 6
+0 Kaz 0 1
+1
+3 Kaz 1
+0 Jim 8 1
+2 Nacy
+0 Nacy 7 1
+2 Matt
+4 1431853293740 1431859808219
+2 Rock
+4 1431859217740 1431859814143
+4 1431852512740 1431859807438
+0 Mike 6 0
+0 Nacy 6 0
+1
+0 Kaz 4 0
+1
+0 Jack 4 1
+1
+3 Kaz 4
+2 Nacy
+0 Nacy 6 1
+0 Mike 5 1
+0 Rock 6 0
+4 1431855444740 1431859810370
+4 1431850322740 1431859805248
+0 Matt 0 1
+0 Kaz 4 1
+0 Rock 6 1
+2 Nacy
+0 Rock 8 1
+0 Rock 8 0
+2 Nacy
+0 Jack 2 0
+0 Jack 2 1
+2 Nacy
+0 Rock 8 1
+0 Mike 1 0
+0 Nacy 5 0
+1
+4 1431855102740 1431859810028
+2 Matt
+1
+0 Mike 1 1
+2 Nacy
+1
+0 Jim 2 0
+2 Jim
+2 Nacy
+2 Mike
+0 Nacy 5 1
+3 Matt 1
+0 Kaz 8 0
+0 Matt 3 0
+0 Kaz 8 1
+0 Rock 2 0
+4 1431850528740 1431859805454
+1
+0 Matt 3 1
+0 Kaz 6 0
+0 Mike 5 0
+0 Jim 2 1
+3 Rock 4
+0 Kaz 6 1
+0 Rock 2 1
+0 Nacy 4 0
+0 Nacy 4 1
+0 Mike 5 1
+1
+0 Jim 8 0
+0 Rock 0 0
+2 Kaz
+2 Rock
+0 Mike 1 0
+0 Matt 3 0
+4 1431855322741 1431859810249
+3 Jim 3
+2 Jim
+0 Rock 0 1
+0 Rock 8 0
+0 Matt 3 1
+0 Jim 8 1
+1
+2 Jim
+0 Rock 8 1
+4 1431856177741 1431859811104
+0 Rock 8 0
+0 Rock 8 1
+4 1431858188741 1431859813115
+1
+0 Jim 0 0
+0 Kaz 7 0
+2 Nacy
+0 Rock 6 1
+0 Jack 1 0
+0 Jack 1 1
+2 Jack
+0 Jim 5 0
+0 Mike 1 1
+0 Matt 6 1
+0 Jim 0 1
+2 Jim
+0 Mike 4 0
+0 Nacy 6 0
+0 Mike 4 1
+0 Mike 8 0
+0 Mike 8 1
+0 Matt 8 0
+2 Kaz
+0 Mike 3 0
+0 Jack 2 0
+1
+4 1431854879741 1431859809806
+0 Kaz 7 1
+0 Matt 8 1
+0 Mike 3 1
+0 Jack 2 1
+0 Jack 7 0
+0 Nacy 6 1
+2 Jim
+3 Kaz 8
+0 Mike 4 0
+3 Jim 6
+0 Kaz 6 0
+0 Mike 4 1
+0 Jim 7 0
+0 Kaz 6 1
+0 Rock 5 0
+0 Kaz 2 0
+0 Nacy 0 0
+0 Nacy 0 1
+0 Jim 7 1
+2 Jim
+0 Jim 4 0
+2 Jim
+0 Rock 5 1
+1
+1
+0 Mike 1 0
+4 1431855492741 1431859810419
+0 Kaz 2 1
+0 Jim 4 1
+4 1431851475741 1431859806402
+0 Rock 4 0
+0 Nacy 2 0
+4 1431858780741 1431859813707
+1
+0 Matt 7 0
+0 Jim 7 0
+0 Jim 7 1
+1
+0 Jack 7 1
+0 Rock 4 1
+3 Nacy 7
+3 Jack 0
+0 Nacy 2 1
+4 1431853216741 1431859808143
+0 Nacy 4 0
+0 Mike 1 1
+3 Kaz 3
+0 Jack 5 0
+3 Matt 7
+2 Kaz
+0 Nacy 4 1
+0 Kaz 7 0
+0 Kaz 7 1
+0 Rock 3 0
+1
+0 Rock 3 1
+0 Rock 5 0
+3 Rock 4
+3 Rock 6
+1
+0 Jack 5 1
+0 Kaz 5 0
+1
+1
+3 Matt 8
+0 Nacy 0 0
+1
+4 1431854844741 1431859809771
+3 Kaz 0
+0 Kaz 7 0
+2 Jim
+0 Jim 6 0
+0 Nacy 0 1
+0 Nacy 2 0
+0 Mike 8 0
+0 Rock 5 1
+0 Jim 6 1
+3 Jim 1
+4 1431853873741 1431859808800
+0 Kaz 5 1
+3 Matt 6
+0 Nacy 2 1
+0 Mike 8 1
+0 Jack 4 0
+0 Jim 4 0
+3 Nacy 4
+1
+3 Jim 5
+0 Rock 1 0
+2 Jack
+0 Mike 6 0
+4 1431853825741 1431859808752
+0 Mike 6 1
+0 Jim 4 1
+0 Kaz 4 0
+0 Kaz 4 1
+3 Kaz 2
+4 1431859499741 1431859814426
+3 Matt 6
+1
+0 Jack 4 1
+0 Jim 8 0
+2 Jack
+1
+0 Mike 6 0
+0 Jack 7 0
+0 Nacy 8 0
+0 Jim 8 1
+2 Mike
+0 Jim 0 0
+0 Jim 0 1
+0 Jack 7 1
+0 Kaz 4 0
+0 Mike 6 1
+0 Nacy 8 1
+0 Rock 1 1
+3 Kaz 1
+2 Kaz
+0 Nacy 2 0
+0 Mike 2 0
+2 Mike
+0 Kaz 4 1
+1
+0 Kaz 3 0
+0 Rock 7 0
+1
+2 Mike
+2 Kaz
+3 Nacy 3
+1
+1
+2 Jim
+0 Jack 2 0
+1
+0 Rock 7 1
+0 Matt 7 1
+4 1431854806741 1431859809733
+0 Kaz 3 1
+0 Jack 2 1
+0 Jim 2 1
+0 Jack 8 0
+2 Jim
+0 Rock 5 0
+0 Jack 8 1
+0 Nacy 1 0
+3 Jack 4
+0 Matt 2 0
+0 Rock 5 1
+0 Matt 2 1
+0 Jack 4 0
+0 Rock 0 0
+0 Jack 4 1
+4 1431851999742 1431859806927
+0 Mike 2 1
+3 Matt 8
+2 Nacy
+3 Matt 1
+0 Jim 8 0
+3 Jim 8
+2 Mike
+0 Jack 4 0
+4 1431856207742 1431859811135
+0 Mike 3 0
+0 Jim 8 1
+0 Mike 3 1
+0 Mike 5 1
+1
+2 Jim
+0 Jim 4 0
+0 Nacy 2 1
+4 1431851862742 1431859806790
+0 Matt 6 0
+3 Jim 2
+0 Jim 4 1
+2 Jim
+0 Nacy 7 0
+0 Mike 4 0
+4 1431856549742 1431859811477
+0 Jack 4 1
+0 Kaz 1 0
+0 Rock 0 1
+0 Nacy 7 1
+0 Mike 4 1
+0 Nacy 1 0
+0 Nacy 1 1
+0 Jack 8 0
+3 Rock 3
+0 Kaz 1 1
+3 Jack 5
+0 Jack 8 1
+0 Kaz 8 0
+2 Nacy
+0 Rock 2 0
+0 Nacy 2 0
+0 Nacy 2 1
+0 Nacy 7 0
+0 Matt 6 1
+3 Matt 4
+3 Jack 7
+1
+0 Nacy 7 1
+1
+0 Mike 4 0
+1
+3 Jack 1
+0 Matt 8 0
+3 Nacy 6
+0 Jack 8 0
+2 Matt
+0 Matt 8 1
+0 Nacy 2 0
+0 Jack 8 1
+0 Kaz 8 1
+1
+0 Jim 8 0
+0 Kaz 1 0
+3 Jim 4
+0 Mike 4 1
+1
+3 Nacy 0
+0 Kaz 1 1
+0 Jim 8 1
+0 Rock 2 1
+4 1431855346742 1431859810274
+0 Mike 7 1
+0 Mike 8 0
+0 Nacy 2 1
+0 Mike 8 1
+3 Mike 6
+1
+4 1431854899742 1431859809827
+0 Nacy 2 0
+3 Nacy 0
+0 Matt 8 0
+4 1431851011742 1431859805939
+0 Jack 1 0
+0 Rock 2 0
+4 1431853957742 1431859808885
+0 Matt 8 1
+2 Rock
+0 Rock 2 1
+0 Kaz 6 0
+0 Jim 4 0
+0 Mike 7 0
+0 Jack 0 0
+0 Rock 0 0
+0 Kaz 6 1
+0 Nacy 7 0
+0 Mike 7 1
+2 Jack
+0 Kaz 3 0
+0 Kaz 3 1
+0 Rock 0 1
+2 Rock
+0 Rock 6 0
+0 Mike 5 0
+3 Kaz 7
+0 Matt 7 0
+0 Jack 1 1
+0 Mike 5 1
+0 Matt 7 1
+0 Kaz 5 0
+0 Jim 4 1
+0 Jack 0 0
+0 Mike 3 0
+1
+0 Jack 0 1
+0 Rock 6 1
+0 Jack 1 0
+0 Jim 6 0
+2 Kaz
+4 1431853671743 1431859808600
+0 Jim 6 1
+0 Rock 3 0
+0 Mike 3 1
+0 Jim 0 0
+0 Mike 2 0
+0 Nacy 6 0
+0 Mike 2 1
+2 Mike
+0 Jack 1 1
+0 Mike 8 0
+0 Matt 0 0
+0 Kaz 5 1
+2 Rock
+0 Nacy 2 1
+0 Matt 0 1
+1
+0 Mike 8 1
+1
+3 Kaz 3
+3 Jack 7
+1
+0 Kaz 7 0
+1
+0 Rock 3 1
+0 Matt 3 0
+0 Jim 0 1
+0 Nacy 3 0
+0 Jim 7 0
+3 Matt 3
+1
+1
+0 Mike 5 0
+4 1431852647743 1431859807576
+0 Jim 7 1
+0 Nacy 3 1
+4 1431859656743 1431859814585
+0 Mike 5 1
+0 Jack 3 0
+2 Jim
+0 Matt 3 1
+0 Jim 8 0
+0 Jim 8 1
+0 Mike 3 0
+0 Matt 6 0
+0 Mike 3 1
+0 Mike 0 0
+3 Jim 5
+3 Rock 7
+2 Nacy
+3 Matt 4
+0 Jim 3 0
+0 Kaz 7 1
+3 Mike 6
+0 Mike 3 0
+0 Jim 3 1
+2 Matt
+0 Kaz 7 0
+2 Rock
+0 Rock 8 0
+0 Jim 3 0
+0 Jim 3 1
+0 Mike 0 1
+1
+0 Kaz 7 1
+0 Mike 5 0
+0 Nacy 5 0
+1
+3 Matt 0
+4 1431853039743 1431859807968
+0 Nacy 5 1
+4 1431850205743 1431859805134
+2 Jim
+0 Jim 3 0
+4 1431850430743 1431859805359
+0 Rock 8 1
+4 1431853983743 1431859808912
+3 Matt 0
+0 Kaz 2 0
+0 Jim 3 1
+4 1431855847743 1431859810776
+3 Mike 7
+3 Nacy 1
+3 Rock 2
+2 Jim
+1
+4 1431854930743 1431859809859
+3 Matt 4
+0 Rock 2 0
+0 Jim 5 0
+4 1431857207743 1431859812136
+3 Jim 3
+0 Jim 5 1
+3 Rock 1
+0 Matt 6 1
+2 Mike
+0 Rock 2 1
+0 Kaz 2 1
+0 Jack 3 1
+0 Jack 6 0
+0 Nacy 3 0
+0 Matt 5 0
+0 Matt 5 1
+3 Rock 4
+0 Nacy 3 1
+0 Jim 7 0
+0 Jack 6 1
+0 Mike 5 1
+0 Jack 3 0
+4 1431858705743 1431859813634
+3 Nacy 6
+0 Matt 7 0
+0 Jim 7 1
+0 Jack 6 0
+4 1431854146743 1431859809075
+1
+0 Nacy 4 0
+3 Mike 3
+0 Mike 6 0
+1
+2 Kaz
+0 Kaz 6 0
+0 Jim 1 0
+0 Matt 7 1
+0 Jack 1 0
+0 Matt 5 0
+3 Jack 8
+0 Jim 1 1
+2 Jim
+0 Jack 3 1
+0 Rock 6 0
+1
+1
+2 Matt
+0 Jack 2 0
+0 Rock 6 1
+0 Kaz 5 0
+4 1431856518743 1431859811447
+2 Jack
+1
+0 Nacy 4 1
+0 Nacy 2 0
+2 Rock
+0 Matt 5 1
+2 Mike
+0 Nacy 2 1
+0 Kaz 6 1
+0 Matt 4 0
+0 Kaz 3 0
+0 Matt 4 1
+2 Nacy
+0 Jim 4 0
+0 Matt 0 0
+2 Rock
+0 Nacy 8 0
+1
+0 Jack 2 1
+2 Jack
+0 Jack 2 0
+0 Mike 6 1
+0 Matt 0 1
+0 Jack 2 1
+0 Matt 4 0
+0 Jim 4 1
+2 Matt
+0 Kaz 3 1
+0 Jim 7 0
+0 Kaz 5 0
+0 Matt 4 1
+4 1431859414743 1431859814343
+3 Jim 6
+0 Kaz 5 1
+0 Kaz 7 0
+3 Nacy 7
+0 Rock 8 0
+0 Mike 1 0
+3 Jim 7
+0 Mike 1 1
+3 Rock 8
+1
+4 1431851751744 1431859806681
+0 Jack 7 0
+0 Jack 7 1
+0 Matt 7 0
+3 Jack 3
+3 Nacy 8
+4 1431851308744 1431859806238
+4 1431857948744 1431859812878
+3 Kaz 1
+4 1431852611744 1431859807541
+0 Nacy 8 1
+4 1431853102744 1431859808032
+0 Mike 3 0
+4 1431859647744 1431859814577
+0 Matt 7 1
+0 Matt 8 0
+0 Jim 7 1
+0 Matt 8 1
+0 Matt 3 0
+0 Matt 3 1
+0 Mike 3 1
+0 Jack 1 0
+1
+0 Rock 8 1
+0 Jim 3 0
+0 Rock 4 0
+0 Nacy 5 0
+4 1431853336744 1431859808266
+0 Rock 4 1
+3 Jim 4
+4 1431859488744 1431859814418
+3 Jack 1
+2 Nacy
+3 Kaz 3
+3 Jack 0
+3 Mike 7
+3 Jim 3
+0 Jim 3 1
+0 Mike 5 0
+1
+0 Rock 0 1
+3 Mike 2
+3 Matt 1
+2 Jack
+3 Nacy 4
+0 Jim 4 0
+0 Nacy 6 0
+0 Jim 4 0
+2 Nacy
+0 Matt 7 0
+4 1431850289744 1431859805219
+0 Nacy 5 1
+0 Mike 4 0
+0 Nacy 7 0
+0 Matt 7 1
+0 Mike 5 1
+4 1431859494744 1431859814424
+0 Nacy 7 1
+0 Matt 8 0
+3 Rock 6
+0 Kaz 7 1
+0 Jack 1 1
+4 1431850752744 1431859805682
+1
+0 Matt 8 1
+0 Kaz 3 0
+1
+0 Matt 8 0
+0 Kaz 3 1
+0 Jack 8 0
+4 1431855648744 1431859810578
+3 Jack 8
+0 Rock 1 0
+0 Kaz 8 0
+4 1431855406744 1431859810336
+0 Rock 1 1
+1
+1
+0 Nacy 4 1
+2 Jim
+0 Jim 4 1
+3 Matt 5
+1
+0 Matt 8 1
+4 1431852992744 1431859807922
+0 Jack 8 1
+3 Kaz 5
+0 Rock 5 0
+3 Mike 1
+0 Nacy 3 0
+0 Rock 5 1
+4 1431856529744 1431859811459
+0 Matt 1 0
+0 Nacy 4 0
+0 Nacy 3 1
+2 Rock
+0 Rock 3 0
+3 Nacy 5
+4 1431857341744 1431859812271
+0 Matt 1 1
+0 Kaz 8 1
+2 Kaz
+2 Jack
+0 Matt 8 0
+4 1431850972744 1431859805902
+0 Kaz 4 0
+1
+4 1431856026744 1431859810956
+0 Rock 3 1
+0 Kaz 4 1
+0 Kaz 8 0
+0 Mike 5 0
+0 Jim 8 0
+0 Matt 8 1
+2 Matt
+4 1431853230744 1431859808160
+0 Jack 3 0
+2 Mike
+4 1431854076744 1431859809006
+0 Nacy 1 0
+4 1431857564744 1431859812494
+2 Jim
+1
+0 Kaz 8 1
+4 1431856903744 1431859811833
+0 Rock 3 0
+0 Matt 5 0
+2 Kaz
+0 Rock 3 1
+0 Rock 0 1
+0 Nacy 1 1
+0 Nacy 2 0
+4 1431856760744 1431859811690
+0 Rock 2 0
+0 Nacy 2 1
+0 Rock 2 1
+4 1431857473744 1431859812403
+1
+0 Nacy 3 0
+0 Kaz 0 0
+1
+3 Jack 1
+4 1431851970744 1431859806900
+1
+0 Jack 3 1
+0 Rock 1 0
+2 Jack
+4 1431851545744 1431859806475
+0 Jack 2 0
+0 Kaz 0 1
+0 Kaz 8 0
+0 Mike 5 1
+1
+2 Matt
+0 Jack 2 1
+4 1431852390744 1431859807320
+3 Jim 6
+0 Nacy 3 1
+0 Nacy 4 1
+0 Matt 5 1
+4 1431855457744 1431859810387
+0 Jack 5 0
+0 Matt 5 0
+0 Matt 5 1
+3 Jack 1
+0 Rock 1 1
+0 Rock 4 0
+0 Rock 4 1
+2 Matt
+0 Nacy 3 0
+3 Jack 5
+0 Rock 0 0
+0 Rock 0 1
+0 Jack 5 1
+2 Kaz
+0 Kaz 8 1
+0 Nacy 3 1
+2 Jack
+0 Jim 8 1
+0 Nacy 0 0
+0 Rock 0 0
+4 1431854465745 1431859809396
+1
+0 Matt 2 0
+0 Jim 3 0
+0 Rock 0 1
+1
+0 Jim 3 1
+2 Matt
+1
+2 Rock
+0 Jack 0 0
+0 Rock 2 1
+3 Mike 1
+0 Nacy 0 1
+0 Jack 0 1
+0 Matt 2 1
+1
+3 Kaz 1
+0 Mike 0 1
+0 Jack 7 1
+1
+0 Rock 1 0
+4 1431852406745 1431859807337
+0 Jim 2 1
+4 1431855173745 1431859810104
+0 Jim 6 0
+0 Rock 1 1
+0 Kaz 6 0
+0 Kaz 6 1
+0 Mike 8 0
+1
+4 1431852208745 1431859807139
+2 Matt
+0 Rock 4 0
+0 Nacy 3 0
+2 Rock
+4 1431850110745 1431859805041
+1
+0 Matt 2 0
+0 Rock 4 1
+0 Nacy 3 1
+4 1431852509745 1431859807440
+0 Kaz 4 0
+0 Jack 5 0
+0 Rock 7 0
+0 Mike 8 1
+0 Nacy 0 0
+1
+0 Mike 0 0
+4 1431853870745 1431859808801
+1
+0 Jack 5 1
+0 Jim 6 1
+0 Rock 7 1
+0 Kaz 4 1
+0 Rock 5 0
+3 Rock 5
+0 Jim 5 0
+4 1431852161745 1431859807092
+0 Jack 2 0
+0 Matt 2 1
+2 Jack
+0 Jack 2 1
+0 Mike 0 1
+2 Jim
+0 Jim 5 1
+0 Matt 3 0
+0 Matt 3 1
+0 Matt 8 0
+1
+0 Rock 5 1
+0 Rock 7 1
+1
+0 Rock 8 0
+4 1431854534745 1431859809465
+0 Jim 5 0
+0 Kaz 3 0
+0 Mike 5 0
+1
+0 Jack 5 0
+0 Jim 5 1
+0 Rock 8 1
+4 1431850774745 1431859805705
+1
+1
+1
+1
+3 Nacy 0
+0 Nacy 0 1
+0 Nacy 7 0
+3 Rock 7
+0 Nacy 7 1
+1
+3 Nacy 6
+2 Mike
+0 Matt 8 1
+0 Matt 8 0
+0 Mike 5 1
+4 1431850857745 1431859805788
+4 1431850672745 1431859805603
+3 Matt 3
+0 Kaz 3 1
+0 Matt 8 1
+4 1431852958745 1431859807889
+0 Rock 8 0
+0 Matt 5 0
+0 Rock 8 1
+4 1431856285745 1431859811216
+0 Jim 7 0
+1
+0 Jim 7 1
+2 Jack
+0 Matt 5 1
+3 Kaz 4
+4 1431857582745 1431859812513
+0 Rock 8 0
+0 Matt 8 0
+0 Rock 4 0
+2 Matt
+3 Jack 4
+4 1431853951745 1431859808882
+2 Matt
+0 Mike 1 0
+4 1431858715745 1431859813646
+3 Jack 8
+2 Nacy
+0 Jim 8 0
+0 Mike 1 1
+0 Kaz 7 0
+0 Mike 6 0
+0 Kaz 7 1
+1
+0 Mike 6 1
+0 Matt 8 1
+4 1431854041745 1431859808972
+3 Jack 5
+0 Mike 4 0
+0 Jim 5 0
+0 Mike 4 1
+0 Jack 5 1
+3 Mike 1
+1
+0 Rock 8 1
+0 Nacy 1 0
+0 Rock 7 0
+2 Matt
+4 1431859360745 1431859814291
+3 Nacy 5
+2 Jack
+0 Matt 2 0
+1
+0 Matt 2 1
+0 Matt 0 0
+1
+4 1431851908745 1431859806839
+0 Jack 1 0
+0 Jack 1 0
+0 Jack 1 1
+4 1431858191745 1431859813122
+0 Nacy 1 1
+0 Rock 7 1
+3 Kaz 7
+0 Rock 1 0
+0 Rock 1 1
+0 Rock 3 1
+0 Rock 8 0
+3 Jim 0
+0 Mike 3 0
+2 Jim
+2 Matt
+0 Matt 0 1
+2 Rock
+4 1431852920745 1431859807851
+0 Rock 8 1
+0 Rock 1 0
+3 Rock 3
+0 Mike 5 0
+0 Nacy 2 0
+0 Nacy 2 1
+3 Matt 6
+0 Matt 0 0
+0 Jim 8 1
+2 Rock
+0 Rock 1 1
+1
+3 Jack 7
+3 Rock 2
+0 Mike 3 1
+0 Kaz 5 1
+0 Jim 0 0
+0 Mike 4 0
+0 Jim 0 1
+0 Rock 4 0
+1
+0 Nacy 6 0
+0 Jack 1 0
+2 Matt
+2 Jim
+0 Rock 4 1
+0 Mike 2 0
+4 1431853888745 1431859808819
+0 Matt 0 1
+1
+0 Kaz 7 0
+0 Mike 4 1
+0 Jim 0 0
+0 Kaz 7 0
+0 Kaz 7 1
+0 Matt 3 1
+0 Rock 5 0
+0 Jim 0 1
+3 Rock 0
+1
+2 Rock
+0 Rock 5 1
+4 1431854657746 1431859809589
+0 Jim 5 0
+0 Jack 1 1
+0 Mike 5 0
+0 Mike 5 1
+0 Jack 7 0
+4 1431857412746 1431859812344
+2 Jim
+0 Nacy 6 1
+0 Jim 0 0
+0 Rock 3 0
+1
+0 Jack 7 1
+0 Mike 2 0
+0 Rock 3 1
+0 Matt 7 0
+0 Mike 8 0
+4 1431851516746 1431859806448
+0 Mike 2 1
+3 Jack 4
+2 Jim
+4 1431859558746 1431859814490
+3 Nacy 8
+1
+1
+0 Kaz 7 0
+3 Jack 1
+0 Mike 2 0
+2 Mike
+0 Rock 6 0
+0 Rock 6 1
+0 Jim 5 1
+1
+4 1431849874746 1431859804806
+0 Matt 7 1
+0 Mike 2 1
+2 Rock
+0 Mike 8 0
+1
+4 1431849844746 1431859804776
+0 Nacy 1 0
+4 1431850390746 1431859805322
+0 Matt 2 0
+1
+0 Jack 3 0
+4 1431858011746 1431859812943
+3 Kaz 6
+1
+0 Matt 2 1
+1
+3 Matt 0
+0 Rock 2 0
+0 Matt 8 0
+2 Mike
+0 Jack 3 1
+4 1431855872747 1431859810805
+0 Jim 7 0
+4 1431859216747 1431859814149
+2 Jim
+3 Jim 7
+0 Matt 8 1
+1
+0 Jack 4 0
+0 Mike 8 1
+2 Mike
+4 1431852208747 1431859807141
+0 Nacy 1 0
+3 Kaz 0
+0 Kaz 7 1
+0 Jim 7 1
+0 Jim 0 0
+0 Jack 8 0
+0 Matt 7 0
+0 Nacy 1 1
+0 Jack 4 1
+0 Jim 0 1
+0 Matt 7 1
+0 Kaz 1 0
+0 Jack 1 0
+3 Nacy 5
+2 Kaz
+0 Jim 7 1
+2 Mike
+2 Jim
+0 Rock 2 1
+0 Jim 5 0
+0 Mike 7 0
+0 Jack 1 1
+0 Matt 2 0
+0 Matt 2 1
+0 Jack 3 0
+4 1431854043747 1431859808976
+0 Nacy 1 0
+3 Kaz 4
+0 Mike 7 1
+1
+0 Rock 7 0
+1
+2 Jack
+0 Jim 5 1
+0 Kaz 1 1
+0 Kaz 2 0
+3 Rock 8
+0 Mike 3 0
+0 Jack 2 0
+0 Kaz 2 1
+0 Mike 3 1
+0 Mike 1 0
+3 Nacy 0
+0 Matt 4 0
+0 Jack 3 1
+0 Mike 1 1
+2 Kaz
+4 1431854486747 1431859809419
+3 Jack 2
+0 Mike 4 0
+0 Nacy 1 1
+0 Kaz 3 0
+0 Mike 4 0
+3 Kaz 4
+0 Nacy 7 0
+0 Matt 4 1
+0 Matt 3 0
+0 Jack 1 1
+0 Matt 3 1
+0 Jack 0 0
+0 Rock 7 1
+4 1431857449747 1431859812382
+2 Kaz
+0 Kaz 3 1
+3 Jack 7
+1
+0 Jim 7 0
+0 Mike 4 1
+0 Kaz 1 0
+0 Mike 6 0
+0 Jim 7 1
+0 Jack 0 1
+4 1431853812747 1431859808745
+0 Rock 5 0
+0 Jim 0 0
+2 Nacy
+2 Mike
+1
+1
+0 Jack 6 0
+3 Matt 8
+0 Jim 0 1
+0 Kaz 1 1
+1
+2 Kaz
+1
+0 Mike 3 0
+0 Matt 4 0
+3 Mike 2
+2 Mike
+4 1431854844747 1431859809777
+1
+0 Mike 6 1
+1
+0 Matt 7 0
+1
+1
+2 Nacy
+0 Mike 8 0
+0 Matt 4 1
+0 Rock 5 1
+0 Kaz 5 0
+3 Rock 3
+2 Nacy
+0 Matt 3 0
+1
+3 Mike 4
+2 Kaz
+0 Rock 7 0
+0 Rock 7 1
+3 Mike 4
+0 Jack 6 1
+0 Nacy 7 1
+0 Mike 8 1
+0 Kaz 5 1
+0 Matt 1 0
+3 Rock 6
+2 Mike
+4 1431853937748 1431859808871
+0 Jim 5 0
+0 Rock 5 1
+0 Kaz 4 0
+0 Jim 5 1
+1
+1
+0 Matt 3 1
+0 Kaz 4 1
+0 Jack 5 0
+0 Nacy 1 0
+2 Mike
+0 Jim 1 0
+0 Jim 1 1
+0 Nacy 1 1
+0 Jack 5 1
+0 Jim 3 0
+0 Rock 6 0
+1
+3 Rock 6
+0 Jack 8 0
+3 Nacy 8
+0 Mike 4 0
+3 Nacy 0
+0 Kaz 5 0
+0 Jim 3 1
+0 Matt 2 0
+0 Mike 4 1
+2 Rock
+0 Kaz 5 1
+0 Nacy 0 0
+0 Nacy 0 1
+0 Kaz 6 0
+0 Matt 2 1
+0 Kaz 6 1
+4 1431856755748 1431859811689
+0 Rock 6 1
+3 Matt 6
+3 Nacy 1
+4 1431856080748 1431859811014
+0 Matt 8 0
+0 Nacy 8 0
+0 Rock 0 1
+2 Jim
+0 Jim 6 0
+4 1431856380748 1431859811314
+0 Jack 8 1
+3 Jim 6
+3 Jim 0
+2 Kaz
+0 Jack 3 0
+0 Rock 5 0
+0 Kaz 7 0
+0 Jack 3 1
+1
+0 Jack 0 1
+0 Rock 5 1
+0 Jack 2 1
+0 Jim 6 1
+2 Jim
+0 Kaz 8 0
+0 Jim 7 0
+0 Rock 3 0
+0 Kaz 7 1
+2 Jack
+3 Jack 0
+3 Rock 8
+0 Jim 7 1
+0 Nacy 8 1
+0 Rock 3 1
+0 Matt 8 1
+0 Rock 0 0
+4 1431858163748 1431859813097
+0 Jack 0 0
+4 1431859620748 1431859814554
+0 Nacy 5 0
+3 Kaz 5
+2 Nacy
+0 Jack 0 1
+3 Mike 6
+0 Rock 0 1
+3 Rock 3
+0 Kaz 0 0
+0 Nacy 5 1
+0 Mike 4 0
+0 Jack 2 0
+0 Jim 4 0
+0 Mike 4 1
+0 Jim 4 1
+0 Jim 1 0
+0 Jim 1 1
+0 Matt 4 0
+2 Rock
+0 Rock 5 0
+0 Jim 8 0
+0 Jim 8 1
+3 Rock 0
+0 Matt 4 1
+0 Rock 5 1
+0 Mike 4 0
+1
+4 1431856166748 1431859811100
+2 Jim
+0 Jack 2 1
+0 Matt 7 0
+0 Nacy 5 0
+0 Jack 0 0
+2 Rock
+3 Jim 0
+0 Kaz 0 1
+0 Matt 7 1
+0 Rock 4 0
+0 Kaz 6 0
+3 Jim 3
+0 Mike 4 1
+0 Nacy 5 1
+0 Nacy 7 0
+0 Rock 4 1
+0 Mike 6 0
+0 Rock 0 0
+3 Nacy 7
+0 Jack 0 1
+3 Rock 8
+0 Matt 1 0
+0 Rock 0 1
+0 Kaz 6 1
+0 Jack 0 0
+0 Kaz 6 0
+0 Jim 2 0
+0 Jack 0 1
+1
+0 Nacy 7 1
+1
+3 Jack 4
+0 Nacy 5 0
+0 Jim 2 1
+2 Jim
+0 Kaz 6 1
+2 Rock
+1
+0 Mike 6 1
+1
+0 Rock 2 0
+0 Kaz 7 0
+0 Matt 1 1
+0 Rock 2 1
+0 Jack 4 0
+0 Jack 4 1
+2 Rock
+0 Matt 8 0
+0 Mike 1 0
+2 Jim
+0 Rock 5 0
+4 1431853156749 1431859808091
+3 Nacy 2
+0 Matt 8 1
+0 Jack 1 0
+0 Mike 1 1
+3 Rock 2
+1
+3 Jim 7
+0 Nacy 5 1
+3 Jim 7
+0 Rock 5 1
+2 Mike
+0 Jack 1 1
+1
+0 Jack 7 0
+3 Mike 7
+0 Kaz 7 1
+2 Matt
+0 Jack 8 0
+0 Rock 4 0
+0 Jim 5 0
+0 Kaz 5 0
+4 1431859414749 1431859814349
+0 Jack 7 1
+0 Kaz 5 1
+0 Kaz 2 0
+0 Matt 0 0
+0 Jim 1 0
+0 Kaz 2 1
+2 Jack
+0 Jack 6 0
+3 Jim 5
+4 1431855409749 1431859810344
+0 Kaz 7 0
+0 Nacy 8 1
+0 Rock 4 1
+4 1431852443749 1431859807378
+4 1431851235749 1431859806170
+0 Nacy 2 1
+2 Kaz
+4 1431853724749 1431859808659
+0 Jim 5 1
+0 Matt 0 1
+4 1431859445749 1431859814380
+0 Jim 8 0
+1
+0 Rock 0 0
+0 Nacy 2 0
+0 Jim 8 1
+0 Jim 8 0
+1
+0 Jim 8 1
+2 Nacy
+0 Nacy 2 1
+4 1431850406749 1431859805341
+3 Jim 5
+4 1431850989749 1431859805924
+0 Mike 0 0
+1
+0 Kaz 7 1
+2 Jack
+0 Mike 0 1
+0 Rock 0 1
+0 Matt 8 0
+2 Mike
+0 Jim 2 0
+1
+0 Jim 2 1
+4 1431852488749 1431859807423
+0 Jack 6 1
+3 Kaz 6
+2 Jack
+0 Mike 5 0
+0 Matt 8 0
+0 Matt 8 1
+0 Jim 0 0
+0 Nacy 0 0
+3 Jack 5
+2 Matt
+4 1431852651749 1431859807586
+0 Jim 0 1
+0 Jim 0 0
+4 1431855584749 1431859810519
+0 Mike 5 1
+0 Jim 0 1
+0 Jack 0 0
+0 Rock 3 0
+2 Nacy
+0 Rock 3 1
+0 Jim 5 0
+0 Rock 7 0
+1
+0 Rock 7 0
+0 Jim 5 1
+1
+2 Kaz
+1
+4 1431850958750 1431859805894
+0 Matt 3 0
+3 Mike 1
+4 1431850871750 1431859805807
+0 Kaz 1 1
+3 Mike 0
+0 Nacy 0 1
+1
+0 Mike 0 0
+0 Mike 0 1
+0 Matt 3 1
+3 Rock 7
+0 Nacy 1 0
+0 Jack 0 1
+1
+0 Mike 5 0
+0 Mike 5 1
+0 Kaz 5 0
+0 Jack 7 0
+0 Jim 6 0
+4 1431856025750 1431859810961
+4 1431850004750 1431859804940
+0 Jack 7 1
+0 Rock 7 1
+3 Jack 8
+0 Matt 1 0
+0 Nacy 1 1
+0 Jack 4 0
+4 1431855026750 1431859809962
+3 Matt 0
+0 Jim 6 1
+0 Kaz 5 1
+1
+0 Rock 1 0
+2 Nacy
+0 Rock 1 1
+0 Nacy 2 0
+0 Matt 1 1
+0 Mike 0 0
+0 Mike 0 1
+1
+0 Jack 4 1
+0 Jack 7 0
+0 Mike 1 0
+0 Jack 7 1
+3 Mike 3
+1
+0 Jim 5 0
+0 Jim 5 1
+0 Rock 1 0
+0 Matt 7 0
+1
+2 Matt
+0 Matt 7 1
+0 Kaz 2 0
+0 Nacy 2 1
+0 Jack 7 0
+3 Jim 3
+3 Jim 1
+0 Jack 7 1
+0 Nacy 8 0
+0 Nacy 8 1
+2 Jack
+0 Jack 0 0
+0 Kaz 2 1
+0 Jack 0 1
+4 1431851909752 1431859806847
+0 Matt 3 1
+1
+0 Jim 7 0
+0 Nacy 6 0
+4 1431856881752 1431859811819
+0 Kaz 8 0
+0 Jack 1 0
+1
+0 Rock 1 1
+0 Matt 8 0
+4 1431859256752 1431859814194
+0 Jim 7 1
+1
+0 Matt 8 1
+0 Rock 8 0
+2 Nacy
+4 1431857844752 1431859812782
+1
+0 Nacy 6 1
+2 Jim
+0 Nacy 1 0
+0 Jack 1 1
+0 Jack 6 0
+3 Mike 3
+0 Jim 8 0
+0 Matt 1 0
+0 Mike 1 1
+0 Rock 8 1
+0 Jim 6 0
+3 Matt 5
+0 Mike 2 0
+0 Jim 8 1
+2 Jim
+0 Rock 1 1
+0 Kaz 8 1
+2 Jack
+4 1431856843752 1431859811781
+4 1431854645753 1431859809584
+1
+0 Rock 3 0
+0 Jim 5 0
+0 Jim 5 1
+2 Kaz
+0 Jim 6 0
+0 Kaz 2 0
+0 Jim 6 1
+0 Matt 1 1
+0 Rock 3 1
+0 Nacy 1 1
+0 Jim 6 0
+2 Kaz
+0 Jack 6 1
+0 Mike 2 1
+2 Nacy
+2 Rock
+0 Rock 6 0
+0 Nacy 4 0
+3 Kaz 8
+3 Kaz 6
+1
+1
+0 Jack 0 0
+0 Mike 6 1
+0 Jim 6 1
+0 Kaz 7 0
+0 Jim 6 0
+0 Mike 4 0
+4 1431855923753 1431859810862
+0 Nacy 4 1
+2 Nacy
+0 Mike 4 1
+0 Kaz 2 1
+0 Jim 6 1
+0 Kaz 6 1
+0 Matt 6 0
+1
+0 Matt 6 1
+0 Nacy 6 0
+2 Jack
+0 Rock 6 1
+0 Jack 2 0
+2 Kaz
+0 Matt 4 0
+0 Rock 7 0
+0 Rock 7 1
+0 Nacy 6 1
+4 1431856442753 1431859811381
+0 Nacy 2 1
+3 Matt 0
+2 Mike
+0 Mike 8 0
+4 1431855330753 1431859810269
+0 Kaz 7 0
+2 Matt
+0 Jim 0 0
+0 Mike 1 0
+2 Mike
+0 Jack 0 1
+0 Rock 5 1
+0 Jim 0 1
+0 Matt 4 1
+0 Mike 8 1
+2 Jim
+2 Kaz
+1
+0 Rock 1 0
+3 Mike 4
+0 Jack 4 0
+0 Mike 7 0
+0 Matt 7 0
+0 Matt 7 1
+0 Mike 7 1
+4 1431859328753 1431859814267
+0 Jack 4 1
+3 Mike 2
+0 Matt 7 0
+2 Matt
+2 Jack
+0 Mike 6 0
+0 Nacy 4 0
+0 Matt 7 1
+0 Rock 1 1
+1
+4 1431856500753 1431859811439
+0 Matt 8 0
+0 Jim 7 0
+2 Kaz
+2 Nacy
+3 Kaz 0
+0 Nacy 4 1
+0 Nacy 5 0
+1
+0 Nacy 5 1
+0 Jack 1 0
+1
+0 Jim 7 1
+0 Nacy 1 1
+4 1431857618754 1431859812558
+3 Jack 0
+0 Nacy 2 0
+1
+0 Mike 6 1
+0 Jim 3 0
+0 Nacy 2 1
+1
+0 Kaz 7 1
+0 Nacy 2 0
+3 Kaz 1
+4 1431858009754 1431859812949
+0 Mike 6 0
+4 1431859082754 1431859814022
+0 Jim 3 1
+4 1431855157754 1431859810097
+0 Rock 8 0
+0 Nacy 2 1
+0 Rock 8 1
+4 1431853553754 1431859808493
+0 Jim 1 0
+0 Kaz 3 1
+0 Nacy 4 0
+0 Jim 1 1
+0 Mike 6 1
+2 Nacy
+0 Jim 1 0
+1
+0 Kaz 4 0
+2 Nacy
+3 Nacy 6
+0 Matt 8 1
+1
+0 Mike 1 0
+0 Jack 1 1
+2 Rock
+2 Jim
+0 Nacy 4 1
+2 Nacy
+0 Jack 8 0
+0 Rock 4 0
+0 Matt 4 0
+0 Kaz 4 1
+3 Mike 4
+0 Jim 1 1
+4 1431850412754 1431859805352
+0 Rock 4 1
+0 Jack 2 0
+0 Jack 8 1
+2 Matt
+2 Jack
+4 1431852807754 1431859807747
+0 Kaz 8 0
+0 Kaz 8 1
+0 Nacy 0 0
+2 Jack
+3 Matt 8
+0 Rock 8 0
+0 Jim 8 0
+0 Jack 5 0
+0 Matt 4 1
+0 Kaz 1 0
+0 Rock 8 1
+4 1431851225754 1431859806165
+0 Jim 8 1
+1
+4 1431858673754 1431859813613
+1
+0 Kaz 1 0
+2 Jack
+2 Rock
+0 Matt 3 1
+4 1431850190754 1431859805130
+0 Kaz 1 1
+3 Jack 5
+0 Jim 7 0
+1
+3 Nacy 6
+0 Jack 5 1
+0 Nacy 7 0
+0 Nacy 0 1
+3 Matt 5
+3 Rock 4
+1
+2 Rock
+0 Nacy 7 0
+0 Rock 8 0
+3 Jack 6
+1
+2 Jack
+0 Jack 4 0
+0 Rock 8 1
+0 Jim 7 1
+4 1431851522754 1431859806462
+4 1431856720754 1431859811660
+4 1431857279754 1431859812219
+0 Jim 8 0
+1
+1
+0 Mike 1 1
+2 Kaz
+0 Jim 8 1
+0 Mike 2 0
+2 Jim
+0 Rock 5 1
+2 Jack
+0 Mike 2 1
+0 Rock 2 0
+1
+1
+0 Kaz 1 1
+0 Kaz 6 0
+0 Jack 4 1
+3 Matt 8
+0 Nacy 7 1
+0 Mike 0 0
+0 Mike 0 1
+2 Jack
+1
+0 Jack 4 0
+0 Matt 2 0
+1
+0 Rock 2 1
+0 Jim 7 0
+0 Matt 2 1
+0 Matt 3 0
+4 1431859182754 1431859814122
+0 Kaz 6 1
+1
+0 Rock 4 0
+2 Matt
+0 Matt 3 1
+0 Jim 7 1
+2 Matt
+2 Nacy
+3 Mike 0
+0 Matt 2 0
+0 Mike 5 0
+0 Mike 5 1
+3 Kaz 5
+4 1431850089755 1431859805030
+0 Nacy 1 0
+0 Jim 1 0
+0 Matt 2 1
+0 Rock 8 0
+0 Kaz 4 1
+0 Jack 4 1
+0 Matt 5 0
+0 Nacy 1 1
+3 Nacy 6
+0 Nacy 1 0
+3 Kaz 4
+4 1431858523755 1431859813464
+3 Matt 4
+3 Kaz 7
+4 1431857637755 1431859812578
+2 Jim
+0 Mike 2 0
+0 Jim 1 1
+4 1431850988755 1431859805929
+0 Jim 7 0
+4 1431852730755 1431859807671
+0 Matt 5 1
+0 Rock 4 1
+0 Nacy 1 1
+0 Matt 1 0
+1
+1
+0 Matt 1 1
+0 Mike 2 1
+2 Nacy
+0 Mike 1 0
+0 Mike 1 1
+0 Mike 3 0
+0 Mike 3 1
+0 Jim 7 1
+4 1431856279755 1431859811220
+0 Jim 2 0
+0 Matt 7 1
+0 Jim 2 1
+3 Nacy 7
+4 1431853889755 1431859808830
+0 Jack 3 0
+0 Jack 3 1
+0 Nacy 0 0
+0 Jim 3 0
+2 Jim
+1
+0 Jack 5 0
+0 Nacy 0 1
+0 Matt 4 0
+0 Kaz 3 0
+0 Jack 5 1
+2 Jim
+0 Kaz 3 1
+2 Kaz
+0 Jack 6 0
+3 Jack 5
+0 Matt 4 1
+1
+4 1431853565755 1431859808506
+3 Nacy 1
+0 Rock 6 0
+0 Rock 6 1
+4 1431857022755 1431859811963
+0 Nacy 3 1
+0 Rock 1 0
+1
+1
+1
+2 Jack
+0 Jim 3 1
+2 Mike
+0 Matt 4 0
+0 Nacy 5 0
+1
+2 Jack
+4 1431851391755 1431859806332
+0 Matt 4 1
+0 Matt 4 0
+4 1431859613755 1431859814554
+0 Nacy 5 1
+4 1431854169755 1431859809110
+1
+0 Matt 4 1
+0 Mike 2 0
+0 Jim 0 0
+1
+0 Jack 6 1
+0 Jack 8 0
+1
+4 1431854964755 1431859809905
+1
+0 Matt 7 1
+0 Mike 2 1
+2 Nacy
+3 Nacy 8
+0 Rock 1 1
+1
+2 Matt
+0 Nacy 5 0
+0 Rock 6 0
+0 Nacy 5 1
+0 Jim 0 1
+0 Nacy 4 0
+0 Matt 6 0
+2 Kaz
+2 Mike
+0 Matt 6 1
+1
+0 Kaz 7 0
+0 Nacy 4 1
+0 Nacy 3 0
+0 Jim 1 0
+2 Matt
+0 Matt 5 0
+2 Nacy
+0 Matt 5 1
+0 Jack 5 0
+0 Nacy 3 1
+0 Jack 3 0
+4 1431855759756 1431859810701
+0 Mike 6 0
+4 1431851481756 1431859806423
+0 Mike 6 1
+1
+3 Jack 7
+2 Jim
+3 Jack 3
+0 Nacy 3 0
+2 Mike
+0 Mike 5 0
+4 1431850074756 1431859805016
+0 Rock 6 1
+4 1431853345756 1431859808287
+3 Matt 6
+2 Matt
+0 Matt 8 0
+0 Nacy 3 1
+1
+0 Mike 5 1
+1
+2 Rock
+0 Jack 8 1
+0 Mike 2 0
+0 Rock 5 0
+0 Rock 1 0
+0 Jim 1 1
+0 Jim 3 0
+4 1431858298756 1431859813240
+4 1431853085756 1431859808027
+0 Jim 3 1
+0 Mike 2 1
+0 Nacy 0 0
+2 Rock
+4 1431857383756 1431859812325
+0 Jim 1 1
+2 Rock
+0 Matt 8 1
+4 1431850126756 1431859805068
+1
+0 Nacy 0 1
+0 Nacy 3 1
+1
+0 Kaz 7 1
+4 1431854979756 1431859809921
+3 Kaz 3
+0 Matt 2 0
+0 Jim 1 0
+0 Jim 0 0
+0 Nacy 1 0
+2 Nacy
+0 Mike 0 0
+2 Jack
+0 Nacy 1 1
+4 1431858134756 1431859813076
+1
+0 Jim 3 0
+1
+1
+0 Rock 5 1
+4 1431850216756 1431859805158
+0 Nacy 2 0
+0 Kaz 1 0
+0 Jack 5 0
+1
+2 Jim
+4 1431851641756 1431859806583
+0 Mike 0 1
+0 Rock 4 0
+1
+0 Jack 5 1
+1
+0 Matt 2 1
+1
+0 Nacy 2 1
+0 Nacy 6 0
+0 Kaz 1 1
+0 Kaz 4 1
+0 Mike 0 0
+0 Jack 2 0
+0 Rock 4 1
+0 Nacy 6 1
+0 Rock 1 0
+0 Jack 2 1
+0 Matt 5 1
+0 Kaz 5 0
+2 Matt
+2 Nacy
+0 Nacy 1 0
+3 Kaz 7
+0 Mike 0 1
+0 Jim 7 0
+3 Mike 7
+2 Kaz
+4 1431859343756 1431859814285
+1
+0 Jack 5 0
+0 Jack 5 1
+0 Mike 4 0
+1
+0 Mike 1 0
+0 Jim 1 1
+1
+0 Jim 3 0
+2 Jim
+0 Kaz 5 1
+1
+4 1431854483756 1431859809425
+1
+2 Rock
+4 1431853812756 1431859808754
+1
+0 Rock 1 1
+0 Nacy 1 1
+4 1431857193756 1431859812135
+0 Jack 3 0
+0 Nacy 5 0
+0 Nacy 5 1
+0 Rock 4 0
+0 Rock 4 1
+0 Rock 4 0
+0 Kaz 5 0
+0 Jack 3 1
+1
+0 Mike 4 1
+4 1431859290757 1431859814233
+0 Jim 3 1
+3 Mike 2
+0 Jack 4 0
+0 Matt 0 0
+0 Nacy 6 0
+0 Nacy 6 1
+0 Matt 0 1
+0 Kaz 5 1
+0 Rock 4 1
+3 Kaz 8
+0 Rock 1 0
+0 Kaz 3 0
+2 Nacy
+3 Kaz 2
+0 Kaz 3 0
+1
+0 Jack 3 0
+1
+0 Mike 4 1
+2 Jim
+0 Nacy 4 0
+0 Matt 2 0
+0 Rock 1 1
+0 Rock 0 1
+0 Jack 4 1
+0 Mike 3 0
+0 Jack 5 0
+2 Mike
+0 Rock 8 0
+0 Nacy 4 1
+2 Rock
+2 Matt
+3 Mike 4
+4 1431854856757 1431859809799
+0 Rock 8 1
+0 Jack 5 1
+3 Kaz 7
+0 Mike 3 1
+0 Nacy 0 0
+3 Mike 5
+1
+0 Jim 6 0
+0 Mike 6 0
+2 Jim
+1
+0 Matt 2 1
+0 Jim 6 1
+0 Matt 2 0
+0 Nacy 0 1
+3 Mike 0
+0 Nacy 5 0
+0 Jack 4 0
+1
+0 Jim 2 0
+2 Rock
+0 Kaz 3 1
+0 Jack 4 1
+0 Jack 5 0
+0 Mike 6 1
+2 Nacy
+0 Kaz 3 0
+4 1431859286758 1431859814230
+0 Mike 7 0
+0 Nacy 5 1
+0 Jim 2 1
+0 Jack 5 1
+0 Nacy 1 0
+3 Jim 8
+0 Jim 7 0
+0 Mike 7 1
+0 Kaz 3 1
+0 Kaz 1 0
+0 Nacy 1 1
+2 Matt
+3 Jack 3
+4 1431852551758 1431859807495
+4 1431850725758 1431859805669
+0 Kaz 3 0
+1
+1
+1
+0 Nacy 5 0
+2 Mike
+3 Matt 6
+0 Jim 7 1
+0 Jack 1 0
+0 Matt 2 1
+0 Nacy 7 0
+2 Matt
+0 Matt 5 0
+0 Kaz 1 1
+0 Mike 8 0
+0 Kaz 6 0
+2 Jim
+0 Nacy 5 1
+0 Kaz 6 1
+0 Mike 8 1
+0 Mike 0 0
+3 Rock 7
+4 1431857055758 1431859811999
+0 Jim 3 0
+0 Matt 5 1
+0 Mike 6 0
+0 Matt 1 0
+0 Kaz 1 0
+4 1431859118758 1431859814062
+0 Kaz 1 1
+4 1431851495758 1431859806439
+0 Mike 0 1
+1
+0 Jack 1 1
+1
+0 Mike 1 0
+2 Matt
+3 Jack 3
+0 Kaz 7 0
+1
+3 Jim 3
+0 Mike 1 1
+1
+0 Matt 1 1
+0 Mike 6 0
+0 Matt 8 0
+0 Jack 8 0
+3 Rock 7
+3 Jim 6
+3 Rock 2
+0 Kaz 1 0
+0 Mike 6 1
+4 1431851814758 1431859806758
+0 Kaz 7 1
+0 Jack 8 1
+0 Jack 0 0
+0 Kaz 0 0
+0 Jim 3 1
+0 Jack 0 1
+4 1431859766758 1431859814710
+0 Rock 8 0
+1
+0 Mike 3 0
+0 Mike 3 1
+0 Matt 8 1
+0 Matt 2 0
+2 Jack
+0 Jack 6 0
+4 1431850564758 1431859805508
+0 Nacy 4 0
+3 Rock 5
+0 Kaz 0 1
+1
+0 Jack 6 1
+3 Kaz 2
+0 Kaz 7 0
+0 Mike 4 0
+4 1431853753758 1431859808697
+2 Mike
+0 Nacy 4 1
+0 Jim 1 0
+1
+0 Nacy 1 0
+0 Matt 2 1
+0 Matt 2 0
+4 1431852679759 1431859807624
+4 1431858466759 1431859813411
+0 Nacy 1 1
+1
+2 Jim
+1
+0 Kaz 7 1
+1
+0 Kaz 4 0
+0 Nacy 8 0
+0 Rock 1 0
+0 Nacy 0 0
+0 Jack 0 0
+0 Mike 4 1
+0 Nacy 8 1
+0 Matt 2 1
+0 Rock 8 1
+1
+0 Kaz 4 1
+0 Mike 5 0
+4 1431857436759 1431859812381
+0 Rock 6 0
+0 Rock 8 0
+0 Matt 8 0
+0 Nacy 1 0
+0 Jack 0 1
+2 Kaz
+0 Rock 6 1
+0 Jim 5 0
+0 Rock 4 0
+4 1431851821759 1431859806766
+1
+0 Jim 1 1
+0 Kaz 7 0
+0 Kaz 7 1
+0 Jim 5 0
+0 Jim 5 1
+0 Kaz 5 0
+0 Jack 7 0
+0 Kaz 5 1
+0 Nacy 1 1
+0 Nacy 6 1
+3 Rock 6
+0 Jack 7 1
+0 Rock 4 1
+0 Jim 4 0
+3 Jim 3
+4 1431858176759 1431859813121
+3 Jack 5
+0 Matt 8 1
+0 Jim 4 1
+0 Mike 5 1
+0 Mike 1 0
+0 Nacy 6 0
+0 Nacy 6 1
+0 Jim 1 0
+0 Nacy 4 0
+3 Matt 0
+3 Jim 6
+0 Rock 8 0
+0 Rock 8 1
+3 Jim 8
+0 Matt 1 0
+0 Kaz 8 0
+4 1431858591759 1431859813536
+0 Jack 5 0
+3 Jack 0
+1
+0 Mike 3 0
+2 Mike
+1
+4 1431850722759 1431859805667
+2 Nacy
+0 Matt 3 0
+0 Rock 5 0
+3 Mike 1
+0 Jim 1 1
+1
+0 Nacy 4 1
+0 Jack 5 1
+0 Mike 1 1
+4 1431853141759 1431859808086
+0 Jim 1 0
+0 Matt 1 1
+0 Jack 4 0
+0 Matt 0 0
+0 Kaz 8 1
+0 Nacy 4 0
+0 Kaz 6 0
+0 Rock 5 1
+0 Rock 8 0
+1
+0 Jim 1 1
+0 Kaz 6 1
+3 Jack 4
+0 Matt 0 1
+0 Jim 0 0
+0 Jim 8 0
+0 Matt 6 0
+2 Rock
+1
+0 Jim 0 1
+0 Jim 6 0
+0 Jack 4 1
+0 Kaz 8 0
+0 Kaz 8 1
+0 Nacy 4 1
+3 Rock 1
+2 Jack
+0 Jack 2 0
+2 Jim
+0 Kaz 7 0
+0 Kaz 7 1
+0 Jim 6 1
+4 1431850169759 1431859805114
+0 Mike 6 0
+0 Jim 6 0
+0 Mike 6 1
+0 Kaz 5 1
+2 Kaz
+0 Nacy 8 0
+0 Jim 6 1
+2 Nacy
+0 Jim 5 0
+0 Jim 5 1
+0 Matt 6 1
+2 Matt
+1
+0 Mike 1 0
+0 Jim 8 0
+0 Jack 2 1
+4 1431855730760 1431859810676
+1
+0 Rock 8 1
+0 Rock 5 0
+0 Nacy 8 1
+0 Rock 5 1
+0 Kaz 6 0
+0 Jack 4 0
+0 Jack 4 1
+0 Kaz 6 1
+4 1431854413760 1431859809359
+0 Kaz 8 0
+0 Mike 1 1
+0 Jack 6 0
+1
+0 Rock 2 0
+0 Matt 3 0
+3 Matt 0
+4 1431858394760 1431859813340
+0 Jim 8 1
+0 Matt 3 1
+3 Jack 0
+0 Jim 4 0
+0 Jim 6 0
+0 Jack 6 1
+0 Rock 2 1
+0 Mike 7 0
+0 Jim 3 0
+0 Jack 5 1
+2 Jim
+1
+0 Nacy 4 0
+0 Nacy 4 1
+0 Jack 0 0
+0 Jack 0 1
+4 1431855485760 1431859810431
+3 Kaz 4
+1
+1
+2 Kaz
+0 Nacy 8 0
+4 1431851938760 1431859806884
+0 Jack 6 1
+0 Rock 4 0
+0 Mike 7 1
+0 Mike 6 0
+2 Mike
+0 Mike 6 1
+0 Jim 4 1
+0 Kaz 8 1
+0 Jack 2 0
+4 1431855646760 1431859810592
+0 Nacy 8 1
+0 Rock 8 0
+3 Rock 5
+1
+0 Mike 4 0
+1
+0 Jack 2 1
+0 Jim 8 0
+3 Nacy 2
+0 Rock 4 1
+4 1431859776760 1431859814722
+0 Mike 4 1
+1
+0 Nacy 3 0
+0 Jim 8 1
+0 Nacy 3 1
+4 1431854250760 1431859809196
+0 Jack 4 0
+0 Jack 4 1
+0 Nacy 6 1
+2 Rock
+0 Mike 7 0
+0 Rock 2 0
+0 Nacy 6 0
+2 Jack
+0 Kaz 7 0
+1
+3 Nacy 2
+0 Kaz 7 1
+0 Matt 3 0
+0 Kaz 0 0
+4 1431850602760 1431859805548
+0 Nacy 6 1
+0 Jack 2 0
+0 Nacy 1 0
+3 Kaz 0
+0 Jim 1 0
+0 Rock 2 1
+0 Jim 1 1
+1
+2 Nacy
+3 Matt 0
+1
+0 Kaz 0 1
+0 Kaz 4 0
+1
+3 Mike 0
+0 Matt 3 1
+0 Mike 7 1
+0 Nacy 1 1
+0 Nacy 4 0
+1
+0 Jim 4 0
+3 Jack 1
+0 Matt 0 0
+1
+0 Rock 8 0
+4 1431852648760 1431859807594
+0 Mike 6 0
+2 Jack
+0 Jim 4 1
+2 Matt
+0 Nacy 4 1
+2 Nacy
+0 Mike 6 1
+1
+3 Mike 0
+0 Jim 4 1
+0 Kaz 4 1
+4 1431859637760 1431859814583
+4 1431854167760 1431859809113
+4 1431859147760 1431859814093
+3 Nacy 7
+0 Nacy 6 0
+0 Jim 2 1
+0 Mike 0 0
+0 Mike 0 1
+0 Jim 3 0
+0 Rock 4 0
+1
+0 Kaz 5 0
+0 Kaz 5 1
+4 1431851571761 1431859806518
+0 Rock 8 1
+0 Kaz 3 0
+0 Mike 2 0
+0 Kaz 3 1
+0 Nacy 4 0
+0 Kaz 8 0
+0 Mike 2 1
+0 Rock 0 0
+3 Rock 1
+2 Nacy
+0 Jack 2 1
+0 Jack 1 0
+2 Nacy
+1
+2 Jack
+0 Nacy 6 1
+0 Kaz 8 1
+4 1431850031761 1431859804978
+0 Rock 0 1
+0 Kaz 2 0
+3 Jack 1
+0 Matt 0 1
+0 Jim 0 0
+0 Jack 1 1
+0 Mike 7 0
+0 Mike 7 1
+0 Rock 7 0
+3 Mike 6
+0 Jim 3 1
+0 Jack 2 0
+2 Matt
+3 Kaz 4
+0 Jack 2 1
+0 Rock 7 1
+0 Matt 3 0
+0 Kaz 2 1
+0 Mike 8 0
+0 Matt 3 1
+2 Jim
+0 Mike 8 1
+0 Jim 8 0
+0 Jack 7 0
+0 Jim 8 1
+4 1431853396761 1431859808343
+2 Matt
+4 1431859618761 1431859814565
+2 Jim
+3 Nacy 0
+0 Rock 3 0
+0 Rock 3 1
+0 Jim 4 0
+4 1431858133761 1431859813080
+0 Kaz 3 0
+4 1431850139761 1431859805086
+0 Kaz 5 0
+0 Kaz 3 1
+0 Kaz 4 0
+0 Mike 5 0
+0 Rock 4 0
+2 Jim
+1
+0 Mike 4 0
+0 Jack 8 0
+4 1431857754761 1431859812701
+4 1431856593761 1431859811540
+2 Matt
+0 Nacy 1 0
+1
+3 Jim 3
+0 Nacy 1 1
+0 Mike 5 1
+0 Mike 4 0
+0 Nacy 5 0
+0 Jack 7 1
+0 Matt 3 0
+3 Matt 4
+0 Nacy 5 1
+0 Jack 7 0
+4 1431854702761 1431859809649
+0 Jim 4 1
+0 Mike 4 1
+0 Jack 7 1
+0 Nacy 3 1
+2 Mike
+0 Jack 3 0
+1
+1
+0 Rock 4 1
+2 Matt
+0 Jack 3 1
+0 Kaz 4 1
+0 Jack 5 0
+0 Jack 5 1
+0 Rock 0 0
+0 Rock 0 1
+0 Mike 4 0
+0 Mike 4 1
+0 Kaz 0 0
+0 Jack 2 1
+1
+1
+0 Matt 3 1
+0 Mike 0 0
+4 1431858038761 1431859812985
+4 1431852219761 1431859807166
+0 Mike 0 1
+0 Kaz 0 1
+0 Rock 8 0
+0 Jack 1 0
+4 1431854560761 1431859809507
+0 Nacy 3 0
+0 Mike 4 0
+2 Kaz
+1
+4 1431857584762 1431859812532
+0 Nacy 3 1
+0 Rock 8 1
+0 Jim 6 0
+0 Jack 1 1
+0 Rock 1 0
+2 Jim
+0 Kaz 8 0
+0 Mike 4 1
+0 Jack 0 0
+1
+0 Kaz 8 1
+4 1431855600762 1431859810548
+1
+3 Kaz 5
+1
+3 Rock 8
+2 Jim
+0 Jack 0 1
+4 1431855600762 1431859810548
+0 Mike 2 1
+0 Matt 2 0
+0 Kaz 6 0
+0 Nacy 5 0
+0 Kaz 7 0
+2 Nacy
+0 Kaz 6 1
+0 Matt 2 1
+0 Mike 3 0
+4 1431851492762 1431859806440
+0 Mike 3 1
+0 Jack 8 0
+0 Matt 1 0
+4 1431859530762 1431859814478
+0 Mike 4 1
+0 Kaz 3 0
+3 Mike 3
+1
+4 1431852144762 1431859807092
+0 Matt 1 1
+0 Kaz 3 1
+0 Jim 6 1
+0 Kaz 7 1
+0 Jack 8 1
+0 Matt 8 0
+0 Matt 8 1
+0 Nacy 5 1
+1
+0 Kaz 7 0
+2 Matt
+1
+0 Mike 2 0
+0 Mike 7 0
+0 Nacy 5 1
+0 Nacy 1 0
+0 Nacy 1 1
+0 Matt 7 0
+1
+0 Mike 2 1
+0 Matt 7 1
+0 Matt 1 0
+0 Mike 5 0
+0 Kaz 7 1
+1
+3 Rock 8
+1
+0 Jim 1 0
+0 Kaz 2 0
+1
+2 Mike
+0 Kaz 2 1
+0 Jack 6 0
+0 Jack 6 1
+4 1431854453762 1431859809401
+0 Matt 1 1
+0 Jim 1 1
+1
+0 Jim 5 0
+0 Nacy 3 1
+0 Matt 2 0
+0 Jim 5 1
+1
+0 Kaz 3 0
+3 Kaz 1
+0 Matt 2 1
+0 Mike 5 1
+0 Rock 1 1
+0 Kaz 3 1
+4 1431853333762 1431859808281
+0 Mike 8 0
+0 Nacy 0 0
+1
+3 Mike 0
+0 Mike 8 1
+0 Kaz 7 0
+0 Jack 8 0
+2 Matt
+1
+0 Jack 8 1
+0 Jack 3 0
+0 Matt 0 1
+1
+0 Matt 1 0
+0 Nacy 0 1
+2 Mike
+0 Rock 7 1
+0 Kaz 7 1
+0 Rock 7 0
+0 Mike 8 0
+0 Jim 3 1
+0 Kaz 3 0
+0 Rock 7 1
+0 Rock 6 0
+4 1431857690762 1431859812638
+0 Mike 8 1
+3 Rock 2
+0 Jim 7 1
+4 1431855028762 1431859809976
+3 Jack 7
+1
+0 Nacy 2 0
+0 Kaz 3 1
+3 Jack 8
+4 1431857912762 1431859812860
+0 Rock 6 1
+0 Matt 1 1
+0 Rock 1 0
+1
+1
+0 Nacy 2 1
+0 Nacy 1 0
+4 1431858949763 1431859813898
+2 Rock
+4 1431857146763 1431859812095
+0 Matt 6 0
+0 Jim 3 0
+0 Mike 4 0
+2 Nacy
+0 Kaz 1 1
+0 Matt 6 1
+3 Jack 7
+0 Jim 3 1
+0 Mike 4 1
+0 Rock 1 1
+0 Jim 5 0
+0 Jim 5 1
+3 Kaz 0
+0 Jack 3 1
+3 Nacy 7
+1
+0 Rock 1 0
+3 Mike 3
+3 Mike 7
+0 Mike 4 0
+0 Kaz 1 0
+4 1431855110763 1431859810059
+0 Nacy 1 1
+3 Matt 5
+3 Kaz 7
+0 Matt 2 0
+0 Mike 4 1
+0 Mike 8 0
+0 Matt 2 1
+4 1431855149763 1431859810098
+0 Kaz 1 1
+0 Jack 6 0
+0 Rock 1 1
+0 Matt 5 0
+0 Rock 0 0
+1
+0 Rock 0 1
+4 1431857745763 1431859812694
+0 Nacy 4 0
+0 Kaz 7 0
+0 Nacy 4 1
+3 Jim 0
+0 Nacy 7 0
+0 Jim 5 0
+0 Jim 0 0
+1
+0 Kaz 7 1
+3 Nacy 0
+0 Matt 5 1
+0 Kaz 8 0
+3 Mike 4
+2 Kaz
+0 Matt 4 0
+3 Kaz 5
+3 Matt 6
+1
+3 Rock 4
+0 Kaz 8 1
+0 Mike 8 1
+0 Mike 1 0
+0 Kaz 1 0
+0 Kaz 1 1
+2 Matt
+3 Jim 7
+0 Matt 4 1
+1
+0 Nacy 7 1
+0 Jack 6 1
+0 Kaz 3 0
+0 Mike 1 1
+3 Jack 3
+0 Jack 7 0
+4 1431853502763 1431859808451
+1
+0 Rock 6 0
+0 Mike 4 1
+3 Mike 2
+2 Matt
+0 Mike 3 0
+0 Mike 3 1
+4 1431851033763 1431859805982
+0 Jim 5 1
+3 Matt 0
+2 Rock
+0 Matt 0 0
+0 Jim 6 0
+2 Rock
+3 Jim 3
+0 Kaz 3 1
+2 Jim
+2 Matt
+0 Nacy 5 0
+3 Rock 2
+0 Nacy 5 1
+0 Rock 6 0
+4 1431850690763 1431859805639
+1
+0 Jim 6 1
+2 Jack
+0 Rock 6 0
+0 Mike 4 0
+0 Jack 7 1
+0 Jim 6 0
+0 Rock 6 1
+0 Mike 4 1
+0 Kaz 8 0
+1
+3 Nacy 5
+0 Mike 4 0
+0 Nacy 6 0
+0 Rock 6 0
+0 Jim 6 1
+0 Matt 0 1
+1
+4 1431853856763 1431859808805
+0 Nacy 6 1
+2 Mike
+1
+4 1431859666763 1431859814615
+0 Rock 0 0
+1
+0 Nacy 6 0
+1
+0 Nacy 6 1
+0 Mike 4 1
+1
+0 Mike 3 0
+0 Matt 8 0
+0 Matt 8 1
+0 Nacy 8 0
+4 1431858960763 1431859813909
+0 Jim 5 1
+0 Jack 7 1
+3 Nacy 5
+0 Jim 5 0
+1
+3 Kaz 5
+0 Kaz 8 1
+4 1431850156764 1431859805106
+4 1431850162764 1431859805112
+0 Jim 5 1
+0 Mike 3 1
+0 Rock 6 1
+0 Mike 5 0
+2 Matt
+0 Jack 2 0
+2 Matt
+1
+0 Rock 4 0
+2 Jack
+3 Rock 5
+0 Matt 8 1
+2 Matt
+4 1431859787764 1431859814737
+1
+0 Rock 4 1
+2 Mike
+0 Jim 4 0
+0 Jim 4 1
+0 Jack 6 0
+0 Nacy 8 1
+1
+0 Nacy 7 0
+3 Matt 4
+2 Jim
+0 Matt 1 0
+0 Matt 7 0
+0 Jack 2 1
+3 Jim 1
+0 Kaz 2 0
+0 Matt 1 1
+1
+0 Mike 5 1
+0 Rock 8 0
+4 1431854509764 1431859809459
+0 Rock 8 1
+4 1431854130764 1431859809080
+3 Nacy 3
+3 Rock 7
+0 Jack 8 0
+0 Jim 8 0
+1
+4 1431852965764 1431859807915
+3 Mike 3
+4 1431859729764 1431859814679
+4 1431850518764 1431859805468
+4 1431854467764 1431859809417
+2 Jack
+1
+1
+0 Kaz 2 1
+2 Mike
+0 Mike 3 0
+3 Matt 4
+2 Rock
+0 Rock 5 0
+0 Jim 8 1
+0 Mike 3 1
+2 Matt
+0 Rock 5 1
+0 Mike 2 1
+0 Jack 8 1
+0 Jack 7 0
+0 Mike 2 0
+1
+3 Mike 2
+0 Jack 2 0
+0 Rock 5 0
+0 Matt 5 0
+1
+0 Jack 7 1
+0 Jack 6 0
+0 Jack 6 1
+0 Nacy 7 1
+4 1431859182764 1431859814132
+0 Jack 1 0
+2 Matt
+0 Jim 6 0
+4 1431853227764 1431859808177
+4 1431855471764 1431859810421
+0 Rock 5 1
+1
+2 Kaz
+0 Nacy 3 0
+0 Kaz 6 1
+0 Jack 1 1
+0 Mike 2 1
+0 Matt 5 1
+0 Nacy 3 1
+0 Jack 1 0
+0 Matt 3 0
+0 Matt 3 1
+0 Jack 1 1
+0 Matt 4 0
+4 1431851832764 1431859806782
+0 Matt 4 1
+0 Jim 6 1
+2 Jack
+2 Kaz
+2 Jim
+0 Mike 6 0
+3 Kaz 8
+0 Mike 6 1
+0 Mike 8 0
+0 Rock 2 0
+0 Matt 7 1
+0 Kaz 7 0
+0 Rock 2 1
+3 Matt 0
+2 Jim
+0 Kaz 3 0
+4 1431858582764 1431859813532
+0 Rock 5 0
+0 Nacy 1 0
+0 Mike 8 1
+0 Mike 8 0
+0 Rock 5 1
+2 Nacy
+0 Mike 8 1
+3 Matt 5
+0 Matt 1 0
+0 Mike 7 0
+0 Nacy 1 1
+0 Jack 4 1
+0 Matt 1 1
+0 Jack 8 0
+4 1431852948764 1431859807898
+1
+0 Jack 8 1
+3 Kaz 5
+0 Nacy 1 1
+2 Matt
+0 Nacy 5 0
+0 Jim 4 1
+3 Jim 8
+3 Jim 1
+0 Matt 4 1
+0 Rock 7 0
+4 1431850823765 1431859805774
+0 Jim 1 0
+3 Rock 4
+3 Kaz 6
+0 Mike 7 1
+0 Kaz 7 1
+0 Jim 1 1
+0 Nacy 7 0
+0 Jim 5 0
+4 1431858187765 1431859813138
+0 Mike 2 0
+0 Jim 6 0
+1
+0 Jack 1 0
+2 Mike
+1
+1
+0 Matt 5 0
+2 Mike
+0 Rock 7 1
+2 Jim
+0 Jim 5 1
+0 Jack 1 1
+2 Jack
+0 Rock 2 0
+0 Rock 2 1
+0 Kaz 6 0
+0 Jack 1 0
+4 1431857026765 1431859811977
+3 Kaz 4
+0 Jim 4 0
+0 Jack 1 1
+0 Jim 4 1
+1
+0 Mike 2 1
+0 Matt 5 1
+4 1431858671765 1431859813622
+0 Jack 2 0
+4 1431850098765 1431859805049
+1
+0 Rock 1 0
+0 Mike 7 1
+1
+3 Mike 8
+0 Mike 6 0
+0 Rock 1 1
+4 1431852731765 1431859807682
+0 Mike 7 0
+0 Jim 2 1
+2 Nacy
+0 Kaz 6 1
+0 Mike 6 1
+2 Jim
+0 Jack 2 1
+1
+0 Rock 5 0
+2 Mike
+3 Matt 0
+1
+0 Kaz 5 0
+0 Mike 5 0
+1
+1
+0 Jim 4 0
+3 Nacy 2
+0 Nacy 6 0
+1
+0 Jim 8 0
+1
+3 Nacy 5
+2 Matt
+3 Mike 6
+0 Jack 3 0
+4 1431853309765 1431859808260
+0 Nacy 5 1
+0 Matt 5 0
+0 Kaz 5 1
+0 Kaz 2 0
+0 Nacy 2 0
+3 Jim 2
+0 Jack 8 0
+0 Nacy 2 1
+2 Matt
+0 Mike 5 1
+0 Jack 3 1
+3 Jim 4
+0 Kaz 3 0
+3 Jim 5
+0 Jim 4 1
+0 Jack 0 0
+0 Jim 2 0
+0 Matt 1 0
+0 Matt 5 1
+0 Nacy 5 0
+0 Jack 0 1
+0 Nacy 5 1
+0 Jim 2 1
+0 Kaz 7 0
+0 Jack 1 1
+0 Mike 6 0
+1
+0 Nacy 0 0
+0 Matt 8 1
+0 Jim 2 0
+4 1431858319766 1431859813271
+0 Jack 2 0
+1
+0 Rock 5 1
+3 Kaz 6
+0 Rock 8 0
+0 Mike 6 1
+4 1431859317766 1431859814269
+3 Mike 6
+2 Jack
+3 Matt 6
+0 Kaz 2 1
+4 1431856595766 1431859811547
+0 Nacy 0 1
+0 Matt 2 0
+0 Rock 8 1
+0 Jack 2 1
+2 Mike
+0 Kaz 4 1
+0 Jim 2 1
+0 Kaz 1 0
+0 Matt 2 1
+0 Jim 4 0
+0 Kaz 1 1
+0 Jack 2 0
+0 Nacy 8 0
+0 Mike 0 1
+0 Nacy 8 1
+0 Rock 5 0
+0 Matt 7 0
+1
+1
+0 Rock 7 0
+0 Rock 5 1
+1
+4 1431859136766 1431859814088
+0 Mike 4 0
+0 Kaz 6 0
+0 Mike 5 0
+0 Jack 2 1
+0 Rock 4 0
+1
+3 Rock 8
+0 Rock 4 1
+1
+0 Rock 5 0
+0 Nacy 1 1
+0 Kaz 6 1
+0 Jack 4 0
+4 1431850754766 1431859805706
+4 1431855825766 1431859810777
+0 Rock 3 0
+0 Nacy 3 0
+0 Matt 7 1
+0 Jim 4 1
+1
+4 1431852092766 1431859807044
+0 Jack 4 1
+0 Mike 3 0
+2 Rock
+0 Jim 2 0
+0 Kaz 6 0
+0 Rock 5 1
+0 Jim 2 1
+0 Jim 8 1
+0 Mike 0 0
+0 Jim 0 0
+0 Jim 5 0
+0 Jim 0 1
+0 Jim 6 0
+0 Jim 6 1
+0 Jack 4 1
+4 1431853044766 1431859807996
+0 Mike 4 1
+0 Jack 4 1
+3 Rock 1
+0 Jack 0 0
+0 Jack 0 1
+1
+0 Nacy 3 1
+0 Mike 6 0
+0 Rock 0 0
+0 Jack 8 0
+4 1431851569766 1431859806521
+3 Matt 0
+0 Rock 0 1
+0 Jim 3 0
+0 Kaz 6 1
+0 Nacy 1 0
+0 Jack 8 1
+0 Matt 1 0
+3 Jack 5
+0 Kaz 2 0
+4 1431856177766 1431859811129
+0 Kaz 2 1
+0 Jim 3 1
+0 Kaz 6 0
+0 Jack 6 1
+0 Jack 4 0
+0 Jim 3 0
+0 Kaz 6 1
+0 Jim 3 1
+2 Rock
+0 Mike 4 0
+0 Nacy 1 1
+0 Matt 1 1
+3 Kaz 1
+2 Jim
+1
+3 Jack 3
+4 1431858153766 1431859813105
+0 Jim 2 0
+0 Nacy 0 0
+4 1431855044766 1431859809996
+3 Mike 5
+0 Nacy 0 1
+0 Rock 1 0
+3 Jim 1
+1
+3 Matt 7
+2 Nacy
+0 Matt 3 0
+0 Jack 4 1
+2 Nacy
+0 Kaz 3 0
+1
+1
+0 Nacy 4 0
+3 Matt 4
+1
+0 Nacy 4 1
+2 Rock
+0 Matt 3 1
+3 Jack 8
+0 Mike 6 1
+0 Jim 2 1
+0 Kaz 3 1
+2 Matt
+1
+0 Rock 1 0
+3 Nacy 8
+2 Rock
+2 Mike
+0 Mike 4 0
+0 Kaz 1 0
+0 Jack 3 0
+0 Jim 0 0
+0 Jack 3 1
+1
+0 Rock 1 1
+2 Rock
+0 Rock 5 0
+2 Matt
+0 Jim 0 1
+0 Matt 6 0
+4 1431852102767 1431859807055
+0 Jack 3 1
+0 Rock 5 1
+0 Rock 1 0
+0 Jack 3 1
+1
+0 Nacy 5 1
+0 Rock 1 1
+0 Kaz 1 1
+0 Matt 6 1
+1
+4 1431850617767 1431859805570
+0 Jack 0 0
+0 Rock 4 1
+0 Matt 1 0
+1
+0 Matt 1 1
+0 Kaz 8 0
+0 Kaz 8 1
+2 Kaz
+0 Matt 7 0
+0 Rock 0 0
+2 Jack
+2 Jack
+0 Nacy 2 0
+2 Nacy
+0 Matt 7 1
+1
+0 Matt 1 0
+0 Nacy 2 1
+0 Jack 0 1
+0 Matt 1 1
+0 Jim 7 0
+0 Jim 8 0
+0 Jim 7 1
+4 1431849823767 1431859804776
+0 Matt 3 0
+0 Kaz 6 0
+0 Jim 0 1
+3 Nacy 4
+0 Kaz 6 1
+3 Matt 8
+4 1431851282767 1431859806235
+0 Mike 4 1
+0 Rock 0 1
+0 Jack 0 0
+2 Mike
+2 Jack
+0 Mike 8 0
+0 Matt 3 1
+0 Matt 3 0
+0 Rock 8 0
+0 Kaz 0 0
+0 Jack 8 0
+1
+4 1431856994767 1431859811947
+0 Jim 4 0
+2 Mike
+3 Jim 3
+0 Kaz 0 1
+2 Rock
+0 Nacy 1 0
+1
+2 Mike
+4 1431850221767 1431859805174
+2 Nacy
+2 Kaz
+0 Rock 2 0
+0 Matt 3 1
+0 Mike 8 1
+1
+0 Matt 1 0
+0 Mike 5 0
+0 Jim 4 1
+0 Jack 0 1
+0 Matt 1 1
+1
+0 Mike 5 1
+4 1431850958767 1431859805911
+1
+3 Mike 8
+0 Rock 8 1
+0 Kaz 2 0
+0 Matt 8 0
+0 Nacy 1 1
+3 Rock 6
+0 Jack 4 0
+0 Matt 8 1
+0 Jim 2 0
+0 Mike 3 0
+0 Mike 3 1
+0 Rock 6 0
+0 Mike 4 0
+0 Matt 3 0
+4 1431856279767 1431859811232
+1
+0 Matt 3 1
+3 Matt 3
+2 Matt
+0 Nacy 7 0
+0 Jack 4 1
+0 Mike 4 1
+4 1431857020768 1431859811974
+2 Nacy
+0 Mike 4 0
+1
+0 Jim 2 1
+0 Mike 3 0
+0 Matt 2 0
+0 Nacy 7 1
+0 Rock 6 1
+0 Matt 2 1
+0 Mike 4 1
+3 Matt 0
+3 Matt 6
+3 Mike 0
+0 Jim 0 1
+1
+3 Jack 4
+0 Matt 0 0
+0 Nacy 8 0
+4 1431854804768 1431859809758
+0 Mike 1 0
+2 Rock
+0 Matt 0 1
+0 Jim 7 0
+1
+3 Jack 4
+1
+0 Kaz 2 1
+3 Jack 7
+3 Jim 6
+2 Rock
+0 Matt 2 0
+0 Nacy 8 1
+0 Jack 2 0
+0 Jack 2 1
+0 Jack 0 0
+0 Jim 7 1
+0 Nacy 7 0
+0 Matt 2 1
+0 Kaz 7 0
+0 Nacy 7 1
+0 Kaz 7 1
+0 Nacy 1 0
+1
+0 Jack 0 1
+4 1431851602768 1431859806556
+3 Nacy 4
+3 Mike 0
+4 1431858803768 1431859813757
+1
+0 Jack 2 0
+1
+1
+3 Mike 3
+2 Mike
+0 Jim 7 1
+3 Matt 7
+0 Jim 6 0
+2 Jim
+0 Jim 7 0
+0 Rock 0 0
+0 Matt 2 0
+0 Jim 6 1
+0 Rock 5 0
+0 Mike 1 1
+0 Rock 0 0
+0 Kaz 6 0
+0 Nacy 1 1
+1
+3 Kaz 2
+0 Matt 7 0
+0 Kaz 6 1
+0 Rock 0 1
+4 1431858443768 1431859813397
+0 Jack 2 1
+0 Rock 5 1
+1
+0 Mike 6 0
+4 1431853514768 1431859808468
+0 Jim 5 0
+3 Rock 8
+1
+0 Jim 5 1
+0 Rock 7 0
+0 Rock 7 1
+0 Mike 6 1
+0 Kaz 0 0
+3 Rock 2
+4 1431850684768 1431859805638
+4 1431853455768 1431859808409
+4 1431855911768 1431859810865
+0 Rock 8 0
+1
+0 Kaz 0 1
+0 Jim 5 0
+2 Matt
+1
+0 Mike 0 0
+0 Jack 1 0
+0 Mike 0 1
+0 Kaz 0 0
+3 Matt 6
+1
+0 Matt 2 1
+3 Rock 0
+0 Mike 3 0
+2 Mike
+3 Jim 0
+0 Mike 3 1
+4 1431850378768 1431859805332
+0 Mike 3 1
+0 Matt 6 0
+0 Matt 6 1
+2 Rock
+0 Jack 1 1
+0 Rock 8 1
+0 Nacy 1 1
+0 Mike 0 0
+0 Rock 8 1
+0 Matt 0 0
+1
+0 Kaz 0 1
+0 Rock 2 0
+3 Matt 1
+2 Mike
+4 1431859704769 1431859814659
+0 Jim 5 1
+0 Jack 7 0
+0 Rock 2 1
+2 Jim
+1
+0 Rock 5 0
+4 1431856187769 1431859811142
+0 Kaz 1 1
+0 Jim 5 0
+2 Jack
+2 Jim
+1
+3 Rock 1
+0 Nacy 7 1
+0 Nacy 6 0
+3 Nacy 2
+4 1431852501769 1431859807456
+0 Rock 5 1
+0 Kaz 2 0
+3 Matt 8
+0 Matt 5 0
+0 Jim 5 1
+3 Rock 3
+0 Rock 7 0
+0 Rock 7 1
+0 Matt 0 1
+2 Nacy
+3 Rock 2
+0 Kaz 2 1
+0 Matt 3 0
+0 Mike 5 0
+0 Rock 3 0
+1
+0 Rock 3 1
+0 Jim 5 0
+2 Rock
+0 Matt 3 1
+0 Jack 7 1
+1
+0 Kaz 0 1
+0 Kaz 2 0
+0 Jack 7 0
+4 1431850267769 1431859805222
+0 Jack 7 1
+0 Matt 2 0
+1
+0 Kaz 2 1
+0 Nacy 6 1
+4 1431858182769 1431859813137
+0 Mike 0 1
+4 1431853507769 1431859808462
+0 Kaz 2 0
+1
+4 1431859165769 1431859814120
+0 Kaz 2 1
+0 Nacy 2 0
+0 Jim 5 1
+0 Nacy 2 1
+1
+4 1431852649769 1431859807604
+0 Matt 2 1
+0 Jack 1 0
+0 Jack 1 1
+1
+4 1431853746769 1431859808701
+3 Matt 5
+4 1431855470769 1431859810425
+2 Nacy
+4 1431855520769 1431859810475
+0 Jim 0 1
+0 Kaz 2 0
+0 Mike 6 0
+1
+0 Jim 2 0
+0 Jack 4 0
+0 Kaz 2 1
+3 Rock 5
+0 Rock 1 0
+0 Nacy 0 0
+0 Rock 1 1
+4 1431857724769 1431859812679
+3 Matt 5
+0 Matt 8 0
+2 Mike
+0 Jim 2 1
+0 Kaz 7 0
+0 Mike 6 1
+0 Jim 0 0
+0 Kaz 7 1
+0 Mike 8 0
+0 Nacy 0 1
+2 Rock
+2 Matt
+2 Mike
+0 Matt 0 0
+4 1431852233769 1431859807188
+2 Nacy
+0 Rock 8 0
+3 Matt 5
+2 Nacy
+0 Kaz 1 0
+0 Jack 4 1
+0 Mike 6 0
+1
+2 Jim
+3 Jack 5
+0 Mike 8 1
+0 Rock 8 1
+0 Nacy 2 0
+4 1431852280769 1431859807235
+0 Kaz 1 1
+0 Matt 8 1
+4 1431856210769 1431859811165
+3 Rock 0
+0 Jack 7 0
+2 Jim
+0 Nacy 2 1
+0 Nacy 0 0
+0 Matt 5 0
+0 Rock 6 0
+1
+0 Kaz 0 0
+4 1431853090769 1431859808045
+0 Kaz 0 1
+0 Kaz 1 0
+4 1431850483769 1431859805438
+0 Matt 5 1
+0 Jack 7 1
+0 Jim 0 1
+3 Nacy 4
+1
+0 Rock 6 1
+2 Matt
+0 Nacy 0 1
+0 Mike 8 1
+0 Kaz 1 1
+4 1431857772769 1431859812727
+2 Mike
+0 Kaz 4 0
+4 1431851184770 1431859806140
+4 1431851677770 1431859806633
+0 Rock 5 0
+0 Nacy 3 0
+2 Rock
+0 Kaz 4 1
+2 Kaz
+0 Matt 2 0
+0 Matt 2 1
+0 Kaz 7 1
+1
+0 Matt 4 1
+0 Matt 3 0
+2 Rock
+3 Jim 2
+3 Jim 1
+2 Rock
+0 Mike 2 0
+1
+4 1431858645770 1431859813601
+0 Rock 5 1
+0 Kaz 8 1
+0 Rock 1 1
+1
+3 Jack 2
+4 1431856340770 1431859811296
+2 Rock
+0 Nacy 3 1
+0 Matt 3 1
+4 1431855572770 1431859810528
+0 Jack 5 0
+2 Mike
+4 1431855235770 1431859810191
+2 Jim
+1
+0 Kaz 1 0
+0 Nacy 3 0
+0 Rock 0 0
+4 1431852806770 1431859807762
+0 Mike 2 1
+0 Rock 0 1
+0 Jack 5 1
+0 Rock 0 0
+0 Rock 0 1
+0 Kaz 1 1
+0 Nacy 3 1
+0 Nacy 0 0
+0 Rock 4 0
+3 Matt 6
+0 Nacy 0 1
+0 Rock 4 1
+2 Matt
+4 1431859586770 1431859814542
+2 Mike
+0 Kaz 0 0
+0 Mike 3 0
+3 Mike 2
+1
+4 1431853162770 1431859808118
+0 Kaz 0 0
+0 Kaz 0 1
+0 Jim 0 0
+0 Matt 2 0
+0 Rock 2 0
+0 Mike 3 1
+0 Nacy 2 1
+0 Nacy 3 0
+0 Jim 0 1
+2 Kaz
+0 Rock 2 1
+2 Nacy
+0 Matt 2 1
+0 Rock 8 0
+0 Rock 8 1
+3 Matt 6
+0 Jack 6 0
+3 Jack 2
+0 Jack 6 1
+4 1431854470770 1431859809426
+2 Mike
+3 Rock 7
+0 Mike 3 0
+0 Jim 1 1
+4 1431851048770 1431859806004
+2 Matt
+0 Rock 5 0
+1
+4 1431850733770 1431859805689
+0 Jack 4 0
+0 Jim 0 0
+4 1431855064770 1431859810020
+0 Rock 5 1
+0 Matt 4 1
+3 Mike 6
+4 1431855506770 1431859810462
+0 Kaz 0 0
+1
+4 1431850167770 1431859805123
+0 Matt 3 1
+0 Mike 3 0
+0 Jim 0 1
+0 Jack 4 1
+0 Matt 5 0
+3 Mike 5
+0 Kaz 0 1
+3 Kaz 8
+4 1431854546770 1431859809502
+4 1431858895770 1431859813851
+0 Nacy 3 1
+0 Mike 3 1
+2 Jim
+2 Matt
+0 Jack 0 0
+4 1431858930770 1431859813886
+0 Nacy 7 0
+1
+2 Rock
+0 Rock 8 0
+0 Jim 4 0
+2 Rock
+0 Mike 2 0
+0 Matt 5 1
+1
+0 Mike 2 1
+4 1431850888770 1431859805844
+4 1431857597770 1431859812553
+0 Rock 8 1
+0 Jack 0 1
+0 Jim 4 1
+0 Kaz 4 0
+0 Jack 8 1
+4 1431855716770 1431859810672
+0 Kaz 4 1
+0 Nacy 7 1
+0 Matt 3 0
+0 Jack 1 0
+2 Jack
+0 Jim 8 0
+0 Nacy 5 0
+0 Rock 3 0
+2 Mike
+4 1431851176771 1431859806133
+0 Nacy 5 1
+2 Rock
+4 1431859016771 1431859813973
+0 Nacy 8 0
+0 Rock 3 1
+0 Jim 8 0
+0 Mike 6 0
+3 Matt 1
+4 1431854543771 1431859809500
+0 Matt 3 1
+1
+3 Rock 7
+3 Jack 2
+4 1431854812771 1431859809769
+0 Jim 8 1
+0 Jack 7 0
+0 Mike 6 1
+1
+4 1431850429771 1431859805386
+2 Mike
+0 Kaz 0 0
+3 Mike 6
+0 Jack 1 1
+4 1431851901771 1431859806858
+0 Mike 2 0
+0 Nacy 8 1
+0 Jim 0 1
+0 Rock 4 0
+4 1431853503771 1431859808460
+0 Rock 4 1
+0 Jack 5 0
+0 Jack 5 1
+0 Matt 0 0
+0 Rock 1 0
+0 Jack 3 1
+0 Mike 2 1
+3 Jim 2
+0 Jack 4 0
+0 Rock 1 1
+0 Matt 0 1
+4 1431858738771 1431859813695
+4 1431852549771 1431859807506
+0 Kaz 0 1
+0 Jim 5 0
+0 Nacy 4 0
+4 1431850722771 1431859805679
+4 1431849881771 1431859804838
+0 Matt 3 0
+0 Matt 3 1
+0 Jim 5 1
+0 Matt 5 0
+0 Matt 5 1
+0 Rock 2 0
+0 Jim 1 0
+0 Jack 4 1
+0 Kaz 4 1
+2 Rock
+0 Kaz 2 0
+1
+0 Kaz 2 1
+0 Mike 6 0
+4 1431850410771 1431859805367
+4 1431849951771 1431859804908
+0 Jack 6 0
+4 1431849884771 1431859804841
+1
+0 Mike 6 1
+0 Kaz 5 0
+0 Nacy 4 1
+4 1431854647771 1431859809604
+3 Kaz 4
+1
+3 Mike 3
+1
+0 Mike 6 0
+0 Rock 2 1
+0 Rock 8 0
+1
+0 Kaz 5 1
+0 Nacy 6 0
+3 Mike 4
+4 1431857197771 1431859812154
+4 1431856024771 1431859810981
+0 Kaz 5 0
+1
+0 Mike 6 1
+3 Jim 2
+0 Jack 6 1
+2 Mike
+1
+3 Matt 0
+0 Kaz 5 1
+3 Mike 6
+4 1431855831771 1431859810788
+0 Rock 8 1
+0 Jack 3 0
+3 Rock 7
+0 Jack 2 0
+0 Matt 4 0
+0 Jim 1 1
+0 Rock 6 0
+0 Kaz 2 0
+0 Jack 3 1
+0 Nacy 6 1
+4 1431852011771 1431859806968
+1
+0 Nacy 3 0
+0 Kaz 2 1
+0 Rock 6 1
+1
+2 Jack
+0 Jim 4 0
+2 Kaz
+1
+4 1431850925772 1431859805883
+0 Nacy 5 0
+0 Jack 6 0
+0 Rock 6 1
+1
+0 Mike 2 0
+2 Mike
+4 1431851030774 1431859805990
+0 Mike 2 1
+0 Nacy 0 0
+0 Nacy 3 1
+0 Kaz 8 1
+0 Matt 4 1
+0 Matt 5 0
+0 Jim 4 1
+0 Jack 6 1
+1
+3 Jim 2
+4 1431855987774 1431859810947
+0 Jack 0 1
+4 1431852449774 1431859807409
+0 Jim 5 0
+0 Kaz 3 0
+1
+0 Rock 2 0
+3 Jack 2
+4 1431852533774 1431859807493
+0 Rock 2 1
+0 Nacy 3 0
+2 Mike
+0 Mike 0 0
+4 1431854135774 1431859809095
+0 Kaz 6 0
+3 Mike 5
+2 Matt
+0 Mike 0 1
+0 Mike 1 0
+3 Rock 6
+0 Jim 5 1
+0 Jim 8 0
+4 1431849969774 1431859804929
+0 Jim 8 1
+0 Jack 6 0
+0 Matt 1 0
+0 Mike 1 1
+0 Nacy 5 0
+0 Jack 6 1
+0 Nacy 3 1
+0 Jack 0 0
+1
+0 Matt 5 1
+0 Jack 0 1
+0 Jack 5 0
+2 Rock
+0 Matt 1 0
+0 Nacy 3 0
+3 Mike 8
+1
+0 Jim 8 0
+4 1431854859774 1431859809819
+0 Rock 2 0
+0 Mike 2 0
+0 Jim 8 1
+0 Nacy 3 1
+0 Jack 5 1
+0 Kaz 3 1
+0 Nacy 4 0
+4 1431856825774 1431859811785
+0 Mike 2 1
+0 Mike 1 0
+0 Jack 6 0
+3 Rock 1
+0 Mike 1 1
+0 Jim 5 0
+0 Jim 5 1
+0 Jim 1 0
+0 Nacy 4 1
+3 Nacy 6
+0 Jim 1 1
+0 Rock 4 0
+0 Kaz 3 0
+0 Rock 2 1
+1
+0 Jim 4 0
+0 Jim 4 1
+4 1431857306774 1431859812266
+0 Nacy 3 0
+1
+0 Mike 3 0
+3 Nacy 1
+0 Mike 3 1
+0 Kaz 3 1
+0 Jack 6 1
+1
+4 1431856314775 1431859811275
+0 Jack 0 0
+0 Jack 0 1
+0 Jack 1 0
+0 Jack 1 1
+1
+0 Kaz 7 1
+0 Rock 0 0
+2 Mike
+0 Jim 0 0
+0 Mike 1 0
+2 Rock
+0 Jack 7 0
+0 Kaz 1 0
+0 Jim 0 1
+0 Nacy 3 1
+4 1431858665775 1431859813626
+0 Jim 7 0
+0 Nacy 2 0
+0 Nacy 2 1
+0 Jack 7 1
+0 Matt 1 1
+0 Matt 2 0
+2 Kaz
+3 Jack 3
+0 Matt 2 1
+0 Mike 1 1
+0 Nacy 3 0
+0 Rock 7 0
+4 1431852628775 1431859807589
+1
+1
+0 Matt 6 0
+1
+2 Matt
+0 Kaz 1 1
+0 Kaz 6 0
+0 Kaz 6 1
+0 Nacy 3 1
+1
+4 1431850599775 1431859805560
+2 Matt
+4 1431859674775 1431859814635
+0 Kaz 0 1
+0 Matt 6 1
+0 Rock 2 0
+0 Jim 7 1
+0 Jim 7 1
+0 Kaz 0 0
+0 Mike 1 0
+4 1431849847775 1431859804808
+0 Jack 0 0
+1
+0 Nacy 7 1
+0 Rock 3 0
+0 Matt 8 0
+3 Jim 3
+2 Kaz
+3 Kaz 7
+1
+0 Matt 8 1
+0 Nacy 4 0
+0 Jim 4 0
+0 Nacy 4 1
+1
+3 Jack 4
+0 Rock 0 1
+0 Kaz 0 1
+0 Jack 0 1
+0 Jim 4 1
+0 Nacy 5 0
+2 Jim
+0 Rock 5 0
+1
+0 Mike 1 1
+0 Rock 5 1
+0 Nacy 5 1
+0 Rock 3 0
+0 Rock 3 1
+1
+0 Kaz 0 0
+0 Nacy 3 0
+2 Matt
+0 Mike 2 0
+1
+0 Jack 5 1
+3 Jack 1
+0 Matt 4 0
+0 Jack 0 0
+4 1431857749775 1431859812710
+0 Nacy 3 1
+0 Jim 4 1
+1
+0 Rock 1 0
+0 Jack 0 1
+0 Nacy 8 0
+3 Jack 5
+1
+0 Jim 0 0
+0 Kaz 3 0
+0 Kaz 0 1
+0 Nacy 8 1
+3 Nacy 1
+0 Rock 1 1
+1
+0 Kaz 2 0
+0 Kaz 2 1
+4 1431856177775 1431859811138
+4 1431858990775 1431859813951
+0 Mike 2 1
+0 Jack 7 0
+1
+4 1431859560775 1431859814521
+0 Nacy 4 0
+0 Nacy 4 1
+2 Mike
+1
+0 Mike 0 0
+0 Jim 0 1
+0 Nacy 0 1
+0 Mike 0 1
+0 Matt 4 1
+0 Rock 5 0
+1
+4 1431853508775 1431859808469
+1
+0 Kaz 0 0
+0 Kaz 0 1
+0 Rock 5 1
+3 Jim 2
+0 Matt 4 0
+0 Jim 1 0
+0 Matt 4 1
+0 Rock 4 0
+0 Mike 0 0
+0 Mike 0 1
+0 Jim 1 1
+0 Mike 5 1
+4 1431854349775 1431859809310
+4 1431853525775 1431859808486
+2 Kaz
+0 Jack 7 1
+1
+0 Nacy 8 1
+0 Kaz 4 0
+1
+2 Mike
+0 Rock 4 1
+4 1431857422776 1431859812384
+0 Nacy 3 0
+0 Matt 2 0
+0 Mike 5 0
+2 Matt
+0 Jim 8 0
+2 Jack
+0 Rock 3 0
+0 Jack 8 0
+3 Rock 0
+0 Nacy 3 1
+0 Kaz 7 0
+0 Matt 2 1
+1
+2 Mike
+2 Nacy
+0 Jack 2 0
+4 1431855949776 1431859810911
+4 1431853332776 1431859808294
+2 Jack
+1
+4 1431854565776 1431859809527
+0 Kaz 4 1
+0 Jack 8 1
+0 Nacy 2 1
+0 Mike 5 1
+0 Rock 3 1
+0 Mike 6 0
+0 Nacy 5 0
+0 Kaz 6 0
+0 Jim 8 1
+0 Jim 0 0
+0 Jim 0 1
+0 Jim 4 0
+0 Nacy 5 1
+0 Nacy 6 0
+0 Nacy 6 1
+1
+3 Matt 7
+0 Rock 3 0
+4 1431858862776 1431859813824
+0 Mike 6 1
+0 Rock 3 1
+2 Kaz
+0 Mike 4 0
+0 Rock 1 0
+0 Matt 8 0
+3 Jim 6
+1
+1
+2 Matt
+0 Jack 8 1
+0 Kaz 1 0
+0 Jim 4 1
+0 Kaz 6 1
+2 Rock
+0 Mike 4 1
+2 Jack
+3 Matt 5
+1
+0 Mike 5 0
+0 Nacy 7 0
+3 Matt 2
+0 Mike 5 1
+0 Jim 1 0
+0 Mike 4 0
+0 Mike 0 0
+0 Jim 1 1
+0 Nacy 7 1
+0 Mike 4 1
+4 1431855387776 1431859810349
+3 Kaz 0
+0 Jack 2 0
+2 Mike
+0 Matt 8 1
+0 Rock 1 1
+0 Mike 1 0
+2 Rock
+0 Jack 2 1
+0 Kaz 4 0
+0 Mike 1 1
+0 Matt 6 0
+1
+2 Nacy
+0 Nacy 1 0
+0 Kaz 4 1
+0 Jack 2 0
+2 Rock
+0 Rock 7 0
+1
+0 Kaz 0 0
+0 Matt 6 1
+0 Jack 1 0
+0 Jim 7 0
+1
+1
+2 Jim
+0 Kaz 0 1
+0 Jack 2 1
+0 Nacy 1 1
+0 Jack 5 0
+0 Jack 5 1
+0 Jack 2 0
+0 Nacy 1 0
+0 Jack 2 1
+0 Jim 7 1
+1
+1
+4 1431850206776 1431859805168
+0 Kaz 7 0
+0 Kaz 7 1
+0 Matt 5 0
+1
+0 Rock 7 1
+4 1431856972776 1431859811934
+2 Nacy
+0 Nacy 1 1
+2 Kaz
+0 Nacy 7 0
+0 Mike 4 0
+0 Jim 0 1
+0 Jim 4 0
+2 Rock
+0 Kaz 3 0
+0 Matt 5 1
+0 Mike 4 1
+0 Mike 5 0
+1
+0 Nacy 7 1
+0 Matt 4 0
+1
+3 Jim 1
+0 Jack 7 0
+0 Jack 7 1
+2 Jim
+0 Kaz 3 1
+2 Jim
+0 Kaz 8 0
+4 1431855042777 1431859810005
+0 Kaz 8 1
+0 Matt 4 1
+0 Rock 3 0
+0 Rock 3 1
+0 Jack 1 0
+0 Matt 3 0
+0 Matt 3 1
+3 Jim 3
+0 Rock 6 0
+0 Jim 4 1
+0 Matt 6 0
+0 Jack 1 1
+0 Kaz 6 0
+4 1431856386777 1431859811349
+0 Jim 6 0
+0 Jim 6 1
+0 Mike 5 1
+0 Rock 6 1
+0 Rock 7 0
+2 Kaz
+0 Jim 0 0
+2 Kaz
+0 Jim 0 1
+0 Matt 6 1
+0 Matt 0 0
+0 Mike 5 0
+1
+0 Kaz 6 1
+0 Matt 0 1
+0 Rock 7 1
+0 Matt 1 0
+0 Rock 7 1
+4 1431851450777 1431859806413
+0 Jim 7 1
+0 Kaz 0 0
+4 1431855992777 1431859810955
+2 Mike
+3 Nacy 6
+0 Jack 5 1
+0 Mike 5 1
+4 1431852980777 1431859807943
+2 Jim
+0 Jim 7 0
+3 Kaz 0
+0 Mike 8 1
+0 Kaz 0 1
+0 Kaz 8 0
+0 Nacy 4 0
+0 Kaz 8 1
+2 Nacy
+0 Matt 1 1
+3 Nacy 4
+0 Kaz 2 0
+1
+0 Mike 7 1
+3 Jim 4
+0 Nacy 4 1
+3 Matt 4
+3 Nacy 5
+0 Jim 7 1
+0 Mike 7 0
+4 1431858232777 1431859813195
+0 Matt 6 0
+0 Kaz 2 1
+0 Jim 0 0
+0 Mike 7 1
+0 Matt 6 1
+0 Matt 5 0
+4 1431854788777 1431859809751
+1
+4 1431853409777 1431859808372
+0 Mike 1 0
+0 Jim 0 1
+0 Nacy 2 0
+0 Rock 6 0
+3 Jack 3
+0 Mike 1 1
+3 Mike 7
+0 Matt 5 0
+0 Jack 2 0
+0 Nacy 2 1
+0 Matt 5 1
+0 Rock 6 1
+0 Jack 2 1
+3 Rock 5
+4 1431855236777 1431859810199
+0 Rock 3 0
+0 Jim 0 1
+0 Nacy 3 0
+0 Kaz 7 0
+0 Jim 3 0
+0 Kaz 7 1
+0 Kaz 1 0
+0 Jack 3 0
+3 Rock 4
+0 Kaz 1 1
+4 1431849932777 1431859804895
+0 Rock 3 1
+0 Jim 3 1
+0 Nacy 3 1
+0 Matt 0 0
+4 1431855434778 1431859810398
+3 Nacy 1
+2 Matt
+2 Jack
+0 Rock 7 0
+1
+1
+4 1431851299778 1431859806263
+2 Kaz
+0 Rock 7 1
+0 Jack 3 1
+4 1431851013778 1431859805977
+3 Jim 0
+1
+2 Jim
+1
+2 Nacy
+3 Kaz 7
+2 Kaz
+0 Kaz 7 0
+1
+2 Rock
+0 Jack 8 0
+0 Jim 2 1
+4 1431857919778 1431859812883
+0 Jim 0 0
+1
+0 Mike 3 0
+3 Nacy 2
+3 Jack 3
+0 Jim 5 0
+0 Mike 3 1
+0 Jack 8 1
+0 Jim 0 1
+4 1431852639778 1431859807603
+0 Rock 3 0
+2 Kaz
+0 Rock 3 1
+1
+0 Nacy 1 0
+0 Jim 4 0
+0 Jack 3 0
+0 Jim 4 1
+3 Rock 2
+0 Matt 0 1
+4 1431858936778 1431859813900
+1
+0 Jim 5 0
+0 Nacy 1 1
+0 Rock 1 0
+1
+0 Rock 1 1
+0 Mike 2 0
+1
+1
+4 1431851437778 1431859806401
+0 Kaz 7 1
+0 Nacy 6 0
+4 1431856572778 1431859811536
+4 1431855090778 1431859810054
+3 Nacy 7
+2 Jim
+0 Mike 2 1
+0 Nacy 6 1
+3 Jack 6
+2 Mike
+0 Rock 6 0
+0 Rock 6 1
+0 Nacy 6 0
+0 Jack 3 1
+3 Mike 8
+3 Rock 4
+4 1431858572778 1431859813536
+3 Nacy 3
+0 Rock 3 0
+1
+0 Jack 5 0
+0 Rock 3 1
+0 Kaz 8 0
+0 Nacy 6 1
+0 Jim 5 1
+4 1431857365778 1431859812329
+0 Kaz 8 1
+0 Kaz 0 0
+0 Jack 5 1
+4 1431858673778 1431859813637
+4 1431851225778 1431859806189
+0 Kaz 0 1
+0 Rock 2 0
+0 Rock 2 1
+3 Mike 4
+0 Jack 3 0
+4 1431853725778 1431859808689
+0 Nacy 2 0
+0 Jack 3 1
+2 Mike
+0 Jim 6 0
+0 Rock 7 0
+0 Mike 2 0
+0 Rock 7 1
+3 Mike 1
+2 Mike
+1
+2 Jack
+3 Matt 5
+0 Jim 7 0
+0 Kaz 4 0
+2 Mike
+0 Kaz 7 0
+2 Nacy
+0 Jack 6 0
+2 Mike
+4 1431853257778 1431859808221
+1
+0 Nacy 2 1
+4 1431852829778 1431859807793
+4 1431850710778 1431859805674
+0 Matt 3 0
+4 1431855323778 1431859810287
+0 Mike 2 1
+0 Jack 5 0
+0 Kaz 0 0
+0 Matt 3 1
+0 Jim 6 1
+0 Jack 6 1
+0 Nacy 0 0
+0 Matt 0 0
+1
+0 Jack 7 1
+0 Jack 1 0
+0 Jack 1 1
+3 Kaz 6
+0 Matt 0 1
+0 Rock 7 0
+0 Rock 7 1
+0 Matt 6 0
+3 Jack 8
+4 1431851134779 1431859806099
+0 Jim 1 0
+3 Kaz 3
+0 Matt 6 1
+3 Mike 7
+1
+0 Mike 6 0
+3 Jim 4
+0 Jack 3 0
+3 Rock 4
+0 Mike 6 1
+4 1431854360779 1431859809325
+0 Nacy 0 1
+3 Rock 2
+0 Kaz 4 1
+0 Jack 3 1
+0 Rock 5 0
+0 Matt 7 0
+0 Jack 8 0
+1
+0 Nacy 7 0
+0 Rock 5 1
+0 Jim 1 1
+0 Jim 3 0
+4 1431853640779 1431859808605
+3 Mike 6
+0 Nacy 7 1
+0 Nacy 4 0
+0 Jim 3 1
+4 1431849931779 1431859804896
+0 Nacy 4 1
+0 Mike 7 0
+1
+4 1431854425779 1431859809390
+0 Jack 5 0
+0 Rock 5 0
+0 Rock 5 1
+2 Nacy
+4 1431857531779 1431859812496
+4 1431859621779 1431859814586
+0 Matt 7 1
+0 Matt 8 0
+4 1431858630779 1431859813595
+2 Rock
+0 Matt 8 1
+2 Nacy
+0 Jack 8 1
+0 Nacy 6 0
+2 Matt
+0 Jim 3 0
+0 Rock 7 0
+0 Jim 3 1
+0 Matt 6 0
+0 Kaz 8 0
+3 Mike 8
+3 Jim 5
+0 Rock 7 1
+0 Jack 5 0
+0 Mike 7 0
+3 Nacy 3
+0 Jack 5 1
+3 Nacy 3
+3 Matt 3
+0 Nacy 6 1
+0 Jim 1 0
+0 Matt 2 0
+1
+0 Rock 5 0
+1
+1
+0 Jim 1 1
+0 Nacy 3 0
+0 Rock 5 1
+1
+4 1431854808779 1431859809773
+1
+4 1431853898779 1431859808863
+3 Rock 5
+0 Mike 7 1
+2 Nacy
+0 Jack 2 1
+4 1431852138779 1431859807103
+0 Jim 7 0
+1
+4 1431854845779 1431859809810
+0 Rock 2 0
+0 Mike 6 0
+0 Mike 6 1
+2 Matt
+0 Rock 2 1
+0 Jim 7 1
+0 Nacy 3 1
+0 Matt 6 1
+0 Jim 6 0
+0 Nacy 1 0
+0 Mike 7 0
+0 Nacy 1 1
+2 Rock
+2 Rock
+2 Mike
+0 Rock 2 1
+0 Jack 2 0
+1
+2 Mike
+0 Kaz 8 1
+0 Jack 2 1
+0 Rock 5 0
+4 1431852320779 1431859807285
+0 Matt 5 0
+0 Rock 5 1
+4 1431857749779 1431859812714
+0 Matt 5 1
+0 Rock 5 0
+1
+0 Matt 0 0
+0 Jack 4 0
+0 Jack 3 0
+0 Matt 0 1
+0 Jim 6 1
+0 Jack 4 1
+4 1431854607779 1431859809572
+1
+2 Kaz
+1
+3 Nacy 2
+1
+0 Jack 6 0
+0 Jim 0 0
+0 Nacy 4 1
+2 Nacy
+4 1431859022779 1431859813987
+0 Matt 4 0
+0 Kaz 1 0
+0 Nacy 4 0
+0 Rock 5 1
+0 Mike 7 1
+3 Jim 1
+2 Kaz
+3 Matt 7
+0 Matt 4 1
+0 Jack 6 1
+0 Nacy 4 1
+0 Jack 2 0
+0 Kaz 1 0
+3 Jim 1
+0 Jack 3 0
+1
+0 Mike 2 1
+2 Jim
+4 1431856282780 1431859811248
+0 Mike 4 0
+0 Mike 4 1
+0 Jim 0 1
+0 Mike 5 0
+0 Jim 3 0
+2 Kaz
+4 1431855594780 1431859810560
+0 Jim 3 1
+0 Jim 5 0
+1
+0 Kaz 1 1
+0 Nacy 4 1
+0 Nacy 7 0
+4 1431855172780 1431859810138
+0 Rock 2 0
+0 Jack 4 0
+3 Mike 6
+1
+1
+0 Mike 5 0
+4 1431856920780 1431859811886
+0 Jack 3 0
+2 Matt
+0 Kaz 7 0
+2 Nacy
+1
+3 Matt 8
+0 Kaz 7 1
+0 Jack 2 1
+4 1431857980780 1431859812946
+0 Mike 5 1
+2 Mike
+4 1431850525780 1431859805491
+0 Jack 8 0
+2 Jim
+3 Kaz 0
+0 Matt 2 0
+0 Mike 7 1
+2 Jack
+1
+0 Nacy 0 0
+0 Mike 7 0
+0 Mike 7 1
+1
+0 Rock 2 1
+0 Nacy 7 1
+3 Kaz 5
+3 Rock 7
+3 Mike 1
+4 1431852045780 1431859807011
+0 Nacy 1 0
+0 Kaz 3 0
+3 Jack 0
+0 Mike 8 0
+1
+4 1431857240780 1431859812206
+0 Rock 8 0
+0 Nacy 1 1
+2 Jack
+0 Matt 2 1
+0 Nacy 6 0
+3 Kaz 8
+0 Kaz 3 1
+1
+0 Jack 8 1
+0 Jack 6 0
+1
+0 Rock 8 1
+4 1431850172780 1431859805138
+0 Jim 5 1
+4 1431852357780 1431859807323
+3 Jack 5
+0 Jim 2 0
+2 Jack
+0 Kaz 4 0
+4 1431850987780 1431859805953
+0 Matt 3 0
+3 Matt 0
+0 Jim 2 1
+2 Mike
+4 1431856398780 1431859811364
+0 Jim 8 0
+4 1431852615780 1431859807581
+0 Mike 8 1
+4 1431854453780 1431859809419
+0 Jim 8 1
+0 Rock 8 0
+3 Kaz 4
+2 Mike
+0 Matt 3 1
+2 Jack
+0 Matt 6 0
+0 Matt 6 1
+3 Nacy 2
+0 Matt 6 0
+0 Mike 2 0
+0 Matt 6 1
+3 Matt 5
+0 Rock 8 1
+2 Rock
+4 1431850565780 1431859805531
+0 Rock 7 0
+3 Jim 8
+0 Nacy 6 1
+0 Jack 6 1
+0 Matt 4 0
+3 Mike 8
+0 Matt 4 1
+0 Rock 7 1
+1
+1
+1
+0 Mike 0 0
+0 Jim 6 0
+0 Jim 6 1
+3 Kaz 4
+0 Mike 2 1
+3 Rock 5
+0 Rock 2 0
+0 Mike 6 0
+0 Jack 3 0
+2 Jim
+0 Jack 3 1
+0 Kaz 4 1
+0 Mike 6 1
+0 Jack 7 0
+1
+0 Nacy 8 0
+3 Matt 5
+0 Nacy 8 1
+1
+4 1431855264781 1431859810231
+1
+3 Jack 0
+3 Mike 5
+0 Rock 2 1
+0 Rock 6 0
+0 Mike 2 0
+2 Rock
+2 Mike
+0 Kaz 5 0
+3 Nacy 8
+0 Jim 2 0
+0 Nacy 6 0
+1
+0 Mike 2 1
+0 Jim 2 1
+3 Rock 4
+4 1431856242781 1431859811209
+0 Jack 7 1
+0 Kaz 5 1
+0 Jack 6 0
+2 Jack
+0 Kaz 2 0
+3 Jim 5
+4 1431854913781 1431859809880
+0 Kaz 2 1
+4 1431856563781 1431859811530
+0 Kaz 4 0
+0 Matt 4 0
+0 Nacy 6 1
+1
+1
+0 Jim 4 0
+0 Rock 6 1
+3 Jack 4
+0 Rock 5 0
+0 Mike 8 0
+0 Mike 8 1
+0 Matt 4 1
+4 1431858971781 1431859813938
+4 1431850974781 1431859805941
+3 Rock 6
+0 Mike 2 0
+1
+0 Jim 4 1
+0 Matt 8 0
+1
+0 Mike 2 1
+1
+1
+1
+0 Kaz 4 1
+3 Jack 5
+4 1431859419781 1431859814386
+1
+0 Matt 8 1
+0 Kaz 6 0
+0 Mike 6 0
+3 Matt 0
+0 Jim 1 0
+0 Rock 5 1
+0 Kaz 6 1
+3 Kaz 8
+4 1431859621781 1431859814588
+0 Jack 6 1
+0 Nacy 4 0
+2 Nacy
+4 1431851499781 1431859806466
+2 Jack
+0 Jack 8 0
+3 Jim 1
+0 Nacy 0 0
+1
+0 Jim 0 0
+2 Nacy
+0 Jim 1 1
+1
+0 Jim 4 0
+3 Matt 7
+0 Kaz 6 0
+0 Jim 4 1
+1
+2 Jim
+0 Rock 5 0
+0 Kaz 6 1
+0 Jim 2 1
+2 Jim
+4 1431855865782 1431859810833
+0 Rock 5 1
+0 Mike 6 1
+0 Matt 8 1
+3 Jack 4
+0 Matt 0 0
+0 Jack 8 1
+0 Matt 0 1
+4 1431852084782 1431859807052
+2 Matt
+0 Jim 2 0
+0 Jack 1 1
+0 Nacy 4 1
+2 Mike
+3 Jim 0
+0 Rock 2 0
+2 Jack
+1
+0 Matt 6 0
+0 Rock 2 1
+3 Mike 5
+2 Kaz
+3 Jim 1
+0 Rock 1 0
+2 Jim
+0 Nacy 2 0
+0 Kaz 3 0
+0 Matt 6 1
+4 1431852030782 1431859806998
+0 Kaz 3 1
+0 Nacy 2 1
+0 Nacy 7 0
+0 Rock 1 1
+3 Rock 3
+0 Matt 1 0
+0 Rock 7 0
+1
+4 1431851719782 1431859806687
+0 Jack 8 0
+0 Kaz 1 0
+0 Rock 7 1
+1
+0 Rock 5 0
+0 Kaz 1 1
+0 Jim 2 1
+0 Jim 5 0
+3 Matt 4
+0 Jim 5 1
+0 Nacy 7 1
+2 Jim
+0 Mike 5 0
+0 Jim 4 0
+0 Rock 5 1
+0 Rock 8 0
+0 Nacy 8 0
+2 Jack
+0 Jim 4 1
+0 Kaz 1 0
+0 Matt 1 1
+0 Jack 8 1
+0 Mike 5 1
+0 Mike 7 0
+2 Jim
+1
+3 Mike 4
+0 Kaz 1 1
+0 Jack 4 0
+0 Jim 0 0
+0 Nacy 8 1
+0 Jack 4 1
+0 Rock 8 1
+0 Rock 5 1
+0 Rock 6 0
+0 Rock 6 1
+1
+2 Nacy
+0 Rock 8 0
+0 Mike 7 1
+2 Jack
+0 Rock 8 1
+1
+0 Mike 7 0
+0 Kaz 6 0
+0 Nacy 2 0
+0 Matt 1 0
+3 Matt 8
+0 Jim 0 1
+1
+0 Mike 7 1
+0 Kaz 6 1
+0 Nacy 2 1
+0 Mike 1 0
+0 Kaz 7 1
+0 Mike 1 1
+2 Kaz
+0 Jim 0 0
+0 Jack 8 0
+0 Rock 2 0
+0 Nacy 5 0
+4 1431855102783 1431859810071
+1
+0 Kaz 0 0
+3 Matt 8
+4 1431858637783 1431859813606
+0 Mike 6 0
+4 1431856901783 1431859811870
+1
+0 Kaz 0 1
+0 Mike 6 1
+0 Kaz 3 0
+1
+0 Mike 6 0
+0 Nacy 5 1
+1
+2 Jim
+0 Jack 8 1
+4 1431850751783 1431859805720
+1
+0 Matt 1 1
+2 Nacy
+0 Rock 2 0
+4 1431859679783 1431859814648
+3 Kaz 3
+0 Rock 2 1
+4 1431852528783 1431859807497
+2 Kaz
+0 Rock 4 0
+3 Kaz 6
+3 Kaz 5
+0 Jim 0 1
+0 Kaz 6 0
+0 Matt 2 0
+0 Mike 6 1
+0 Jim 7 0
+0 Nacy 8 0
+0 Mike 6 0
+1
+0 Rock 4 1
+0 Rock 6 1
+0 Jack 7 0
+1
+4 1431853973783 1431859808942
+1
+2 Nacy
+0 Rock 7 1
+1
+1
+0 Rock 0 0
+0 Kaz 3 1
+2 Nacy
+0 Rock 4 0
+2 Matt
+4 1431852804783 1431859807773
+1
+0 Kaz 8 0
+0 Matt 2 1
+0 Mike 6 1
+0 Nacy 8 1
+3 Kaz 8
+0 Matt 4 1
+0 Matt 6 1
+3 Kaz 4
+0 Nacy 5 0
+0 Nacy 5 1
+0 Kaz 8 1
+3 Matt 8
+3 Rock 3
+4 1431849912783 1431859804881
+0 Matt 8 0
+0 Kaz 3 0
+1
+4 1431857497783 1431859812466
+3 Rock 6
+0 Jim 7 1
+0 Matt 8 1
+0 Rock 0 1
+0 Jim 8 0
+1
+2 Mike
+3 Jim 7
+2 Rock
+0 Rock 6 0
+0 Rock 6 1
+0 Jim 8 1
+0 Jim 5 0
+4 1431857322783 1431859812291
+0 Kaz 3 1
+0 Rock 1 0
+0 Matt 8 0
+0 Matt 8 1
+0 Jim 5 1
+0 Jim 3 0
+0 Jack 7 0
+1
+3 Rock 2
+4 1431857679783 1431859812648
+0 Kaz 3 0
+0 Jack 7 1
+0 Mike 1 0
+4 1431859585783 1431859814554
+0 Jack 0 0
+0 Jim 2 0
+0 Rock 1 1
+0 Rock 4 1
+4 1431857256783 1431859812225
+0 Nacy 6 0
+4 1431859450783 1431859814419
+0 Mike 1 1
+0 Rock 6 0
+0 Kaz 3 1
+2 Kaz
+0 Jim 5 0
+2 Jim
+0 Kaz 6 1
+4 1431853361783 1431859808330
+3 Jack 6
+0 Jim 3 1
+0 Mike 1 0
+0 Jim 4 1
+1
+4 1431850736784 1431859805706
+4 1431853215784 1431859808185
+0 Rock 6 1
+0 Jim 6 0
+0 Mike 1 1
+3 Nacy 5
+0 Matt 6 0
+0 Rock 3 0
+3 Matt 0
+0 Mike 3 0
+4 1431850778784 1431859805748
+0 Matt 6 1
+0 Mike 3 1
+0 Jack 0 1
+0 Kaz 8 0
+0 Kaz 8 0
+0 Rock 3 1
+0 Jim 6 1
+0 Jim 4 0
+0 Nacy 6 1
+1
+0 Rock 4 1
+4 1431856091784 1431859811061
+0 Jack 0 0
+0 Jack 0 1
+1
+0 Jack 4 0
+2 Nacy
+0 Mike 1 0
+0 Rock 4 0
+0 Jim 4 1
+0 Jim 1 0
+2 Kaz
+0 Rock 4 1
+3 Mike 6
+0 Nacy 5 0
+0 Jack 4 1
+4 1431851072784 1431859806042
+0 Rock 3 0
+3 Jim 5
+0 Jack 8 0
+0 Jack 8 1
+1
+4 1431858621784 1431859813591
+0 Nacy 5 1
+2 Jim
+4 1431857961784 1431859812931
+0 Rock 3 1
+4 1431852023784 1431859806993
+0 Rock 0 0
+0 Kaz 8 1
+0 Mike 1 1
+0 Jack 1 0
+0 Rock 0 1
+2 Matt
+0 Matt 1 1
+0 Rock 7 0
+0 Rock 7 1
+0 Mike 8 1
+0 Mike 0 0
+4 1431853833784 1431859808803
+0 Jack 1 1
+0 Nacy 0 1
+2 Matt
+0 Rock 1 0
+0 Matt 5 0
+3 Kaz 1
+3 Rock 1
+0 Mike 0 1
+0 Jim 1 1
+3 Rock 2
+2 Kaz
+2 Matt
+3 Kaz 7
+0 Jim 3 0
+0 Kaz 2 0
+1
+0 Nacy 7 0
+0 Rock 1 1
+0 Jack 5 0
+2 Jack
+0 Nacy 7 1
+0 Mike 3 0
+0 Jack 5 1
+3 Jim 5
+4 1431855720784 1431859810690
+4 1431850118784 1431859805088
+0 Jack 7 0
+0 Nacy 8 0
+4 1431852047784 1431859807017
+0 Jack 7 1
+0 Jim 3 1
+0 Jim 0 0
+3 Nacy 8
+0 Jack 1 0
+0 Nacy 8 1
+0 Matt 5 1
+0 Matt 7 0
+0 Jim 0 1
+4 1431856336784 1431859811306
+0 Kaz 2 1
+2 Kaz
+0 Rock 4 0
+0 Matt 7 1
+3 Rock 7
+2 Jim
+3 Kaz 5
+0 Matt 0 0
+0 Kaz 8 0
+0 Matt 0 1
+0 Matt 4 0
+1
+3 Nacy 3
+0 Jim 1 1
+0 Kaz 8 1
+0 Matt 4 1
+1
+0 Jim 7 0
+0 Jack 1 1
+1
+1
+0 Matt 6 1
+0 Rock 4 1
+0 Jim 7 1
+0 Nacy 7 0
+0 Jack 0 0
+2 Rock
+0 Mike 3 1
+3 Kaz 5
+2 Matt
+2 Kaz
+0 Rock 3 0
+0 Matt 8 0
+0 Jack 0 1
+0 Rock 1 0
+0 Mike 5 0
+2 Matt
+1
+0 Jack 8 0
+4 1431851298785 1431859806269
+0 Jim 4 0
+0 Kaz 0 0
+0 Rock 3 1
+0 Jim 2 0
+0 Kaz 0 1
+3 Nacy 5
+0 Mike 5 1
+3 Mike 0
+4 1431858819785 1431859813790
+4 1431854918785 1431859809889
+0 Jim 4 1
+0 Nacy 7 1
+0 Nacy 2 0
+0 Kaz 4 0
+2 Matt
+1
+0 Nacy 2 1
+3 Mike 7
+0 Rock 0 0
+0 Nacy 7 0
+0 Mike 5 0
+0 Kaz 3 0
+4 1431850482785 1431859805453
+0 Jack 8 1
+1
+0 Matt 8 1
+2 Mike
+1
+0 Jim 5 1
+4 1431859061785 1431859814032
+1
+0 Jack 2 0
+0 Nacy 7 1
+1
+0 Jim 7 0
+2 Nacy
+0 Kaz 4 1
+0 Kaz 6 0
+3 Jim 3
+0 Nacy 8 0
+0 Jim 7 1
+4 1431852722785 1431859807693
+0 Jim 3 0
+0 Rock 0 1
+0 Kaz 6 1
+0 Mike 5 1
+0 Matt 7 0
+0 Nacy 8 1
+0 Jim 3 1
+2 Jim
+1
+0 Jim 4 0
+1
+3 Rock 4
+0 Matt 7 1
+0 Rock 7 0
+4 1431851011785 1431859805982
+4 1431855384785 1431859810355
+0 Jim 4 1
+0 Jim 7 0
+0 Mike 0 0
+0 Kaz 3 0
+3 Rock 2
+0 Kaz 3 1
+2 Mike
+0 Jack 2 1
+0 Mike 0 1
+0 Kaz 1 0
+4 1431857596785 1431859812567
+0 Matt 4 0
+0 Jack 7 0
+0 Kaz 1 1
+0 Matt 4 1
+0 Matt 1 0
+3 Matt 8
+3 Matt 6
+2 Kaz
+1
+0 Rock 7 1
+0 Nacy 0 0
+0 Jim 7 1
+0 Matt 1 1
+4 1431859042785 1431859814013
+0 Mike 0 0
+0 Rock 1 0
+1
+3 Matt 5
+0 Jack 7 1
+0 Matt 3 0
+1
+0 Jack 4 0
+0 Kaz 8 0
+2 Kaz
+0 Matt 3 1
+4 1431852585785 1431859807556
+0 Mike 0 1
+3 Jim 6
+0 Rock 2 0
+1
+0 Mike 3 0
+3 Mike 7
+4 1431859115785 1431859814086
+3 Rock 6
+0 Jim 8 0
+0 Kaz 8 1
+0 Jim 8 1
+1
+0 Jim 0 1
+3 Nacy 7
+3 Jim 3
+1
+0 Mike 3 1
+0 Jim 8 0
+2 Jack
+2 Jack
+2 Rock
+0 Jack 4 1
+0 Jim 8 1
+1
+0 Matt 2 0
+0 Matt 2 1
+0 Mike 4 0
+3 Jim 5
+0 Matt 2 0
+0 Matt 2 1
+3 Jim 5
+4 1431852035785 1431859807006
+4 1431856043785 1431859811014
+0 Nacy 0 1
+0 Jim 2 0
+3 Jim 3
+3 Jim 8
+4 1431855811786 1431859810783
+1
+0 Rock 1 1
+0 Mike 4 1
+0 Mike 4 0
+0 Mike 4 1
+1
+0 Rock 4 0
+0 Jack 7 1
+0 Nacy 4 0
+0 Rock 4 1
+4 1431851980786 1431859806952
+0 Jack 0 0
+4 1431858021786 1431859812993
+2 Kaz
+0 Jack 0 1
+3 Mike 6
+0 Mike 1 0
+0 Rock 1 0
+0 Nacy 4 1
+0 Nacy 0 0
+0 Jim 2 1
+0 Nacy 0 1
+2 Jim
+0 Mike 1 1
+4 1431850140786 1431859805112
+0 Jack 6 0
+0 Kaz 6 0
+0 Jim 6 0
+0 Jim 6 1
+0 Jim 6 0
+0 Matt 2 0
+0 Rock 1 1
+2 Matt
+0 Mike 1 0
+0 Mike 1 1
+0 Matt 2 1
+0 Matt 1 0
+3 Jim 3
+3 Jim 0
+0 Nacy 2 1
+4 1431856874786 1431859811846
+0 Jack 6 1
+0 Mike 0 1
+0 Jim 6 1
+0 Jack 8 0
+0 Matt 1 1
+2 Mike
+0 Kaz 6 1
+0 Kaz 2 0
+3 Rock 2
+1
+3 Nacy 5
+0 Jack 8 1
+0 Nacy 6 0
+0 Jack 2 0
+0 Nacy 6 1
+3 Rock 4
+0 Nacy 2 0
+0 Kaz 2 1
+0 Matt 2 0
+0 Matt 2 1
+3 Jim 4
+1
+0 Jim 7 0
+3 Jack 4
+1
+0 Mike 2 0
+0 Jim 7 1
+0 Jim 2 0
+2 Nacy
+0 Jim 2 1
+0 Matt 3 0
+0 Nacy 1 0
+3 Kaz 8
+2 Kaz
+0 Rock 3 1
+0 Rock 5 1
+0 Jack 2 1
+0 Nacy 2 1
+1
+0 Kaz 1 0
+0 Mike 2 1
+1
+0 Matt 3 1
+0 Nacy 6 0
+2 Jim
+1
+3 Kaz 1
+0 Jim 5 0
+2 Mike
+0 Nacy 5 0
+4 1431850215786 1431859805187
+0 Mike 2 0
+0 Kaz 1 1
+0 Kaz 4 0
+0 Jim 5 1
+0 Rock 1 0
+0 Kaz 4 1
+0 Mike 2 1
+4 1431857281786 1431859812253
+2 Jim
+0 Matt 0 0
+3 Kaz 3
+0 Jim 8 0
+2 Rock
+0 Jim 8 1
+0 Rock 1 1
+0 Jack 8 1
+0 Rock 1 0
+3 Rock 0
+2 Mike
+3 Kaz 0
+0 Rock 1 1
+0 Matt 0 1
+0 Matt 7 1
+0 Rock 2 0
+0 Jack 4 0
+0 Rock 2 1
+0 Jim 0 0
+0 Mike 4 0
+0 Mike 4 1
+0 Rock 2 0
+0 Matt 0 1
+2 Matt
+4 1431858008786 1431859812980
+0 Jim 0 1
+0 Nacy 6 1
+2 Jim
+2 Jack
+3 Matt 2
+0 Jack 6 0
+0 Nacy 1 0
+0 Jack 4 1
+2 Mike
+0 Matt 3 0
+2 Nacy
+0 Kaz 2 0
+0 Nacy 1 1
+0 Kaz 2 1
+4 1431859200786 1431859814172
+0 Jack 4 1
+2 Mike
+4 1431849980786 1431859804952
+0 Matt 3 1
+3 Rock 2
+4 1431856035786 1431859811007
+0 Matt 2 0
+0 Rock 2 1
+0 Matt 2 1
+0 Matt 3 0
+0 Rock 6 0
+0 Mike 3 0
+3 Rock 8
+2 Mike
+0 Jack 8 0
+0 Jack 8 1
+0 Jack 8 0
+0 Mike 3 1
+3 Nacy 3
+0 Jim 2 1
+0 Kaz 8 0
+0 Jim 7 0
+1
+0 Nacy 4 0
+0 Jack 8 1
+0 Rock 6 1
+0 Nacy 3 0
+4 1431853010787 1431859807983
+0 Matt 3 1
+0 Matt 8 1
+0 Rock 3 0
+0 Jim 7 1
+4 1431850640787 1431859805613
+0 Jack 4 0
+2 Matt
+0 Matt 8 0
+3 Kaz 4
+1
+4 1431855505787 1431859810478
+4 1431854548787 1431859809521
+0 Matt 8 1
+0 Matt 6 0
+0 Matt 6 1
+0 Rock 4 0
+0 Jack 2 0
+3 Nacy 3
+0 Jim 6 0
+0 Jack 4 1
+2 Rock
+0 Mike 3 1
+0 Matt 2 0
+0 Jack 0 1
+0 Rock 3 1
+0 Rock 3 0
+4 1431856332787 1431859811305
+3 Mike 6
+0 Nacy 4 1
+0 Mike 4 0
+0 Nacy 8 0
+0 Jack 0 0
+4 1431850078787 1431859805051
+1
+0 Nacy 8 1
+4 1431852267787 1431859807240
+4 1431850949787 1431859805922
+0 Nacy 8 0
+3 Nacy 0
+2 Mike
+0 Matt 2 1
+4 1431852607787 1431859807580
+1
+0 Mike 4 1
+0 Mike 5 0
+4 1431859048787 1431859814021
+0 Rock 3 1
+0 Jim 6 1
+0 Jack 0 1
+0 Jim 0 0
+0 Jim 0 1
+0 Matt 4 0
+0 Jim 6 0
+0 Jack 0 0
+0 Nacy 1 0
+0 Rock 3 0
+1
+0 Nacy 8 1
+0 Matt 4 1
+3 Rock 5
+0 Jim 6 1
+0 Nacy 7 0
+0 Rock 3 1
+0 Jim 4 0
+3 Jack 1
+0 Rock 4 0
+2 Rock
+2 Mike
+0 Matt 5 0
+4 1431849828787 1431859804801
+0 Mike 8 0
+0 Rock 1 0
+2 Mike
+3 Nacy 3
+0 Jack 0 1
+1
+4 1431856774787 1431859811747
+3 Jim 7
+0 Jim 4 1
+0 Jack 2 1
+0 Kaz 8 1
+0 Jim 0 0
+2 Mike
