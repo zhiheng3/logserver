@@ -68,6 +68,8 @@ public final class WriteRequest extends Request {
 
 			writer.endWrite();
 			writer.close();
+			
+			ResponseUtil.response(id, "correct");
 
 		} catch (IOException e) {
 			e.printStackTrace();
