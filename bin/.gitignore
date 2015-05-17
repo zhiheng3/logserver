@@ -1,1 +1,3 @@
 /edu/
+#ignore .class file
+*.class
