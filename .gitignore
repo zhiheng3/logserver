@@ -1,4 +1,5 @@
 /edu/
 #ignore .class file
 *.class
-log.txt
+#ignore .txt file
+*.txt
