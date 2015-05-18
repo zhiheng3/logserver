@@ -8,7 +8,6 @@ public class ResponseUtil {
 	 * @param response
 	 */
 	public static void response(int requestId, String response) {
-		System.out.println("Response for:" + requestId);
-		System.out.println(response);
+		System.out.println("Response for:" + requestId + "\n" + response);
 	}
 }

@@ -4,8 +4,6 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
-import javax.sound.midi.MidiDevice.Info;
-
 import edu.thu.ss.logserver.request.WriteRequest.Type;
 import edu.thu.ss.logserver.request.util.ResponseUtil;
 
